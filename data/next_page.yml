@@ -1,0 +1,86 @@
+
+version: "3.1"
+
+nlu:
+- intent: next_page
+  examples: |
+		- So, moving on to the next slide, you'll see our Q1 performance metrics.
+		- Now, let's go to the next one, where we can compare year-over-year growth.
+		- Well, switching to the following chart, you know, it highlights our regional sales distribution.
+		- Okay, next up, we have our customer satisfaction analysis from the last quarter.
+		- Alright, let's move on to the subsequent slide, which shows our market share.
+		- So, on the next page, you'll notice the trends we've observed in consumer behavior.
+		- Now, turning to the next graph, we can see a significant shift in our online engagement.
+		- Well, the next chart, you know, will give us an insight into our competitive landscape.
+		- Okay, moving forward, the following data visualization focuses on our cost breakdown.
+		- Alright, on to the next one, where we'll delve into our advertising effectiveness.
+		- So, let's switch to the next slide, which demonstrates our revenue streams.
+		- Now, the subsequent chart will highlight our year-to-date achievements.
+		- Well, going to the next page, you know, we'll examine our operational efficiencies.
+		- Okay, coming up next, take a look at our social media impact over the past months.
+		- Alright, let's transition to the following visualization, focusing on our customer demographics.
+		- So, the next slide, as you can see, illustrates the breakdown of our R&D investments.
+		- Now, the next graph will walk us through our seasonal sales variations.
+		- Well, moving on to the next one, you'll see a comparison of our pre- and post-campaign results.
+		- Okay, let's advance to the following slide, where we discuss our supply chain optimization.
+		- Alright, next, we have an interesting analysis of our market penetration in different regions.
+		- Alright, moving on, let's take a look at our performance in different regions.
+		- So, the next slide shows our projected growth for the upcoming year.
+		- Well, the following chart really puts our progress into perspective.
+		- Okay, onto the next one where we'll see how our new product line is performing.
+		- Now, if we turn to the next page, we can see our customer retention rates.
+		- Alright, let's jump to the next graph that details our quarterly expenses.
+		- So, just moving ahead, the next visualization illustrates our digital marketing impact.
+		- Well, on the next slide, we have our international sales figures.
+		- Okay, flipping to the next one, here’s a breakdown of our revenue by product category.
+		- Now, the next chart, as you can see, highlights the age distribution of our user base.
+		- Alright, let’s proceed to the next slide, which is about our sustainability efforts.
+		- So, the subsequent graph will show how we've fared against our main competitors.
+		- Well, the next one will help us understand our seasonal staffing needs.
+		- Okay, next, we have an exciting comparison of this year's performance to last year's.
+		- Now, moving to the next page, we'll see the impact of recent market changes.
+		- Alright, let's turn to the next visualization showing our social media growth.
+		- So, going forward, the next slide presents our innovation roadmap for the next five years.
+		- Well, the following chart gives an overview of our customer journey.
+		- Okay, the next one, let’s see how our R&D investments have paid off.
+		- Now, the next graph will compare our online versus offline sales channels.
+		- Alright, as we move to the next slide, you'll see our expansion plans into new markets.
+		- So, the subsequent page outlines the key milestones we've achieved this quarter.
+		- Well, on the next chart, we’ll be looking at our employee satisfaction scores.
+		- Okay, the next one, here’s an in-depth look at our logistics efficiency.
+		- Now, let’s shift to the next slide, focusing on our partnership outcomes.
+		- Alright, moving ahead, the next graph will showcase our website traffic analytics.
+		- So, the next page is all about our customer service response times.
+		- Well, the following visualization reveals our market segmentation.
+		- Okay, next up, let’s check out our brand's performance across different media channels.
+		- Now, turning to the next chart, we can analyze the effectiveness of our recent ad campaign.
+		- Alright, let’s go on to the next slide for a closer look at our supply chain resilience.
+		- So, the subsequent graph will highlight the trends in our B2B partnerships.
+		- Well, the next one is about our year-on-year revenue growth.
+		- Okay, on the next page, let’s dive into the specifics of our product development cycle.
+		- Now, the next chart is particularly interesting, showing our customer lifetime value.
+		- Alright, moving forward, the next slide focuses on our competitive analysis.
+		- So, the next visualization will shed light on our market share evolution.
+		- Well, on the next slide, we’re going to look at our CSR initiatives.
+		- Okay, the next one is about the feedback we received from our latest customer survey.
+		- Now, let’s move to the next graph where we’ll see the breakdown of our operating costs.
+		- Next, let's examine the 2020 sales data.
+		- Now, focus on our Q3 customer growth.
+		- Moving to 2018's market share overview.
+		- Let's see April's impressive performance.
+		- Turning to our global reach in 2019.
+		- Next up, July's revenue comparison.
+		- Observe the 2021 holiday sales spike.
+		- Now, 2017 versus 2022 trends.
+		- Let's check the Q1 production stats.
+		- Moving on to the recent user feedback.
+		- See the Q4 profit margins now.
+		- Next, a quick look at 2023 forecasts.
+		- Now, highlighting our environmental initiatives.
+		- Check out the 2015 investment returns.
+		- Up next, June's digital campaign results.
+		- Turn to our 2022 customer demographics.
+		- Let's quickly review the Q2 outcomes.
+		- Now, the 2019 employee satisfaction rates.
+		- Next, a glance at October's expansion.
+		- See the 2016 versus 2021 comparison.

@@ -1,0 +1,23 @@
+version: "3.1"
+
+nlu:
+- intent: show_chart
+  examples: |
+    - The world my father told me about 50 years ago was a divied world, it looked like this.
+    - It looked like this chart.
+    - Now, let's look at the chart.
+    - Hi, welcome to the presentation, I'm going to show you the chart that outlines our financial data over the years.
+    - First, let's show the chart.
+    - Let's start with the chart.
+    - This chart shows the number of people who visited our website.
+    - I'm going to show you the chart that outlines our financial data over the years.
+    - I'm pulling up our main chart to start our analysis.
+    - Let's begin with the GDP chart on the screen now.
+    - I’ll now display the chart showing historical economic trends.
+    - Here's the chart that outlines our financial data over the years.
+    - Let's take a look at the chart illustrating international trade figures.
+    - I'm going to bring up the graph that compares different market sectors.
+    - We'll start by looking at the chart showing annual revenue changes.
+    - Here's our primary chart, showcasing the quarterly financial outcomes.
+    - I'll display the chart that highlights consumer spending patterns.
+    - Let’s view the chart that maps out industrial growth across continents.

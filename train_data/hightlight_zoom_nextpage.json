@@ -1,0 +1,844 @@
+{"id":276,"text":"Look at here, solar panels used to cost a lot, $115 per watt back in 1975.","cats":["highlight"],"entities":[[48,51,"yvalue"],[66,73,"xtick"]],"Comments":[]}
+{"id":277,"text":"Notice here, Japan was catching up.","cats":["highlight"],"entities":[[13,18,"xtick"]],"Comments":[]}
+{"id":278,"text":"Observe here, Iran was getting a little richer from oil, but still had short lives.","cats":["highlight"],"entities":[[14,18,"xtick"]],"Comments":[]}
+{"id":279,"text":"Focus on this part, the United States was in the front.","cats":["highlight"],"entities":[[24,37,"xtick"]],"Comments":[]}
+{"id":280,"text":"In 1950, roughly 25 percent of children worked.","cats":["highlight"],"entities":[[0,7,"xtick"]],"Comments":[]}
+{"id":281,"text":"Look at this trend, Internet is taking off fast.","cats":["highlight"],"entities":[[20,28,"xtick"]],"Comments":[]}
+{"id":282,"text":"Focus here, today only 9% remain where the majority used to be.","cats":["highlight"],"entities":[[23,25,"yvalue"]],"Comments":[]}
+{"id":283,"text":"Look at this, Shanghai has the same wealth and health as Italy today.","cats":["highlight"],"entities":[[14,22,"xtick"],[57,62,"xtick"]],"Comments":[]}
+{"id":284,"text":"Notice the pattern, South Africa follows.","cats":["highlight"],"entities":[[20,32,"xtick"]],"Comments":[]}
+{"id":285,"text":"Observe how the extreme poverty rate was 78% worldwide in the year 1800.","cats":["highlight"],"entities":[[41,44,"yvalue"],[62,71,"xtick"]],"Comments":[]}
+{"id":286,"text":"Highlight this, in 2022, 52 of the fortune 500 companies were led by woman.","cats":["highlight"],"entities":[[16,23,"xtick"]],"Comments":[]}
+{"id":287,"text":"Focus on this change, today only 0.7 billion are missing electricity.","cats":["highlight"],"entities":[[33,44,"yvalue"]],"Comments":[]}
+{"id":288,"text":"See this trend, the vast majority lived with less than $2.15 per day.","cats":["highlight"],"entities":[[45,54,"compare"],[56,60,"xtick"]],"Comments":[]}
+{"id":289,"text":"Look at the shift, cell phones and independent human rights institutions is moving too slow.","cats":["highlight"],"entities":[[19,30,"xtick"],[34,72,"xtick"]],"Comments":[]}
+{"id":290,"text":"Observe the trend, slum dwellings is moving the wrong way.","cats":["highlight"],"entities":[[19,33,"xtick"]],"Comments":[]}
+{"id":291,"text":"Notice this, Sweden, a total of almost 4500 people have lost their lives.","cats":["highlight"],"entities":[[13,19,"xtick"],[39,43,"yvalue"]],"Comments":[]}
+{"id":292,"text":"Focus on this, the scale for the y-axis on this chart.","cats":["highlight"],"entities":[[33,39,"yaxis"]],"Comments":[]}
+{"id":293,"text":"Look at this progression, five years into the race they should be here.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":294,"text":"Look at this, The world still looks like the developing and developed.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":295,"text":"Notice this, Capital ADDIS ABABA is already down here.","cats":["highlight"],"entities":[[13,26,"xtick"]],"Comments":[]}
+{"id":296,"text":"Observe here, But the remote Somali Religion of ETHIOPIA still have high child mortality.","cats":["highlight"],"entities":[[29,44,"xtick"]],"Comments":[]}
+{"id":297,"text":"In 1950 roughly 25 percent of children worked.","cats":["highlight"],"entities":[[0,7,"xtick"],[16,26,"yvalue"]],"Comments":[]}
+{"id":298,"text":"Look at this trend, Internet is taking off fast.","cats":["highlight"],"entities":[[20,28,"xtick"]],"Comments":[]}
+{"id":299,"text":"But inclusive employment is even slower.","cats":[],"entities":[],"Comments":[]}
+{"id":300,"text":"Look at this, Shanghai has the same wealth and health as Italy today.","cats":["highlight"],"entities":[[14,22,"xtick"],[57,62,"xtick"]],"Comments":[]}
+{"id":301,"text":"Notice the pattern, South Africa follows.","cats":["highlight"],"entities":[[20,32,"xtick"]],"Comments":[]}
+{"id":302,"text":"Observe how the extreme poverty rate was 78% worldwide in the year 1800.","cats":["highlight"],"entities":[[40,44,"yvalue"],[62,71,"xtick"]],"Comments":[]}
+{"id":303,"text":"Highlight this, in 2022, 52 of the fortune 500 companies were led by woman.","cats":["highlight"],"entities":[[16,24,"xtick"]],"Comments":[]}
+{"id":304,"text":"Look at the shift, cell phones and independent human rights institutions is moving too slow.","cats":["highlight"],"entities":[[19,30,"xtick"],[35,72,"xtick"]],"Comments":[]}
+{"id":305,"text":"Observe the trend, slum dwellings is moving the wrong way.","cats":["highlight"],"entities":[[19,33,"xtick"]],"Comments":[]}
+{"id":306,"text":"Notice this, Sweden, a total of almost 4500 people have lost their lives.","cats":["highlight"],"entities":[[13,19,"xtick"],[39,43,"yvalue"]],"Comments":[]}
+{"id":307,"text":"Look at this, on a linear scale, it looked like things were pretty bad in Italy.","cats":["highlight"],"entities":[[74,79,"xtick"]],"Comments":[]}
+{"id":308,"text":"Observe this part, this box shows where all countries.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":309,"text":"Notice the location, and that it where you find Sweden.","cats":["highlight"],"entities":[[48,54,"xtick"]],"Comments":[]}
+{"id":310,"text":"Look back, here we go you can see we go backwards into history.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":311,"text":"Compare this, and look here -- compare to the Philippines of today.","cats":["highlight"],"entities":[[46,57,"xtick"]],"Comments":[]}
+{"id":312,"text":"Notice the difference, and the red Toyota down there.","cats":["highlight"],"entities":[[35,41,"xtick"]],"Comments":[]}
+{"id":313,"text":"Focus on this, the size is the population - big China, big India here.","cats":["highlight"],"entities":[[48,53,"xtick"],[59,64,"xtick"]],"Comments":[]}
+{"id":314,"text":"Look at these examples, and these are countries from the United States here.","cats":["highlight"],"entities":[[57,70,"xtick"]],"Comments":[]}
+{"id":315,"text":"Observe this, many think that Afghanistan here and Congo.","cats":["highlight"],"entities":[[30,41,"xtick"],[51,56,"xtick"]],"Comments":[]}
+{"id":316,"text":"Notice the comparison, let me compare Senegal, a Muslim dominated country with a Christian dominated country, Ghana.","cats":[],"entities":[[38,45,"xtick"],[49,55,"xtick"],[110,115,"xtick"]],"Comments":[]}
+{"id":317,"text":"Look at this contrast, here we have Qatar today, and there we have Bangladesh today.","cats":["highlight"],"entities":[[36,41,"xtick"],[67,77,"xtick"]],"Comments":[]}
+{"id":318,"text":"Observe the trend, it's like in Colombia - it's 2.4 today.","cats":["highlight"],"entities":[[32,40,"xtick"],[48,51,"yvalue"]],"Comments":[]}
+{"id":319,"text":"Focus on these details, these are the quintiles of Uganda.","cats":["highlight"],"entities":[[51,57,"xtick"]],"Comments":[]}
+{"id":320,"text":"Look at this scale, so the first 100,000 cases take up this much space.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":321,"text":"Observe this date, for Turkey, March 19.","cats":["highlight"],"entities":[[23,29,"xtick"]],"Comments":[]}
+{"id":322,"text":"And 1957 - the United States had the same economy as Chile has today.","cats":["highlight"],"entities":[[4,8,"xtick"],[15,28,"xtick"],[53,58,"xtick"]],"Comments":[]}
+{"id":323,"text":"Take a look at this, compare Japan and South Korea earlier 2060.","cats":["highlight"],"entities":[[29,34,"xtick"],[39,50,"xtick"]],"Comments":[]}
+{"id":324,"text":"Focus on this, take a look at Japan and South Korea earlier2060.","cats":[],"entities":[],"Comments":[]}
+{"id":325,"text":"Observe this change, and the red Toyota down there.","cats":["highlight"],"entities":[[33,39,"xtick"]],"Comments":[]}
+{"id":326,"text":"Look at this difference, the size is the population - big China, big India here.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":327,"text":"Notice this point, and these are countries from the United States here.","cats":["highlight"],"entities":[[52,65,"xtick"]],"Comments":[]}
+{"id":328,"text":"Look at the contrast, many think that Afghanistan here and Congo.","cats":[],"entities":[],"Comments":[]}
+{"id":329,"text":"Observe this comparison, let me compare Senegal, a Muslim dominated country with a Christian dominated country, Ghana.","cats":[],"entities":[],"Comments":[]}
+{"id":330,"text":"Focus on this trend, here we have Qatar today, and there we have Bangladesh today.","cats":[],"entities":[],"Comments":[]}
+{"id":331,"text":"Notice this, these are the so-called \"developing\" countries.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":332,"text":"Look at this, it's like in Colombia - it's 2.4 today.","cats":[],"entities":[],"Comments":[]}
+{"id":333,"text":"Observe these details, these are the quintiles of Uganda.","cats":[],"entities":[],"Comments":[]}
+{"id":334,"text":"Focus on this scale, so the first 100,000 cases take up this much space.","cats":[],"entities":[],"Comments":[]}
+{"id":335,"text":"Notice this date, for Turkey, March 19.","cats":[],"entities":[],"Comments":[]}
+{"id":336,"text":"Look at this comparison, and 1957 - the United States had the same economy as Chile has today.","cats":[],"entities":[],"Comments":[]}
+{"id":337,"text":"Notice this trend, and the red Toyota down there.","cats":[],"entities":[],"Comments":[]}
+{"id":338,"text":"Observe this, and these are countries from the United States here.","cats":[],"entities":[],"Comments":[]}
+{"id":339,"text":"Focus on this, many think that Afghanistan here and Congo.","cats":[],"entities":[],"Comments":[]}
+{"id":340,"text":"Look at this comparison, let me compare Senegal, a Muslim dominated country with a Christian dominated country, Ghana.","cats":[],"entities":[],"Comments":[]}
+{"id":341,"text":"Notice this contrast, here we have Qatar today, and there we have Bangladesh today.","cats":[],"entities":[],"Comments":[]}
+{"id":342,"text":"Look at this trend, these are the so-called \"developing\" countries.","cats":[],"entities":[],"Comments":[]}
+{"id":343,"text":"Focus on this, it's like in Colombia - it's 2.4 today.","cats":[],"entities":[],"Comments":[]}
+{"id":344,"text":"Observe these details, these are the quintiles of Uganda.","cats":[],"entities":[],"Comments":[]}
+{"id":345,"text":"See this trend, the vast majority lived with less than $2.15 per day.","cats":["highlight"],"entities":[[45,54,"compare"],[56,60,"xtick"]],"Comments":[]}
+{"id":346,"text":"Focus here, today only 9% remain where the majority used to be.","cats":["highlight"],"entities":[[23,25,"yvalue"]],"Comments":[]}
+{"id":347,"text":"Focus on this change, today only 0.7 billion are missing electricity.","cats":["highlight"],"entities":[[33,44,"yvalue"]],"Comments":[]}
+{"id":348,"text":"Notice this, over 30% of the population now has access to advanced technology.","cats":["highlight"],"entities":[[13,17,"compare"],[18,21,"yvalue"]],"Comments":[]}
+{"id":349,"text":"Look at this area, where the percentage of renewable energy usage exceeds 50%.","cats":["highlight"],"entities":[[66,73,"compare"],[74,77,"yvalue"]],"Comments":[]}
+{"id":350,"text":"Focus on this point, where unemployment rates drop below 5%.","cats":[],"entities":[],"Comments":[]}
+{"id":351,"text":"Observe here, the revenue has grown to more than $1 billion this quarter.","cats":["highlight"],"entities":[[39,48,"compare"],[50,59,"yvalue"]],"Comments":[]}
+{"id":352,"text":"See this trend, where the average temperature rises above 20°C.","cats":["highlight"],"entities":[[52,57,"compare"],[58,60,"yvalue"]],"Comments":[]}
+{"id":353,"text":"Examine this part, where the market share of electric vehicles is less than 10%.","cats":["highlight"],"entities":[[66,75,"compare"],[76,79,"yvalue"]],"Comments":[]}
+{"id":354,"text":"Look at this, the cost of living has increased by over 15% since last year.","cats":["highlight"],"entities":[[50,54,"compare"],[55,58,"yvalue"]],"Comments":[]}
+{"id":355,"text":"Notice this segment, where customer satisfaction scores fall below 70%.","cats":["highlight"],"entities":[[61,66,"compare"],[67,70,"yvalue"]],"Comments":[]}
+{"id":356,"text":"Focus here, where the number of subscribers surpasses 2 million.","cats":["highlight"],"entities":[[44,53,"compare"],[54,63,"yvalue"]],"Comments":[]}
+{"id":357,"text":"Observe this change, where the percentage of online sales reaches 40%.","cats":["highlight"],"entities":[[66,69,"yvalue"]],"Comments":[]}
+{"id":358,"text":"See this line, indicating the inflation rate is now lower than 2%.","cats":["highlight"],"entities":[[52,62,"compare"],[63,65,"yvalue"]],"Comments":[]}
+{"id":359,"text":"Look at this growth, where the investment returns exceed 8%.","cats":["highlight"],"entities":[[50,56,"compare"],[57,59,"yvalue"]],"Comments":[]}
+{"id":360,"text":"Notice this decrease, where water consumption per capita drops under 100 liters a day.","cats":["highlight"],"entities":[[63,68,"compare"],[69,72,"yvalue"]],"Comments":[]}
+{"id":361,"text":"Focus on this area, where the literacy rate is above 90%.","cats":["highlight"],"entities":[[47,52,"compare"],[53,56,"yvalue"]],"Comments":[]}
+{"id":362,"text":"Observe this peak, where daily internet usage exceeds 5 hours per person.","cats":["highlight"],"entities":[[46,53,"compare"],[54,56,"yvalue"]],"Comments":[]}
+{"id":363,"text":"See this drop, where the poverty rate falls below 15%.","cats":["highlight"],"entities":[[44,49,"compare"]],"Comments":[]}
+{"id":364,"text":"Examine this point, where the average life expectancy reaches 80 years.","cats":["highlight"],"entities":[[62,64,"yvalue"]],"Comments":[]}
+{"id":365,"text":"Look at this trend, where carbon emissions per capita are less than 4 tonnes annually.","cats":["highlight"],"entities":[[58,67,"compare"],[68,70,"yvalue"]],"Comments":[]}
+{"id":366,"text":"Notice this rise, where the smartphone penetration rate goes over 70%.","cats":["highlight"],"entities":[[61,65,"compare"],[66,69,"yvalue"]],"Comments":[]}
+{"id":367,"text":"Focus on this milestone, where the number of active users hits 1 billion.","cats":["highlight"],"entities":[[63,72,"yvalue"]],"Comments":[]}
+{"id":368,"text":"Focus on this part, Today there are 400 times cheaper.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":369,"text":"Look at this progression, five years into the race they should be here.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":370,"text":"Notice this, 100 times 10 is 1000, times 10 is 10000, times 10 is 100000.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":371,"text":"Focus here, we see that richest, to the right here.","cats":["highlight"],"entities":[[40,45,"location"]],"Comments":[]}
+{"id":372,"text":"These are the so-called \"developing\" countries.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":373,"text":"Look at this scale, so the first 100,000 cases take up this much space.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":374,"text":"up here is 100 million, a billion, 10 billion, 100 billion.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":375,"text":"Look at this part of the chart, where you can see a notable shift in the trend.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":376,"text":"Focus on this area right here; it's interesting to observe the pattern that emerges.","cats":["highlight"],"entities":[[19,24,"location"]],"Comments":[]}
+{"id":377,"text":"Notice how in this section, there's a significant change from the previous data.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":378,"text":"Observe this segment of the graph, where the lines start to diverge.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":379,"text":"Let's concentrate on this portion of the diagram; it highlights a key aspect of our discussion.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":380,"text":"Pay attention to this region of the chart, where we see a distinct anomaly.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":381,"text":"Direct your eyes to this part; it's crucial for understanding the overall context.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":382,"text":"See this part of the graph? It shows a unique development that's worth discussing.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":383,"text":"Examine this quadrant here, especially how the trends interact.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":384,"text":"Look closely at this span of the graph, where the rate of change accelerates.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":385,"text":"Focus on the upper right corner of the chart, where there's a subtle but important trend.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":386,"text":"Look towards the lower part of the graph, where we see an unexpected dip.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":387,"text":"Notice this stretch here, where the data starts to level off.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":388,"text":"Observe this area, particularly where the curve peaks.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":389,"text":"Let's examine this side of the chart, where there's a notable fluctuation.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":390,"text":"Pay attention to this central part, where the data points cluster closely.","cats":["highlight"],"entities":[[22,29,"location"]],"Comments":[]}
+{"id":391,"text":"Direct your gaze to this edge, where the pattern shifts dramatically.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":392,"text":"See this section of the graph? It's critical to our understanding of the overall trend.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":393,"text":"Examine this band across the chart, where there's a clear break from the norm.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":394,"text":"Look closely at this juncture in the graph, where the trajectory changes course.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":395,"text":"Focus on the upper right corner of the chart, where there's a subtle but important trend.","cats":["highlight"],"entities":[[13,24,"location"]],"Comments":[]}
+{"id":396,"text":"Look towards the lower part of the graph, where we see an unexpected dip.","cats":["highlight"],"entities":[[17,27,"location"]],"Comments":[]}
+{"id":397,"text":"Notice this stretch here, where the data starts to level off.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":398,"text":"Observe this area, particularly where the curve peaks.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":399,"text":"Let's examine this side of the chart, where there's a notable fluctuation.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":400,"text":"Pay attention to this central part, where the data points cluster closely.","cats":["highlight"],"entities":[[22,29,"location"]],"Comments":[]}
+{"id":401,"text":"Direct your gaze to this edge, where the pattern shifts dramatically.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":402,"text":"See this section of the graph? It's critical to our understanding of the overall trend.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":403,"text":"Examine this band across the chart, where there's a clear break from the norm.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":404,"text":"Look closely at this juncture in the graph, where the trajectory changes course.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":405,"text":"Let's highlight the top left corner to explore the early phase of this trend.","cats":["highlight"],"entities":[[20,35,"location"]],"Comments":[]}
+{"id":406,"text":"Highlight the entire right side to see where multiple trends converge.","cats":["highlight"],"entities":[[21,31,"location"]],"Comments":[]}
+{"id":407,"text":"Focus on the bottom right area to highlight the details of the recent data points.","cats":["highlight"],"entities":[[13,30,"location"]],"Comments":[]}
+{"id":408,"text":"Highlight the upper half of the chart for a comparative overview.","cats":["highlight"],"entities":[[14,24,"location"]],"Comments":[]}
+{"id":409,"text":"Let's concentrate on the lower left quadrant to examine the outlier data.","cats":["highlight"],"entities":[[24,35,"location"]],"Comments":[]}
+{"id":410,"text":"Highlight the left side to understand the overall pattern.","cats":["highlight"],"entities":[[14,23,"location"]],"Comments":[]}
+{"id":411,"text":"Focus on the central region, just below the top section, for a clearer view.","cats":["highlight"],"entities":[[13,27,"location"],[44,55,"location"]],"Comments":[]}
+{"id":412,"text":"Highlight the top right corner to see the peak values.","cats":["highlight"],"entities":[[13,30,"location"]],"Comments":[]}
+{"id":413,"text":"Emphasize the bottom half of the graph for a broader perspective.","cats":["highlight"],"entities":[[13,25,"location"]],"Comments":[]}
+{"id":414,"text":"Let's take a closer look at the left middle section to notice the subtle changes.","cats":["highlight"],"entities":[[32,51,"location"]],"Comments":[]}
+{"id":415,"text":"Highlight the upper central part to dissect the complex interactions there.","cats":["highlight"],"entities":[[14,27,"location"]],"Comments":[]}
+{"id":416,"text":"Emphasize how the lower right section contrasts with the rest.","cats":["highlight"],"entities":[[17,37,"location"]],"Comments":[]}
+{"id":417,"text":"Focus on the right edge, especially the lower area, to analyze the decline.","cats":["highlight"],"entities":[[13,23,"location"],[40,50,"location"]],"Comments":[]}
+{"id":418,"text":"Highlight the entire left half to see the long-term trends.","cats":["highlight"],"entities":[[20,31,"location"]],"Comments":[]}
+{"id":419,"text":"Concentrate on the very bottom, in the center, to pinpoint the recent shift.","cats":["highlight"],"entities":[[24,30,"location"]],"Comments":[]}
+{"id":420,"text":"Highlight the top half, focusing on the right-hand side, for a comprehensive view.","cats":["highlight"],"entities":[[14,22,"location"],[40,55,"location"]],"Comments":[]}
+{"id":421,"text":"Focus on the left bottom corner to closely observe the starting point.","cats":["highlight"],"entities":[[13,31,"location"]],"Comments":[]}
+{"id":422,"text":"Emphasize the entire right portion for a comprehensive overview.","cats":["highlight"],"entities":[[21,34,"location"]],"Comments":[]}
+{"id":423,"text":"Highlight the top section, near the left edge, to trace the initial growth.","cats":["highlight"],"entities":[[14,25,"location"],[36,45,"location"]],"Comments":[]}
+{"id":424,"text":"Emphasize the lower central area in relation to the overall data set.","cats":["highlight"],"entities":[[14,32,"location"]],"Comments":[]}
+{"id":425,"text":"Highlight the segment on the upper right to observe the latest peak in the data.","cats":["highlight"],"entities":[[29,40,"location"]],"Comments":[]}
+{"id":426,"text":"Focus on the lower central part, where there's a noticeable dip in the values.","cats":["highlight"],"entities":[[13,26,"location"]],"Comments":[]}
+{"id":427,"text":"Emphasize the leftmost column to understand the initial stages of our analysis.","cats":["highlight"],"entities":[[14,23,"location"]],"Comments":[]}
+{"id":428,"text":"Concentrate on the top middle area to see where the data starts to diverge.","cats":["highlight"],"entities":[[19,34,"location"]],"Comments":[]}
+{"id":429,"text":"Highlight the bottom left corner for a detailed look at the declining trend.","cats":["highlight"],"entities":[[14,32,"location"]],"Comments":[]}
+{"id":430,"text":"Observe the right middle section, where the data abruptly changes.","cats":["highlight"],"entities":[[12,32,"location"]],"Comments":[]}
+{"id":431,"text":"Focus on the central part of the graph, right at the heart of the data.","cats":["highlight"],"entities":[[13,26,"location"],[40,59,"location"]],"Comments":[]}
+{"id":432,"text":"Highlight the entire lower section to understand the overall decrease.","cats":["highlight"],"entities":[[21,34,"location"]],"Comments":[]}
+{"id":433,"text":"Emphasize the upper left quadrant to see the early success in the data.","cats":["highlight"],"entities":[[14,24,"location"]],"Comments":[]}
+{"id":434,"text":"Concentrate on the right bottom area, where the trend reverses.","cats":["highlight"],"entities":[[19,36,"location"]],"Comments":[]}
+{"id":435,"text":"Highlight the middle left side to track the gradual increase.","cats":["highlight"],"entities":[[14,30,"location"]],"Comments":[]}
+{"id":436,"text":"Focus on the top edge, spanning the entire length, for a broad overview.","cats":["highlight"],"entities":[[13,21,"location"]],"Comments":[]}
+{"id":437,"text":"Emphasize the bottom right, where the data culminates in a key point.","cats":["highlight"],"entities":[[14,26,"location"]],"Comments":[]}
+{"id":438,"text":"Concentrate on the left central region to dissect the complex pattern.","cats":["highlight"],"entities":[[19,38,"location"]],"Comments":[]}
+{"id":439,"text":"Highlight the entire upper section for an overview of the high points.","cats":["highlight"],"entities":[[14,34,"location"]],"Comments":[]}
+{"id":440,"text":"Focus on the lower right quadrant, where the pattern starts to stabilize.","cats":["highlight"],"entities":[[13,24,"location"]],"Comments":[]}
+{"id":441,"text":"Emphasize the left edge, covering top to bottom, to see the overall progression.","cats":["highlight"],"entities":[[14,23,"location"]],"Comments":[]}
+{"id":442,"text":"Concentrate on the middle right side to observe the most volatile section.","cats":["highlight"],"entities":[[18,36,"location"]],"Comments":[]}
+{"id":443,"text":"Highlight the bottom middle, where the data reaches its lowest point.","cats":["highlight"],"entities":[[14,27,"location"]],"Comments":[]}
+{"id":444,"text":"Emphasize the top right corner for an in-depth analysis of the peak phase.","cats":["highlight"],"entities":[[14,30,"location"]],"Comments":[]}
+{"id":445,"text":"Look carefully at the upper right segment to observe the latest peak in the data.","cats":["highlight"],"entities":[[21,42,"location"]],"Comments":[]}
+{"id":446,"text":"Look at the lower central part, where there's a noticeable dip in the values.","cats":["highlight"],"entities":[[12,30,"location"]],"Comments":[]}
+{"id":447,"text":"See here, the leftmost column, to understand the initial stages of our analysis.","cats":["highlight"],"entities":[[14,29,"location"]],"Comments":[]}
+{"id":448,"text":"Look here at the top middle area to see where the data starts to diverge.","cats":["highlight"],"entities":[[17,32,"location"]],"Comments":[]}
+{"id":449,"text":"Look carefully at the bottom left corner for a detailed look at the declining trend.","cats":["highlight"],"entities":[[22,40,"location"]],"Comments":[]}
+{"id":450,"text":"See here, the right middle section, where the data abruptly changes.","cats":["highlight"],"entities":[[14,34,"location"]],"Comments":[]}
+{"id":451,"text":"Look at the central part of the graph, right at the heart of the data.","cats":["highlight"],"entities":[[12,24,"location"],[38,57,"location"]],"Comments":[]}
+{"id":452,"text":"Look carefully at the entire lower section to understand the overall decrease.","cats":["highlight"],"entities":[[29,42,"location"]],"Comments":[]}
+{"id":453,"text":"See here, the upper left quadrant, to see the early success in the data.","cats":["highlight"],"entities":[[14,24,"location"]],"Comments":[]}
+{"id":454,"text":"Look at the right bottom area, where the trend reverses.","cats":["highlight"],"entities":[[12,29,"location"]],"Comments":[]}
+{"id":455,"text":"Look carefully at the middle left side to track the gradual increase.","cats":["highlight"],"entities":[[22,38,"location"]],"Comments":[]}
+{"id":456,"text":"Look at the top edge, spanning the entire length, for a broad overview.","cats":["highlight"],"entities":[[12,20,"location"]],"Comments":[]}
+{"id":457,"text":"See here, the bottom right, where the data culminates in a key point.","cats":["highlight"],"entities":[[14,26,"location"]],"Comments":[]}
+{"id":458,"text":"Look here at the left central region to dissect the complex pattern.","cats":["highlight"],"entities":[[17,36,"location"]],"Comments":[]}
+{"id":459,"text":"Look carefully at the entire upper section for an overview of the high points.","cats":["highlight"],"entities":[[22,42,"location"]],"Comments":[]}
+{"id":460,"text":"Look at the lower right quadrant, where the pattern starts to stabilize.","cats":["highlight"],"entities":[[12,24,"location"]],"Comments":[]}
+{"id":461,"text":"See here, the left edge, covering top to bottom, to see the overall progression.","cats":["highlight"],"entities":[[14,23,"location"]],"Comments":[]}
+{"id":462,"text":"Look here at the middle right side to observe the most volatile section.","cats":["highlight"],"entities":[[17,34,"location"]],"Comments":[]}
+{"id":463,"text":"Look carefully at the bottom middle, where the data reaches its lowest point.","cats":["highlight"],"entities":[[22,35,"location"]],"Comments":[]}
+{"id":464,"text":"See here, the top right corner for an in-depth analysis of the peak phase.","cats":["highlight"],"entities":[[14,30,"location"]],"Comments":[]}
+{"id":465,"text":"Look at the year 1800, where the income starts at 985.","cats":["highlight"],"entities":[[12,21,"xtick"],[50,53,"yvalue"]],"Comments":[]}
+{"id":466,"text":"Notice the steady income around 985 during the early 1800s.","cats":["highlight"],"entities":[[32,35,"yvalue"],[53,57,"xtick"]],"Comments":[]}
+{"id":467,"text":"Observe the slight increase in income to 986 by 1830.","cats":["highlight"],"entities":[[41,44,"yvalue"],[48,52,"xtick"]],"Comments":[]}
+{"id":468,"text":"See here, the year 1860, where income begins to rise, reaching 1023.","cats":["highlight"],"entities":[[14,23,"xtick"],[63,67,"yvalue"]],"Comments":[]}
+{"id":469,"text":"Focus on 1870, a notable year where income jumps to 1099.","cats":["highlight"],"entities":[[6,13,"xtick"],[52,56,"yvalue"]],"Comments":[]}
+{"id":470,"text":"Look at the decline in income to 894 by 1900.","cats":["highlight"],"entities":[[33,36,"yvalue"],[40,44,"xtick"]],"Comments":[]}
+{"id":471,"text":"See the fluctuation around the early 1900s, with income dipping and rising slightly.","cats":["highlight"],"entities":[[37,41,"yvalue"]],"Comments":[]}
+{"id":472,"text":"Notice the significant drop in income to 535 by 1950.","cats":["highlight"],"entities":[[41,44,"yvalue"],[48,52,"xtick"]],"Comments":[]}
+{"id":473,"text":"Focus on the rapid recovery in the 1950s, with income rising to 706 by 1955.","cats":["highlight"],"entities":[[35,39,"xtick"],[64,67,"yvalue"],[71,75,"xtick"]],"Comments":[]}
+{"id":474,"text":"Observe the year 1960, where income falls back to 889.","cats":["highlight"],"entities":[[12,21,"xtick"],[50,53,"yvalue"]],"Comments":[]}
+{"id":475,"text":"See the sharp decline in 1961, with income dropping to 558.","cats":["highlight"],"entities":[[25,29,"xtick"],[55,58,"yvalue"]],"Comments":[]}
+{"id":476,"text":"Look at the steady increase in income during the 1960s, reaching 826 by 1966.","cats":["highlight"],"entities":[[49,53,"xtick"],[65,68,"yvalue"],[72,76,"xtick"]],"Comments":[]}
+{"id":477,"text":"Focus on the year 1970, where income rises to 848.","cats":["highlight"],"entities":[[18,22,"xtick"],[46,49,"yvalue"]],"Comments":[]}
+{"id":478,"text":"Notice the steady growth in the 1970s, reaching 920 by 1975.","cats":["highlight"],"entities":[[32,36,"xtick"],[48,51,"yvalue"],[55,59,"xtick"]],"Comments":[]}
+{"id":479,"text":"Look at the year 1984, where there's a significant jump to 1456.","cats":["highlight"],"entities":[[12,21,"xtick"],[59,63,"yvalue"]],"Comments":[]}
+{"id":480,"text":"Observe the steady increase through the 1980s, reaching 1604 by 1986.","cats":["highlight"],"entities":[[40,44,"xtick"],[56,60,"yvalue"],[64,68,"xtick"]],"Comments":[]}
+{"id":481,"text":"See here, the year 1990, with an income of 1516.","cats":["highlight"],"entities":[[14,23,"xtick"],[43,47,"yvalue"]],"Comments":[]}
+{"id":482,"text":"Focus on the rapid growth in the 1990s, reaching 2323 by 1994.","cats":["highlight"],"entities":[[33,37,"xtick"],[49,53,"yvalue"],[57,61,"xtick"]],"Comments":[]}
+{"id":483,"text":"Notice the year 2000, marking a significant milestone with an income of 3678.","cats":["highlight"],"entities":[[11,20,"xtick"],[72,76,"yvalue"]],"Comments":[]}
+{"id":484,"text":"Look at the consistent growth in the 21st century, reaching 13334 by 2015.","cats":["highlight"],"entities":[[60,65,"yvalue"],[69,73,"xtick"]],"Comments":[]}
+{"id":485,"text":"Look at Monday, where we see a significant increase in activity.","cats":["highlight"],"entities":[[5,14,"xtick"]],"Comments":[]}
+{"id":486,"text":"Notice how on Tuesday, the numbers start to peak, possibly reaching a high point.","cats":["highlight"],"entities":[[11,21,"xtick"]],"Comments":[]}
+{"id":487,"text":"Focus on Wednesday, where there's a noticeable dip compared to the beginning of the week.","cats":["highlight"],"entities":[[9,18,"xtick"]],"Comments":[]}
+{"id":488,"text":"Observe the trend on Thursday, which shows a steady rise in the data.","cats":["highlight"],"entities":[[21,29,"xtick"]],"Comments":[]}
+{"id":489,"text":"See here on Friday, where the values reach their weekly maximum.","cats":["highlight"],"entities":[[12,18,"xtick"]],"Comments":[]}
+{"id":490,"text":"Look at the sharp decline on Saturday, indicating a change in the pattern.","cats":["highlight"],"entities":[[29,37,"xtick"]],"Comments":[]}
+{"id":491,"text":"Notice how Sunday's data contrasts with the rest of the week, showing a unique trend.","cats":["highlight"],"entities":[[11,19,"xtick"]],"Comments":[]}
+{"id":492,"text":"Focus on the weekend, specifically Saturday and Sunday, where the trends differ significantly from weekdays.","cats":["highlight"],"entities":[[35,43,"xtick"],[48,54,"xtick"]],"Comments":[]}
+{"id":493,"text":"Observe the midweek trend, especially on Wednesday and Thursday, where there's a consistent pattern.","cats":["highlight"],"entities":[[41,50,"xtick"],[55,63,"xtick"]],"Comments":[]}
+{"id":494,"text":"See the fluctuation from Monday to Wednesday, highlighting a volatile start to the week.","cats":["highlight"],"entities":[[25,31,"xtick"],[35,44,"xtick"]],"Comments":[]}
+{"id":495,"text":"Look at how the data stabilizes towards the end of the week, particularly on Friday.","cats":["highlight"],"entities":[[77,83,"xtick"]],"Comments":[]}
+{"id":496,"text":"Notice the gradual increase in values as the week progresses, peaking on Friday.","cats":["highlight"],"entities":[[73,79,"xtick"]],"Comments":[]}
+{"id":497,"text":"Focus on the drop in numbers on Sunday, concluding the week with a significant change.","cats":["highlight"],"entities":[[32,38,"xtick"]],"Comments":[]}
+{"id":498,"text":"Observe the consistent rise from Monday through Wednesday, indicating a midweek surge.","cats":["highlight"],"entities":[[33,39,"xtick"],[48,57,"xtick"]],"Comments":[]}
+{"id":499,"text":"See here how Thursday acts as a turning point in the week's trend.","cats":["highlight"],"entities":[[13,21,"xtick"]],"Comments":[]}
+{"id":500,"text":"Look at the weekend, especially Sunday, where the pattern deviates from the rest of the week.","cats":["highlight"],"entities":[[32,38,"xtick"]],"Comments":[]}
+{"id":501,"text":"Notice how the peak on Tuesday is followed by a plateau for the rest of the week.","cats":["highlight"],"entities":[[23,30,"xtick"]],"Comments":[]}
+{"id":502,"text":"Focus on the gradual decline from Wednesday, leading into a quieter weekend.","cats":["highlight"],"entities":[[34,43,"xtick"]],"Comments":[]}
+{"id":503,"text":"Observe the spike in data on Friday, suggesting increased activity or interest.","cats":["highlight"],"entities":[[29,35,"xtick"]],"Comments":[]}
+{"id":504,"text":"See the contrast between the busy weekdays and the more relaxed pace of the weekend.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":505,"text":"Compare Monday's data with Friday's, noting the significant difference in values.","cats":["highlight"],"entities":[[8,16,"xtick"],[27,35,"xtick"]],"Comments":[]}
+{"id":506,"text":"Look at the contrast between Tuesday and Thursday, where the trends show opposite behaviors.","cats":["highlight"],"entities":[[29,36,"xtick"],[41,49,"xtick"]],"Comments":[]}
+{"id":507,"text":"Compare the activity levels on Wednesday and Sunday to understand the weekly pattern.","cats":["highlight"],"entities":[[31,40,"xtick"],[45,51,"xtick"]],"Comments":[]}
+{"id":508,"text":"Observe the differences between Monday and Saturday, highlighting the change in trends.","cats":["highlight"],"entities":[[32,38,"xtick"],[43,51,"xtick"]],"Comments":[]}
+{"id":509,"text":"Compare the midweek days, particularly Wednesday and Thursday, to see the consistency in data.","cats":["highlight"],"entities":[[39,48,"xtick"],[53,61,"xtick"]],"Comments":[]}
+{"id":510,"text":"Notice the variation between the start of the week (Monday) and the end (Sunday).","cats":["highlight"],"entities":[[52,58,"xtick"],[73,79,"xtick"]],"Comments":[]}
+{"id":511,"text":"Look at how the data on Tuesday compares with that of Friday, showing a week's progression.","cats":["highlight"],"entities":[[24,31,"xtick"],[54,60,"xtick"]],"Comments":[]}
+{"id":512,"text":"Compare the weekend days, Saturday and Sunday, to understand the shift from weekdays.","cats":["highlight"],"entities":[[26,34,"xtick"],[39,45,"xtick"]],"Comments":[]}
+{"id":513,"text":"Observe the differences in numbers between Monday and Wednesday, noting the midweek change.","cats":["highlight"],"entities":[[43,49,"xtick"],[54,63,"xtick"]],"Comments":[]}
+{"id":514,"text":"Compare the trends from Tuesday to Thursday, focusing on the midweek dynamics.","cats":["highlight"],"entities":[[24,31,"xtick"],[35,43,"xtick"]],"Comments":[]}
+{"id":515,"text":"Notice how the data on Friday contrasts with that on Monday, marking the week's range.","cats":["highlight"],"entities":[[23,29,"xtick"],[53,59,"xtick"]],"Comments":[]}
+{"id":516,"text":"Look at the comparison between Wednesday and Saturday, showing a transition to the weekend.","cats":["highlight"],"entities":[[31,40,"xtick"],[45,53,"xtick"]],"Comments":[]}
+{"id":517,"text":"Compare the activity levels from Thursday to Sunday, observing the weekend effect.","cats":["highlight"],"entities":[[33,41,"xtick"],[45,51,"xtick"]],"Comments":[]}
+{"id":518,"text":"Observe how Monday's data contrasts with Thursday's, indicating a shift in the week.","cats":["highlight"],"entities":[[12,20,"xtick"],[41,51,"xtick"]],"Comments":[]}
+{"id":519,"text":"Compare Saturday with Sunday, focusing on the subtle changes in weekend behavior.","cats":["highlight"],"entities":[[8,16,"xtick"],[22,28,"xtick"]],"Comments":[]}
+{"id":520,"text":"Notice the difference in trends from the beginning (Monday) to the middle (Wednesday) of the week.","cats":["highlight"],"entities":[[52,58,"xtick"],[75,84,"xtick"]],"Comments":[]}
+{"id":521,"text":"Look at how the data on Tuesday compares with Saturday, showing a weekday versus weekend pattern.","cats":["highlight"],"entities":[[24,31,"xtick"],[46,54,"xtick"]],"Comments":[]}
+{"id":522,"text":"Compare the consistency between Wednesday and Friday, understanding the weekly peak.","cats":["highlight"],"entities":[[32,41,"xtick"],[46,52,"xtick"]],"Comments":[]}
+{"id":523,"text":"Observe the transition from Thursday to Sunday, highlighting the end-of-week trend.","cats":["highlight"],"entities":[[28,36,"xtick"],[40,46,"xtick"]],"Comments":[]}
+{"id":524,"text":"Notice how Monday and Tuesday contrast with the rest of the week, particularly with Friday and Saturday.","cats":["highlight"],"entities":[[11,17,"xtick"],[22,29,"xtick"],[84,90,"xtick"],[95,103,"xtick"]],"Comments":[]}
+{"id":525,"text":"In 1800, the data shows an initial value, setting the baseline for the century.","cats":["highlight"],"entities":[[0,7,"xtick"]],"Comments":[]}
+{"id":526,"text":"In 1850, compare how the numbers barely changed from 1800, indicating slow growth.","cats":["highlight"],"entities":[[0,7,"xtick"],[53,57,"xtick"]],"Comments":[]}
+{"id":527,"text":"In 1900, observe the slight decline from the previous decades.","cats":["highlight"],"entities":[[0,7,"xtick"]],"Comments":[]}
+{"id":528,"text":"In 1950, notice the significant drop, marking a pivotal year in the data.","cats":["highlight"],"entities":[[0,7,"xtick"]],"Comments":[]}
+{"id":529,"text":"In 1970, compare the gradual increase from two decades earlier.","cats":["highlight"],"entities":[[0,7,"xtick"]],"Comments":[]}
+{"id":530,"text":"In 1990, observe the upward trend, a key turning point in the data.","cats":["highlight"],"entities":[[0,7,"xtick"]],"Comments":[]}
+{"id":531,"text":"In 2000, notice how the values significantly differ from a century ago.","cats":["highlight"],"entities":[[0,7,"xtick"]],"Comments":[]}
+{"id":532,"text":"In 2010, compare the rapid growth with the slow progress of the early 1900s.","cats":["highlight"],"entities":[[0,7,"xtick"],[70,74,"xtick"]],"Comments":[]}
+{"id":533,"text":"In 2015, observe the latest data point, showing the most recent trend.","cats":["highlight"],"entities":[[0,7,"xtick"]],"Comments":[]}
+{"id":534,"text":"On Monday, look at the starting point of the week's data.","cats":["highlight"],"entities":[[3,9,"xtick"]],"Comments":[]}
+{"id":535,"text":"On Tuesday, compare the slight increase from Monday, indicating a midweek rise.","cats":["highlight"],"entities":[[3,10,"xtick"],[45,51,"xtick"]],"Comments":[]}
+{"id":536,"text":"On Wednesday, observe the peak of midweek activity.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":537,"text":"On Thursday, notice the consistency with Wednesday's data, showing midweek stability.","cats":["highlight"],"entities":[[3,11,"xtick"]],"Comments":[]}
+{"id":538,"text":"On Friday, compare the peak with earlier in the week, marking the end of the workweek.","cats":["highlight"],"entities":[[3,9,"xtick"]],"Comments":[]}
+{"id":539,"text":"On Saturday, observe the transition from workweek to weekend.","cats":["highlight"],"entities":[[3,11,"xtick"]],"Comments":[]}
+{"id":540,"text":"On Sunday, notice the contrast with the rest of the week, typically showing a different trend.","cats":["highlight"],"entities":[[3,9,"xtick"]],"Comments":[]}
+{"id":541,"text":"Notice how in 2000, the data shows a significant increase to fifty percent.","cats":["highlight"],"entities":[[11,18,"xtick"]],"Comments":[]}
+{"id":542,"text":"Observe the steady rise to 30% in the mid-1990s, indicating a gradual improvement.","cats":["highlight"],"entities":[[27,30,"yvalue"],[34,47,"xtick"]],"Comments":[]}
+{"id":543,"text":"In 2010, focus on the peak where the percentage reaches seventy-five percent.","cats":["highlight"],"entities":[[0,7,"xtick"],[56,76,"yvalue"]],"Comments":[]}
+{"id":544,"text":"Look at the decline in 2005, where the figure drops to 20%.","cats":["highlight"],"entities":[[20,27,"xtick"],[55,58,"yvalue"]],"Comments":[]}
+{"id":545,"text":"Compare the data from 1990, showing a modest ten percent, to that of 2000.","cats":["highlight"],"entities":[[22,25,"xtick"],[44,56,"yvalue"]],"Comments":[]}
+{"id":546,"text":"In 2015, see how the percentage stabilizes at around 60%.","cats":["highlight"],"entities":[[0,7,"xtick"],[53,56,"yvalue"]],"Comments":[]}
+{"id":547,"text":"Notice the gradual increase from twenty-five percent in 1980 to fifty percent in 1990.","cats":["highlight"],"entities":[[33,52,"yvalue"],[53,60,"xtick"],[63,78,"yvalue"],[78,85,"xtick"]],"Comments":[]}
+{"id":548,"text":"Observe the significant jump to 80% in the early 2000s.","cats":["highlight"],"entities":[[32,35,"yvalue"],[43,54,"xtick"]],"Comments":[]}
+{"id":549,"text":"In the late 1980s, focus on the decrease, where the percentage falls to fifteen percent.","cats":["highlight"],"entities":[[0,17,"xtick"],[71,87,"yvalue"]],"Comments":[]}
+{"id":550,"text":"Look at the consistent growth from 5% in 1970 to 45% by the end of the decade.","cats":["highlight"],"entities":[[35,37,"yvalue"],[38,45,"xtick"],[49,52,"yvalue"]],"Comments":[]}
+{"id":551,"text":"In 1985, notice how the data peaks at approximately forty percent.","cats":["highlight"],"entities":[[0,7,"xtick"],[52,65,"yvalue"]],"Comments":[]}
+{"id":552,"text":"Observe the gradual decrease in 1992, reaching down to 25%.","cats":["highlight"],"entities":[[29,36,"xtick"],[55,58,"yvalue"]],"Comments":[]}
+{"id":553,"text":"Look at the year 2000, where there's a noticeable increase to sixty-five percent.","cats":["highlight"],"entities":[[12,21,"xtick"],[62,80,"yvalue"]],"Comments":[]}
+{"id":554,"text":"Compare the steady rise from 10% in the early 1970s to 50% by the mid-1980s.","cats":["highlight"],"entities":[[29,33,"yvalue"],[33,51,"xtick"],[55,58,"yvalue"],[62,75,"xtick"]],"Comments":[]}
+{"id":555,"text":"In 2003, focus on the significant milestone where the percentage exceeds seventy percent.","cats":[],"entities":[[0,7,"xtick"],[73,88,"yvalue"]],"Comments":[]}
+{"id":556,"text":"Notice the slight dip to 55% in 2008, indicating a minor setback.","cats":["highlight"],"entities":[[25,28,"yvalue"],[29,37,"xtick"]],"Comments":[]}
+{"id":557,"text":"In 1995, see the increment reaching up to thirty percent, a key growth point.","cats":["highlight"],"entities":[[0,7,"xtick"],[42,56,"yvalue"]],"Comments":[]}
+{"id":558,"text":"Observe the consistent upward trend to 75% by the year 2010.","cats":["highlight"],"entities":[[39,42,"yvalue"],[50,59,"xtick"]],"Comments":[]}
+{"id":559,"text":"Compare the relatively stable period in the 1990s, fluctuating around forty-five percent.","cats":["highlight"],"entities":[[37,49,"xtick"],[70,88,"yvalue"]],"Comments":[]}
+{"id":560,"text":"In 2014, look at how the data levels off, maintaining a steady rate of sixty percent.","cats":["highlight"],"entities":[[0,7,"xtick"],[71,84,"yvalue"]],"Comments":[]}
+{"id":561,"text":"In 1978, observe how the percentage slightly rises to around 15%.","cats":["highlight"],"entities":[[0,7,"xtick"],[61,64,"yvalue"]],"Comments":[]}
+{"id":562,"text":"Look at the year 1982, where the figure reaches nearly thirty percent.","cats":["highlight"],"entities":[[12,21,"xtick"],[55,69,"yvalue"]],"Comments":[]}
+{"id":563,"text":"Notice the gradual increase to 35% by the mid-1980s, indicating steady growth.","cats":["highlight"],"entities":[[31,34,"yvalue"],[38,51,"xtick"]],"Comments":[]}
+{"id":564,"text":"In 1987, focus on the jump to approximately forty-two percent.","cats":["highlight"],"entities":[[0,7,"xtick"],[44,61,"yvalue"]],"Comments":[]}
+{"id":565,"text":"Observe the significant rise to 50% in the early 1990s.","cats":["highlight"],"entities":[[32,35,"yvalue"],[36,54,"xtick"]],"Comments":[]}
+{"id":566,"text":"In 1993, see the increment to fifty-five percent, marking a new high.","cats":["highlight"],"entities":[[0,7,"xtick"],[30,48,"yvalue"]],"Comments":[]}
+{"id":567,"text":"Look at the decrease in 1996, where the figure drops to 48%.","cats":["highlight"],"entities":[[21,28,"xtick"],[55,59,"yvalue"]],"Comments":[]}
+{"id":568,"text":"Notice the fluctuation around sixty percent in the early 2000s.","cats":["highlight"],"entities":[[30,43,"yvalue"],[44,62,"xtick"]],"Comments":[]}
+{"id":569,"text":"In 2004, focus on the increase to nearly sixty-five percent.","cats":["highlight"],"entities":[[0,7,"xtick"],[41,59,"yvalue"]],"Comments":[]}
+{"id":570,"text":"Observe the steady growth to 70% by 2007.","cats":["highlight"],"entities":[[29,32,"yvalue"],[33,40,"xtick"]],"Comments":[]}
+{"id":571,"text":"In 2009, notice the dip to sixty-eight percent, a slight decline.","cats":["highlight"],"entities":[[0,7,"xtick"],[27,46,"yvalue"]],"Comments":[]}
+{"id":572,"text":"Look at the year 2011, where the percentage increases to seventy-two percent.","cats":["highlight"],"entities":[[12,21,"xtick"],[57,76,"yvalue"]],"Comments":[]}
+{"id":573,"text":"In 2013, focus on the consistent level at around 75%.","cats":["highlight"],"entities":[[0,7,"xtick"],[49,52,"yvalue"]],"Comments":[]}
+{"id":574,"text":"Notice how in 2016, the figure slightly declines to 73%.","cats":["highlight"],"entities":[[11,18,"xtick"],[52,55,"yvalue"]],"Comments":[]}
+{"id":575,"text":"In 2018, see the rise to approximately seventy-eight percent.","cats":["highlight"],"entities":[[0,7,"xtick"],[39,60,"yvalue"]],"Comments":[]}
+{"id":576,"text":"Look at the steady increase to 80% by the year 2020.","cats":["highlight"],"entities":[[31,34,"yvalue"],[42,51,"xtick"]],"Comments":[]}
+{"id":577,"text":"In 2022, notice a peak at eighty-two percent.","cats":["highlight"],"entities":[[0,7,"xtick"],[26,44,"yvalue"]],"Comments":[]}
+{"id":578,"text":"Observe the leveling off around eighty percent in the mid-2020s.","cats":["highlight"],"entities":[[32,46,"yvalue"],[47,63,"xtick"]],"Comments":[]}
+{"id":579,"text":"In 2025, focus on the slight increase to eighty-three percent.","cats":["highlight"],"entities":[[0,7,"xtick"],[41,61,"yvalue"]],"Comments":[]}
+{"id":580,"text":"See the gradual rise to 85% by the end of the decade in 2030.","cats":["highlight"],"entities":[[24,27,"yvalue"],[53,60,"xtick"]],"Comments":[]}
+{"id":581,"text":"Look at the trend from 1980 to 1990, where there's a consistent increase in percentage.","cats":["highlight"],"entities":[[18,35,"range"]],"Comments":[]}
+{"id":582,"text":"Observe the data from Monday to Wednesday, showing a midweek peak in activity.","cats":["highlight"],"entities":[[17,41,"range"]],"Comments":[]}
+{"id":583,"text":"Focus on the period from 2000 to 2010, where significant growth is evident.","cats":["highlight"],"entities":[[20,37,"range"]],"Comments":[]}
+{"id":584,"text":"Notice the changes in the data from January to March, indicating seasonal variations.","cats":["highlight"],"entities":[[31,52,"range"]],"Comments":[]}
+{"id":585,"text":"Examine the steady rise in values from the first quarter to the third quarter of the year.","cats":["highlight"],"entities":[[34,77,"range"]],"Comments":[]}
+{"id":586,"text":"Compare the data from the 1990s to the 2000s, observing the evolution over two decades.","cats":["highlight"],"entities":[[17,44,"range"]],"Comments":[]}
+{"id":587,"text":"Look at the fluctuations from summer to winter, showing seasonal impacts.","cats":["highlight"],"entities":[[25,47,"range"]],"Comments":[]}
+{"id":588,"text":"Focus on the years from 2015 to 2020, where a distinct trend emerges.","cats":["highlight"],"entities":[[19,36,"range"]],"Comments":[]}
+{"id":589,"text":"Notice the differences in trends from morning to evening hours across the week.","cats":["highlight"],"entities":[[33,56,"range"]],"Comments":[]}
+{"id":590,"text":"Observe the steady decline in percentage from 1970 to 1980.","cats":["highlight"],"entities":[[41,58,"range"]],"Comments":[]}
+{"id":591,"text":"Look at the data from April to June, showing a quarterly comparison.","cats":["highlight"],"entities":[[17,35,"range"]],"Comments":[]}
+{"id":592,"text":"Compare weekdays to weekends, focusing on the range from Monday to Sunday.","cats":["highlight"],"entities":[[52,73,"range"]],"Comments":[]}
+{"id":593,"text":"Notice the pattern from the beginning to the end of each month, highlighting monthly trends.","cats":["highlight"],"entities":[[18,62,"range"]],"Comments":[]}
+{"id":594,"text":"Focus on the decade from 1980 to 1990, observing the key developments in that era.","cats":["highlight"],"entities":[[20,37,"range"]],"Comments":[]}
+{"id":595,"text":"Look at the shift in trends from the first half to the second half of the year.","cats":["highlight"],"entities":[[28,67,"range"]],"Comments":[]}
+{"id":596,"text":"Compare the data from the rainy season to the dry season, observing weather-related changes.","cats":["highlight"],"entities":[[17,56,"range"]],"Comments":[]}
+{"id":597,"text":"Notice how the figures evolve from the early morning hours to the late evening.","cats":["highlight"],"entities":[[30,78,"range"]],"Comments":[]}
+{"id":598,"text":"Focus on the changes from the start to the end of the financial year.","cats":["highlight"],"entities":[[21,50,"range"]],"Comments":[]}
+{"id":599,"text":"Observe the variations in the data from weekdays to weekends, showing different patterns.","cats":["highlight"],"entities":[[35,60,"range"]],"Comments":[]}
+{"id":600,"text":"Compare the performance from quarter one to quarter four, highlighting annual progress.","cats":["highlight"],"entities":[[24,56,"range"]],"Comments":[]}
+{"id":601,"text":"Look at the data from 1960 to 1970, showing a gradual increase in economic activity.","cats":["highlight"],"entities":[[17,34,"range"]],"Comments":[]}
+{"id":602,"text":"Focus on the trend from January to December, observing the annual cycle in data.","cats":["highlight"],"entities":[[19,44,"range"]],"Comments":[]}
+{"id":603,"text":"Observe the changes from morning to night, indicating daily behavioral patterns.","cats":["highlight"],"entities":[[20,41,"range"]],"Comments":[]}
+{"id":604,"text":"Compare the market growth from the first quarter to the fourth quarter of 2005.","cats":["highlight"],"entities":[[26,70,"range"]],"Comments":[]}
+{"id":605,"text":"Notice the shift in consumer habits from summer to winter.","cats":["highlight"],"entities":[[36,57,"range"]],"Comments":[]}
+{"id":606,"text":"Look at the development from 2005 to 2015, marking a decade of technological advancement.","cats":["highlight"],"entities":[[24,41,"range"]],"Comments":[]}
+{"id":607,"text":"Focus on the environmental data from spring to autumn, revealing seasonal effects.","cats":["highlight"],"entities":[[32,53,"range"]],"Comments":[]}
+{"id":608,"text":"Observe the consumer trends from Monday to Friday, contrasting with weekend habits.","cats":["highlight"],"entities":[[28,49,"range"]],"Comments":[]}
+{"id":609,"text":"Examine the temperature changes from June to August, showing peak summer heat.","cats":["highlight"],"entities":[[32,51,"range"]],"Comments":[]}
+{"id":610,"text":"Compare employment rates from the beginning to the end of the 1990s.","cats":["highlight"],"entities":[[25,58,"range"]],"Comments":[]}
+{"id":611,"text":"Notice the fluctuation in stock prices from opening to closing hours over a week.","cats":["highlight"],"entities":[[39,62,"range"]],"Comments":[]}
+{"id":612,"text":"Look at the health data from 1990 to 2000, reflecting changes in public health policies.","cats":["highlight"],"entities":[[24,41,"range"]],"Comments":[]}
+{"id":613,"text":"Focus on traffic patterns from 7 AM to 9 AM, showing morning rush hour peaks.","cats":["highlight"],"entities":[[26,43,"range"]],"Comments":[]}
+{"id":614,"text":"Observe the changes in online activity from weekdays to weekends.","cats":["highlight"],"entities":[[39,64,"range"]],"Comments":[]}
+{"id":615,"text":"Examine the fluctuation in currency value from January to July.","cats":["highlight"],"entities":[[42,62,"range"]],"Comments":[]}
+{"id":616,"text":"Compare the agricultural output from planting season to harvest season.","cats":["highlight"],"entities":[[32,70,"range"]],"Comments":[]}
+{"id":617,"text":"Notice the variations in retail sales from the holiday season to the off-season.","cats":["highlight"],"entities":[[38,79,"range"]],"Comments":[]}
+{"id":618,"text":"Look at the energy consumption data from winter to summer.","cats":["highlight"],"entities":[[36,57,"range"]],"Comments":[]}
+{"id":619,"text":"Focus on changes in water usage from the dry season to the rainy season.","cats":["highlight"],"entities":[[32,71,"range"]],"Comments":[]}
+{"id":620,"text":"Observe the trend in tourist arrivals from the peak season to the off-peak season.","cats":["highlight"],"entities":[[38,81,"range"]],"Comments":[]}
+{"id":621,"text":"Look at January's data, showing a significant start to the year.","cats":["highlight"],"entities":[[8,17,"xtick"]],"Comments":[]}
+{"id":622,"text":"Compare February's performance with July's, observing the seasonal differences.","cats":[],"entities":[[8,18,"xtick"],[36,42,"xtick"]],"Comments":[]}
+{"id":623,"text":"Focus on the trend from March to April, marking the transition into spring.","cats":["highlight"],"entities":[[19,38,"range"]],"Comments":[]}
+{"id":624,"text":"Notice the shift in consumer behavior in May, preparing for summer.","cats":["highlight"],"entities":[[38,44,"xtick"]],"Comments":[]}
+{"id":625,"text":"Look at the peak in tourism in June, indicating the beginning of the holiday season.","cats":["highlight"],"entities":[[28,35,"xtick"]],"Comments":[]}
+{"id":626,"text":"Observe July's high temperatures and their impact on data.","cats":["highlight"],"entities":[[8,15,"xtick"]],"Comments":[]}
+{"id":627,"text":"Compare August's relaxed pace with the busyness of November.","cats":["highlight"],"entities":[[7,16,"xtick"],[51,59,"xtick"]],"Comments":[]}
+{"id":628,"text":"Focus on September, marking a shift as schools reopen and summer ends.","cats":["highlight"],"entities":[[9,18,"xtick"]],"Comments":[]}
+{"id":629,"text":"Notice the increase in retail activity in October, leading up to the holiday season.","cats":["highlight"],"entities":[[39,49,"xtick"]],"Comments":[]}
+{"id":630,"text":"Look at November's data, showing preparation for year-end events.","cats":["highlight"],"entities":[[8,19,"xtick"]],"Comments":[]}
+{"id":631,"text":"Observe the holiday season's peak in December, closing the year with high activity.","cats":["highlight"],"entities":[[34,45,"xtick"]],"Comments":[]}
+{"id":632,"text":"Compare January's quiet start with the bustling activity in December.","cats":["highlight"],"entities":[[8,17,"xtick"],[57,68,"xtick"]],"Comments":[]}
+{"id":633,"text":"Focus on the gradual warming trend from February to May.","cats":["highlight"],"entities":[[34,55,"range"]],"Comments":[]}
+{"id":634,"text":"Notice the transition from spring to summer between March and June.","cats":["highlight"],"entities":[[44,66,"range"]],"Comments":[]}
+{"id":635,"text":"Look at the decrease in leisure activities from April to September.","cats":["highlight"],"entities":[[43,66,"range"]],"Comments":[]}
+{"id":636,"text":"Observe the climatic changes reflected in data from May to August.","cats":["highlight"],"entities":[[47,65,"range"]],"Comments":[]}
+{"id":637,"text":"Compare the vacation periods in June and July with the back-to-school season in September.","cats":["highlight"],"entities":[[29,36,"xtick"],[41,45,"xtick"],[77,89,"xtick"]],"Comments":[]}
+{"id":638,"text":"Focus on August's slowdown before the September rush.","cats":["highlight"],"entities":[[9,17,"xtick"],[34,47,"xtick"]],"Comments":[]}
+{"id":639,"text":"Notice October's pre-holiday surge compared to the post-holiday lull in January.","cats":["highlight"],"entities":[[69,79,"xtick"]],"Comments":[]}
+{"id":640,"text":"Look at November, a key month for commerce leading into the holiday season.","cats":["highlight"],"entities":[[8,16,"xtick"]],"Comments":[]}
+{"id":641,"text":"Observe the festive boost in December, contrasted with the calm of February.","cats":["highlight"],"entities":[[26,37,"xtick"],[67,75,"xtick"]],"Comments":[]}
+{"id":642,"text":"Compare the post-holiday period of January with the mid-year activity in July.","cats":["highlight"],"entities":[[35,42,"xtick"],[70,77,"xtick"]],"Comments":[]}
+{"id":643,"text":"Focus on the blossoming of activities in April, contrasting with October's wind-down.","cats":["highlight"],"entities":[[38,46,"xtick"],[65,74,"xtick"]],"Comments":[]}
+{"id":644,"text":"Notice the gradual temperature rise from March through June.","cats":["highlight"],"entities":[[36,59,"range"]],"Comments":[]}
+{"id":645,"text":"Look at the leisure activities peaking in July and declining by November.","cats":["highlight"],"entities":[[39,46,"xtick"],[61,72,"xtick"]],"Comments":[]}
+{"id":646,"text":"Observe the back-to-school impact on data in September compared to June.","cats":["highlight"],"entities":[[42,54,"xtick"],[64,71,"xtick"]],"Comments":[]}
+{"id":647,"text":"Compare August's vacation season with December's festive period.","cats":["highlight"],"entities":[[8,16,"xtick"],[38,48,"xtick"]],"Comments":[]}
+{"id":648,"text":"Focus on the retail buildup from October through December.","cats":["highlight"],"entities":[[28,57,"range"]],"Comments":[]}
+{"id":649,"text":"Notice the quieting down of activities in January after December's highs.","cats":["highlight"],"entities":[[39,49,"xtick"],[56,66,"xtick"]],"Comments":[]}
+{"id":650,"text":"Look at the growth in outdoor activities from February to May.","cats":["highlight"],"entities":[[41,61,"range"]],"Comments":[]}
+{"id":651,"text":"Observe the transition from the rainy season in June to the dry spell in September.","cats":["highlight"],"entities":[[23,82,"range"]],"Comments":[]}
+{"id":652,"text":"Compare September's data with that of March, showing seasonal shifts.","cats":["highlight"],"entities":[[8,19,"xtick"],[35,43,"xtick"]],"Comments":[]}
+{"id":653,"text":"Focus on October, a critical month for many industries.","cats":["highlight"],"entities":[[9,16,"xtick"]],"Comments":[]}
+{"id":654,"text":"Notice November's preparation for end-of-year events and holidays.","cats":["highlight"],"entities":[[7,17,"xtick"]],"Comments":[]}
+{"id":655,"text":"Look at the festive activities and their culmination in December.","cats":["highlight"],"entities":[[53,64,"xtick"]],"Comments":[]}
+{"id":656,"text":"Observe the New Year's effect on data in January compared to November's prep.","cats":["highlight"],"entities":[[38,48,"xtick"],[61,71,"xtick"]],"Comments":[]}
+{"id":657,"text":"Compare the leisure slowdown from February to April with the pick-up in August.","cats":["highlight"],"entities":[[29,51,"range"],[69,78,"xtick"]],"Comments":[]}
+{"id":658,"text":"Focus on May's pivot point between spring and summer.","cats":["highlight"],"entities":[[9,14,"xtick"],[27,52,"range"]],"Comments":[]}
+{"id":659,"text":"Notice June's mid-year data trends, a mix of various factors.","cats":["highlight"],"entities":[[7,13,"xtick"]],"Comments":[]}
+{"id":660,"text":"Look at the gradual transition from summer to autumn between July and October.","cats":[],"entities":[[31,52,"range"],[53,77,"range"]],"Comments":[]}
+{"id":661,"text":"Observe the data between January and February, showing winter's impact.","cats":["highlight"],"entities":[[17,45,"range"]],"Comments":[]}
+{"id":662,"text":"Notice the trend between February and March, as the season transitions.","cats":["highlight"],"entities":[[17,43,"range"]],"Comments":[]}
+{"id":663,"text":"Look at the changes in consumer behavior between March and April.","cats":["highlight"],"entities":[[41,64,"range"]],"Comments":[]}
+{"id":664,"text":"Focus on the gradual warming trend between April and May.","cats":["highlight"],"entities":[[35,56,"range"]],"Comments":[]}
+{"id":665,"text":"Examine the differences in data between May and June, marking the start of summer.","cats":["highlight"],"entities":[[32,52,"range"]],"Comments":[]}
+{"id":666,"text":"Observe the peak tourist season between June and July.","cats":["highlight"],"entities":[[32,53,"range"]],"Comments":[]}
+{"id":667,"text":"Notice the high activity in retail and leisure between July and August.","cats":["highlight"],"entities":[[47,70,"range"]],"Comments":[]}
+{"id":668,"text":"Look at the transition from summer to autumn between August and September.","cats":["highlight"],"entities":[[45,73,"range"]],"Comments":[]}
+{"id":669,"text":"Focus on the business uptick between September and October.","cats":["highlight"],"entities":[[29,58,"range"]],"Comments":[]}
+{"id":670,"text":"Examine the market changes between October and November as holidays approach.","cats":["highlight"],"entities":[[27,55,"range"]],"Comments":[]}
+{"id":671,"text":"Observe the festive preparations between November and December.","cats":["highlight"],"entities":[[33,62,"range"]],"Comments":[]}
+{"id":672,"text":"Notice the contrasting consumer behavior between December and January.","cats":["highlight"],"entities":[[41,69,"range"]],"Comments":[]}
+{"id":673,"text":"Look at the fluctuation in sales between January and February, post-holiday season.","cats":["highlight"],"entities":[[33,62,"range"]],"Comments":[]}
+{"id":674,"text":"Focus on the seasonal transition between February and March.","cats":["highlight"],"entities":[[33,59,"range"]],"Comments":[]}
+{"id":675,"text":"Examine the increase in outdoor activities between March and April.","cats":["highlight"],"entities":[[43,66,"range"]],"Comments":[]}
+{"id":676,"text":"Observe the data trends in consumer spending between April and May.","cats":["highlight"],"entities":[[45,66,"range"]],"Comments":[]}
+{"id":677,"text":"Notice the shift in travel patterns between May and June.","cats":["highlight"],"entities":[[36,56,"range"]],"Comments":[]}
+{"id":678,"text":"Look at the climate impact on data between June and July.","cats":["highlight"],"entities":[[35,56,"range"]],"Comments":[]}
+{"id":679,"text":"Focus on vacation and travel trends between July and August.","cats":["highlight"],"entities":[[36,59,"range"]],"Comments":[]}
+{"id":680,"text":"Examine the back-to-school effect between August and September.","cats":["highlight"],"entities":[[34,62,"range"]],"Comments":[]}
+{"id":681,"text":"Observe the pre-holiday market preparation between September and October.","cats":["highlight"],"entities":[[43,72,"range"]],"Comments":[]}
+{"id":682,"text":"Notice the rise in retail activity between October and November.","cats":["highlight"],"entities":[[35,63,"range"]],"Comments":[]}
+{"id":683,"text":"Look at the holiday season peak between November and December.","cats":["highlight"],"entities":[[32,61,"range"]],"Comments":[]}
+{"id":684,"text":"Focus on the post-New Year's lull between December and January.","cats":["highlight"],"entities":[[34,62,"range"]],"Comments":[]}
+{"id":685,"text":"Examine the gradual return to normalcy between January and February.","cats":["highlight"],"entities":[[39,67,"range"]],"Comments":[]}
+{"id":686,"text":"Observe the early signs of spring between February and March.","cats":["highlight"],"entities":[[34,60,"range"]],"Comments":[]}
+{"id":687,"text":"Notice the bloom of activities between March and April.","cats":["highlight"],"entities":[[31,54,"range"]],"Comments":[]}
+{"id":688,"text":"Look at the preparation for summer between April and May.","cats":["highlight"],"entities":[[34,56,"range"]],"Comments":[]}
+{"id":689,"text":"Focus on the transition to summer vacation between May and June.","cats":["highlight"],"entities":[[43,63,"range"]],"Comments":[]}
+{"id":690,"text":"Examine the peak of summer activities between June and July.","cats":["highlight"],"entities":[[38,59,"range"]],"Comments":[]}
+{"id":691,"text":"Observe the leisure and travel trends between July and August.","cats":["highlight"],"entities":[[38,62,"range"]],"Comments":[]}
+{"id":692,"text":"Notice the shift from vacation to work mode between August and September.","cats":["highlight"],"entities":[[44,72,"range"]],"Comments":[]}
+{"id":693,"text":"Look at the ramp-up to the holiday season between September and October.","cats":["highlight"],"entities":[[42,71,"range"]],"Comments":[]}
+{"id":694,"text":"Focus on the pre-winter preparations between October and November.","cats":["highlight"],"entities":[[37,65,"range"]],"Comments":[]}
+{"id":695,"text":"Examine consumer spending habits between November and December.","cats":["highlight"],"entities":[[33,62,"range"]],"Comments":[]}
+{"id":696,"text":"Observe the holiday wind-down between December and January.","cats":["highlight"],"entities":[[30,58,"range"]],"Comments":[]}
+{"id":697,"text":"Notice the new year's resolutions impact between January and February.","cats":["highlight"],"entities":[[41,69,"range"]],"Comments":[]}
+{"id":698,"text":"Look at the changes in weather patterns between February and March.","cats":["highlight"],"entities":[[40,66,"range"]],"Comments":[]}
+{"id":699,"text":"Focus on the spring awakening in consumer behavior between March and April.","cats":["highlight"],"entities":[[51,74,"range"]],"Comments":[]}
+{"id":700,"text":"Examine the anticipation of summer between April and May.","cats":["highlight"],"entities":[[35,56,"range"]],"Comments":[]}
+{"id":701,"text":"In January, observe how the new year influences market trends.","cats":["highlight"],"entities":[[0,10,"xtick"]],"Comments":[]}
+{"id":702,"text":"Notice the significant changes in consumer behavior in February.","cats":["highlight"],"entities":[[52,63,"xtick"]],"Comments":[]}
+{"id":703,"text":"Look at the data trends in March, marking the beginning of spring.","cats":["highlight"],"entities":[[24,32,"xtick"]],"Comments":[]}
+{"id":704,"text":"Focus on April's data to see the impact of seasonal changes.","cats":["highlight"],"entities":[[9,16,"xtick"]],"Comments":[]}
+{"id":705,"text":"In May, examine the rise in outdoor activities and its effects.","cats":["highlight"],"entities":[[0,6,"xtick"]],"Comments":[]}
+{"id":706,"text":"Observe the beginning of summer vacation trends in June.","cats":["highlight"],"entities":[[48,55,"xtick"]],"Comments":[]}
+{"id":707,"text":"In July, notice the peak in travel and tourism activities.","cats":["highlight"],"entities":[[0,7,"xtick"]],"Comments":[]}
+{"id":708,"text":"Look at August's data to see the continuation of summer trends.","cats":["highlight"],"entities":[[8,16,"xtick"]],"Comments":[]}
+{"id":709,"text":"Focus on September as schools reopen and routines change.","cats":["highlight"],"entities":[[9,18,"xtick"]],"Comments":[]}
+{"id":710,"text":"In October, observe the preparations for the holiday season.","cats":["highlight"],"entities":[[0,10,"xtick"]],"Comments":[]}
+{"id":711,"text":"Notice the increase in retail sales in November as holidays approach.","cats":["highlight"],"entities":[[36,47,"xtick"]],"Comments":[]}
+{"id":712,"text":"Look at December's data to see the impact of the festive season.","cats":["highlight"],"entities":[[8,18,"xtick"]],"Comments":[]}
+{"id":713,"text":"On January weekends, focus on the leisure and travel patterns.","cats":["highlight"],"entities":[[0,10,"xtick"]],"Comments":[]}
+{"id":714,"text":"In February, observe the consumer behavior around Valentine's Day.","cats":["highlight"],"entities":[[0,11,"xtick"]],"Comments":[]}
+{"id":715,"text":"Look at the spring awakening in market activities in March.","cats":["highlight"],"entities":[[50,58,"xtick"]],"Comments":[]}
+{"id":716,"text":"Focus on the significant shifts in consumer trends in April.","cats":["highlight"],"entities":[[51,59,"xtick"]],"Comments":[]}
+{"id":717,"text":"In May, notice the preparation for summer and its impact on sales.","cats":["highlight"],"entities":[[0,6,"xtick"]],"Comments":[]}
+{"id":718,"text":"Observe the graduation season's effect on the market in June.","cats":["highlight"],"entities":[[53,60,"xtick"]],"Comments":[]}
+{"id":719,"text":"In July, focus on the high season for travel and leisure.","cats":["highlight"],"entities":[[0,7,"xtick"]],"Comments":[]}
+{"id":720,"text":"Look at the back-to-school shopping trends in August.","cats":["highlight"],"entities":[[43,52,"xtick"]],"Comments":[]}
+{"id":721,"text":"In September, observe the changes as the autumn season begins.","cats":["highlight"],"entities":[[0,12,"xtick"]],"Comments":[]}
+{"id":722,"text":"Focus on October's data for insights into pre-holiday consumer behavior.","cats":["highlight"],"entities":[[9,18,"xtick"]],"Comments":[]}
+{"id":723,"text":"In November, notice the impact of Thanksgiving on the market.","cats":["highlight"],"entities":[[0,11,"xtick"]],"Comments":[]}
+{"id":724,"text":"Look at the end-of-year rush in December, especially in retail.","cats":["highlight"],"entities":[[29,40,"xtick"]],"Comments":[]}
+{"id":725,"text":"On January weekdays, focus on the post-holiday slowdown.","cats":["highlight"],"entities":[[0,10,"xtick"]],"Comments":[]}
+{"id":726,"text":"In February, observe the winter's impact on various sectors.","cats":["highlight"],"entities":[[0,11,"xtick"]],"Comments":[]}
+{"id":727,"text":"Look at March's data to understand the spring season's effect.","cats":["highlight"],"entities":[[8,15,"xtick"]],"Comments":[]}
+{"id":728,"text":"Focus on the Easter-related trends in April.","cats":["highlight"],"entities":[[35,43,"xtick"]],"Comments":[]}
+{"id":729,"text":"In May, notice the preparation for summer holidays.","cats":["highlight"],"entities":[[0,6,"xtick"]],"Comments":[]}
+{"id":730,"text":"Observe the transition from spring to summer in June.","cats":["highlight"],"entities":[[23,44,"range"],[45,52,"xtick"]],"Comments":[]}
+{"id":731,"text":"In July, focus on the peak of summer activities.","cats":["highlight"],"entities":[[0,7,"xtick"]],"Comments":[]}
+{"id":732,"text":"Look at August's data for insights into late summer behavior.","cats":["highlight"],"entities":[[8,16,"xtick"]],"Comments":[]}
+{"id":733,"text":"In September, observe the impact of the academic year starting.","cats":["highlight"],"entities":[[0,13,"xtick"]],"Comments":[]}
+{"id":734,"text":"Focus on the Halloween effects in October's market trends.","cats":["highlight"],"entities":[[31,43,"xtick"]],"Comments":[]}
+{"id":735,"text":"In November, notice the buildup to the festive season.","cats":["highlight"],"entities":[[0,11,"xtick"]],"Comments":[]}
+{"id":736,"text":"Look at December for an analysis of year-end consumer trends.","cats":["highlight"],"entities":[[8,16,"xtick"]],"Comments":[]}
+{"id":737,"text":"On January mornings, observe the commuting patterns.","cats":["highlight"],"entities":[[0,10,"xtick"]],"Comments":[]}
+{"id":738,"text":"In February, focus on the seasonal sports and outdoor activities.","cats":["highlight"],"entities":[[0,11,"xtick"]],"Comments":[]}
+{"id":739,"text":"Look at the weather-related changes in March's data.","cats":["highlight"],"entities":[[36,46,"xtick"]],"Comments":[]}
+{"id":740,"text":"In April, observe the shift towards more outdoor and leisure activities.","cats":["highlight"],"entities":[[0,8,"xtick"]],"Comments":[]}
+{"id":741,"text":"In Q1, observe how the new year sets the tone for market trends.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":742,"text":"Notice the shift in consumer behavior in Q2 as the weather warms up.","cats":["highlight"],"entities":[[38,43,"xtick"]],"Comments":[]}
+{"id":743,"text":"Look at the data trends in Q3, highlighting the peak of summer activities.","cats":["highlight"],"entities":[[24,29,"xtick"]],"Comments":[]}
+{"id":744,"text":"Focus on Q4's data to see the impact of the holiday season.","cats":["highlight"],"entities":[[9,13,"xtick"]],"Comments":[]}
+{"id":745,"text":"In Q1, examine the rise in new initiatives and business strategies.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":746,"text":"Observe how vacation planning in Q2 affects various sectors.","cats":["highlight"],"entities":[[30,35,"xtick"]],"Comments":[]}
+{"id":747,"text":"In Q3, notice the peak in travel and leisure activities.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":748,"text":"Look at Q4 for an analysis of year-end sales and holiday shopping.","cats":["highlight"],"entities":[[8,10,"xtick"]],"Comments":[]}
+{"id":749,"text":"In Q1, focus on the financial sector's performance post-New Year.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":750,"text":"Notice the onset of summer and its effects on the market in Q2.","cats":["highlight"],"entities":[[57,62,"xtick"]],"Comments":[]}
+{"id":751,"text":"Look at the back-to-school impact on the market in Q3.","cats":["highlight"],"entities":[[48,53,"xtick"]],"Comments":[]}
+{"id":752,"text":"In Q4, observe the preparation and celebration of major holidays.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":753,"text":"Focus on the health sector's performance in Q1, post-winter.","cats":[],"entities":[[41,46,"xtick"]],"Comments":[]}
+{"id":754,"text":"In Q2, examine the real estate market as it enters its peak season.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":755,"text":"Observe the shift in consumer spending towards outdoor activities in Q3.","cats":["highlight"],"entities":[[66,71,"xtick"]],"Comments":[]}
+{"id":756,"text":"In Q4, focus on the retail and e-commerce sectors during the holiday rush.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":757,"text":"Look at the technology sector's innovations launched in Q1.","cats":["highlight"],"entities":[[53,58,"xtick"]],"Comments":[]}
+{"id":758,"text":"In Q2, notice the trends in travel and hospitality industries.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":759,"text":"Observe the agricultural sector's harvest and its impact in Q3.","cats":["highlight"],"entities":[[57,62,"xtick"]],"Comments":[]}
+{"id":760,"text":"In Q4, focus on the impact of holiday marketing campaigns.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":761,"text":"Look at the energy consumption patterns in Q1 during the colder months.","cats":["highlight"],"entities":[[40,45,"xtick"]],"Comments":[]}
+{"id":762,"text":"In Q2, observe the increase in outdoor and entertainment activities.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":763,"text":"Focus on the educational sector's preparation for the new academic year in Q3.","cats":["highlight"],"entities":[[72,77,"xtick"]],"Comments":[]}
+{"id":764,"text":"In Q4, examine the consumer behavior around Black Friday and Cyber Monday.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":765,"text":"Look at Q1's data for insights into post-holiday economic trends.","cats":["highlight"],"entities":[[8,12,"xtick"]],"Comments":[]}
+{"id":766,"text":"In Q2, notice the fashion industry's transition to summer collections.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":767,"text":"Observe the travel industry's peak season in Q3.","cats":["highlight"],"entities":[[42,47,"xtick"]],"Comments":[]}
+{"id":768,"text":"In Q4, focus on the non-profit sector and end-of-year donations.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":769,"text":"Look at how Q1 sets the stage for the year's economic outlook.","cats":["highlight"],"entities":[[12,14,"xtick"]],"Comments":[]}
+{"id":770,"text":"In Q2, examine the impact of summer vacations on employee productivity.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":771,"text":"Observe the automotive industry's performance in Q3.","cats":["highlight"],"entities":[[46,51,"xtick"]],"Comments":[]}
+{"id":772,"text":"In Q4, focus on the banking sector's year-end financial reporting.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":773,"text":"Look at the impact of tax season on consumer spending in Q1.","cats":["highlight"],"entities":[[53,59,"xtick"]],"Comments":[]}
+{"id":774,"text":"In Q2, observe the construction industry's peak activity period.","cats":[],"entities":[],"Comments":[]}
+{"id":775,"text":"Focus on the retail sector's strategies for the upcoming holiday season in Q3.","cats":["highlight"],"entities":[[72,77,"xtick"]],"Comments":[]}
+{"id":776,"text":"In Q4, examine the impact of winter holidays on the hospitality industry.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":777,"text":"Look at the healthcare sector's initiatives to tackle seasonal illnesses in Q1.","cats":["highlight"],"entities":[[73,78,"xtick"]],"Comments":[]}
+{"id":778,"text":"In Q2, notice the entertainment industry's release of blockbuster movies.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":779,"text":"Observe the food and beverage industry's seasonal products in Q3.","cats":["highlight"],"entities":[[59,64,"xtick"]],"Comments":[]}
+{"id":780,"text":"In Q4, focus on the trends in online shopping and delivery services.","cats":["highlight"],"entities":[[0,5,"xtick"]],"Comments":[]}
+{"id":781,"text":"In the First Quarter, observe how businesses strategize for the new year.","cats":["highlight"],"entities":[[7,20,"xtick"]],"Comments":[]}
+{"id":782,"text":"Notice the consumer spending patterns in the Second Quarter as summer approaches.","cats":["highlight"],"entities":[[45,59,"xtick"]],"Comments":[]}
+{"id":783,"text":"Look at the Third Quarter data, showing the impact of vacation and travel peak.","cats":["highlight"],"entities":[[12,25,"xtick"]],"Comments":[]}
+{"id":784,"text":"Focus on the Fourth Quarter's performance, highlighting holiday shopping trends.","cats":["highlight"],"entities":[[13,29,"xtick"]],"Comments":[]}
+{"id":785,"text":"In the First Quarter, examine the post-holiday recovery in various sectors.","cats":["highlight"],"entities":[[7,20,"xtick"]],"Comments":[]}
+{"id":786,"text":"Observe the real estate market's growth in the Second Quarter.","cats":["highlight"],"entities":[[47,61,"xtick"]],"Comments":[]}
+{"id":787,"text":"In the Third Quarter, notice the back-to-school effects on retail and e-commerce.","cats":["highlight"],"entities":[[7,20,"xtick"]],"Comments":[]}
+{"id":788,"text":"Look at the Fourth Quarter for insights into year-end financial strategies.","cats":["highlight"],"entities":[[12,26,"xtick"]],"Comments":[]}
+{"id":789,"text":"In the First Quarter, focus on the healthcare sector's initiatives for the year.","cats":["highlight"],"entities":[[7,20,"xtick"]],"Comments":[]}
+{"id":790,"text":"Notice the tourism industry's preparation for the high season in the Second Quarter.","cats":["highlight"],"entities":[[69,83,"xtick"]],"Comments":[]}
+{"id":791,"text":"Look at the agricultural harvest's impact on the market in the Third Quarter.","cats":["highlight"],"entities":[[63,76,"xtick"]],"Comments":[]}
+{"id":792,"text":"In the Fourth Quarter, observe the effects of winter holidays on consumer behavior.","cats":["highlight"],"entities":[[7,22,"xtick"]],"Comments":[]}
+{"id":793,"text":"Focus on the technology sector's new releases in the First Quarter.","cats":["highlight"],"entities":[[53,66,"xtick"]],"Comments":[]}
+{"id":794,"text":"In the Second Quarter, examine the automotive industry's performance.","cats":["highlight"],"entities":[[7,21,"xtick"]],"Comments":[]}
+{"id":795,"text":"Observe the fashion industry's transition to fall collections in the Third Quarter.","cats":["highlight"],"entities":[[69,82,"xtick"]],"Comments":[]}
+{"id":796,"text":"In the Fourth Quarter, focus on the impact of holiday marketing on consumer spending.","cats":["highlight"],"entities":[[7,21,"xtick"]],"Comments":[]}
+{"id":797,"text":"Look at the energy sector's performance during the colder months in the First Quarter.","cats":["highlight"],"entities":[[72,85,"xtick"]],"Comments":[]}
+{"id":798,"text":"In the Second Quarter, notice the increase in outdoor concerts and events.","cats":["highlight"],"entities":[[7,21,"xtick"]],"Comments":[]}
+{"id":799,"text":"Focus on the education sector's planning for the new academic year in the Third Quarter.","cats":["highlight"],"entities":[[74,87,"xtick"]],"Comments":[]}
+{"id":800,"text":"In the Fourth Quarter, examine the banking industry's year-end assessments.","cats":["highlight"],"entities":[[7,21,"xtick"]],"Comments":[]}
+{"id":801,"text":"Look at the First Quarter's data to understand the year's economic kickoff.","cats":["highlight"],"entities":[[12,27,"xtick"]],"Comments":[]}
+{"id":802,"text":"In the Second Quarter, observe how companies prepare for vacation season.","cats":["highlight"],"entities":[[7,21,"xtick"]],"Comments":[]}
+{"id":803,"text":"Focus on the retail industry's strategies for Black Friday in the Fourth Quarter.","cats":["highlight"],"entities":[[66,80,"xtick"]],"Comments":[]}
+{"id":804,"text":"In the Third Quarter, examine the hospitality industry's response to travel demands.","cats":["highlight"],"entities":[[7,20,"xtick"]],"Comments":[]}
+{"id":805,"text":"Look at the impact of tax season in the First Quarter.","cats":["highlight"],"entities":[[40,54,"xtick"]],"Comments":[]}
+{"id":806,"text":"In the Second Quarter, notice the construction and infrastructure developments.","cats":[],"entities":[[7,22,"xtick"]],"Comments":[]}
+{"id":807,"text":"Observe the food and beverage industry's seasonal trends in the Third Quarter.","cats":["highlight"],"entities":[[64,77,"xtick"]],"Comments":[]}
+{"id":808,"text":"In the Fourth Quarter, focus on trends in online shopping and holiday sales.","cats":["highlight"],"entities":[[7,21,"xtick"]],"Comments":[]}
+{"id":809,"text":"Look at the healthcare initiatives tackling flu season in the First Quarter.","cats":["highlight"],"entities":[[62,76,"xtick"]],"Comments":[]}
+{"id":810,"text":"In the Second Quarter, examine the entertainment industry's summer releases.","cats":["highlight"],"entities":[[7,22,"xtick"]],"Comments":[]}
+{"id":811,"text":"Focus on the automotive industry's new models release in the Third Quarter.","cats":["highlight"],"entities":[[61,74,"xtick"]],"Comments":[]}
+{"id":812,"text":"In the Fourth Quarter, examine the charitable giving and non-profit sector trends.","cats":["highlight"],"entities":[[7,21,"xtick"]],"Comments":[]}
+{"id":813,"text":"Look at consumer electronics sales spikes in the First Quarter post-New Year.","cats":["highlight"],"entities":[[49,63,"xtick"]],"Comments":[]}
+{"id":814,"text":"In the Second Quarter, observe the travel and hospitality sector's preparations.","cats":["highlight"],"entities":[[7,21,"xtick"]],"Comments":[]}
+{"id":815,"text":"Focus on the impact of school reopening on various sectors in the Third Quarter.","cats":["highlight"],"entities":[[66,80,"xtick"]],"Comments":[]}
+{"id":816,"text":"In the Fourth Quarter, look at the financial planning strategies for the upcoming year.","cats":["highlight"],"entities":[[7,21,"xtick"]],"Comments":[]}
+{"id":817,"text":"Notice the shift in fashion and apparel trends in the First Quarter.","cats":["highlight"],"entities":[[54,67,"xtick"]],"Comments":[]}
+{"id":818,"text":"In the Second Quarter, examine the impact of graduation season.","cats":["highlight"],"entities":[[7,22,"xtick"]],"Comments":[]}
+{"id":819,"text":"Observe the retail sector's inventory management in the Third Quarter.","cats":["highlight"],"entities":[[56,69,"xtick"]],"Comments":[]}
+{"id":820,"text":"In the Fourth Quarter, focus on the impact of year-end bonuses on consumer spending.","cats":["highlight"],"entities":[[7,21,"xtick"]],"Comments":[]}
+{"id":821,"text":"In Quarter 1, observe the new strategies businesses implement at the year's start.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":822,"text":"Notice the shift in consumer behavior in Quarter 2 as summer approaches.","cats":["highlight"],"entities":[[41,50,"xtick"]],"Comments":[]}
+{"id":823,"text":"Look at the data trends in Quarter 3, showing the height of vacation season.","cats":["highlight"],"entities":[[27,36,"xtick"]],"Comments":[]}
+{"id":824,"text":"Focus on Quarter 4's performance, emphasizing holiday shopping and year-end sales.","cats":["highlight"],"entities":[[9,20,"xtick"]],"Comments":[]}
+{"id":825,"text":"In Quarter 1, examine the financial sector's recovery after the holiday season.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":826,"text":"Observe how outdoor activities increase in Quarter 2 with warmer weather.","cats":["highlight"],"entities":[[43,52,"xtick"]],"Comments":[]}
+{"id":827,"text":"In Quarter 3, notice the peak in travel and leisure activities.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":828,"text":"Look at Quarter 4 for insights into consumer behavior during the holiday season.","cats":["highlight"],"entities":[[8,17,"xtick"]],"Comments":[]}
+{"id":829,"text":"In Quarter 1, focus on the trends in health and wellness industries.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":830,"text":"Notice the start of major sports seasons and their economic impact in Quarter 2.","cats":["highlight"],"entities":[[70,79,"xtick"]],"Comments":[]}
+{"id":831,"text":"Look at the back-to-school impact on retail in Quarter 3.","cats":["highlight"],"entities":[[47,56,"xtick"]],"Comments":[]}
+{"id":832,"text":"In Quarter 4, observe the preparation for major holidays like Christmas and New Year.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":833,"text":"Focus on the technology sector's new product releases in Quarter 1.","cats":["highlight"],"entities":[[57,66,"xtick"]],"Comments":[]}
+{"id":834,"text":"In Quarter 2, examine the real estate market as it enters its busy season.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":835,"text":"Observe the shift in fashion and retail trends in Quarter 3.","cats":["highlight"],"entities":[[50,59,"xtick"]],"Comments":[]}
+{"id":836,"text":"In Quarter 4, focus on the retail and e-commerce sectors' performance.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":837,"text":"Look at the energy consumption patterns in Quarter 1 during colder months.","cats":["highlight"],"entities":[[43,52,"xtick"]],"Comments":[]}
+{"id":838,"text":"In Quarter 2, observe the rise in travel and vacation planning.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":839,"text":"Focus on the changes in consumer spending on education in Quarter 3.","cats":["highlight"],"entities":[[58,67,"xtick"]],"Comments":[]}
+{"id":840,"text":"In Quarter 4, examine the impact of year-end bonuses on spending.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":841,"text":"Look at Quarter 1's data for insights into economic trends at the year's start.","cats":["highlight"],"entities":[[8,19,"xtick"]],"Comments":[]}
+{"id":842,"text":"In Quarter 2, notice the preparations for summer holidays in various sectors.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":843,"text":"Observe the agricultural sector's harvest season in Quarter 3.","cats":["highlight"],"entities":[[52,62,"xtick"]],"Comments":[]}
+{"id":844,"text":"In Quarter 4, focus on the hospitality sector's response to holiday travelers.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":845,"text":"Look at the impact of tax season on financial planning in Quarter 1.","cats":["highlight"],"entities":[[58,67,"xtick"]],"Comments":[]}
+{"id":846,"text":"In Quarter 2, examine the entertainment industry's activities.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":847,"text":"Focus on the retail industry's strategies for Black Friday in Quarter 4.","cats":["highlight"],"entities":[[62,71,"xtick"]],"Comments":[]}
+{"id":848,"text":"In Quarter 3, observe the automotive industry's performance.","cats":[],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":849,"text":"Look at the healthcare industry's preparation for winter in Quarter 4.","cats":["highlight"],"entities":[[57,69,"xtick"]],"Comments":[]}
+{"id":850,"text":"In Quarter 1, focus on the post-New Year's market strategies.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":851,"text":"Notice the impact of spring holidays on the market in Quarter 2.","cats":["highlight"],"entities":[[54,63,"xtick"]],"Comments":[]}
+{"id":852,"text":"Observe how businesses prepare for the end of the year in Quarter 4.","cats":["highlight"],"entities":[[58,67,"xtick"]],"Comments":[]}
+{"id":853,"text":"In Quarter 3, examine the impact of summer weather on various industries.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":854,"text":"Look at the technology sector's developments throughout Quarter 1.","cats":["highlight"],"entities":[[56,65,"xtick"]],"Comments":[]}
+{"id":855,"text":"In Quarter 2, focus on the impact of graduation season on different sectors.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":856,"text":"Notice the shifts in consumer behavior during Quarter 3's vacation time.","cats":["highlight"],"entities":[[46,57,"xtick"]],"Comments":[]}
+{"id":857,"text":"In Quarter 4, examine the trends in holiday travel and tourism.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":858,"text":"Look at how industries wrap up the year and plan for the next in Quarter 4.","cats":["highlight"],"entities":[[65,74,"xtick"]],"Comments":[]}
+{"id":859,"text":"In Quarter 1, observe the trends in New Year's resolutions and their impact.","cats":["highlight"],"entities":[[3,12,"xtick"]],"Comments":[]}
+{"id":860,"text":"Focus on the transition to summer activities in various sectors in Quarter 2.","cats":["highlight"],"entities":[[67,76,"xtick"]],"Comments":[]}
+{"id":861,"text":"Let's zoom in on this section and take a closer look at the emerging pattern.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":862,"text":"Zoom out to see how this trend compares on a global scale.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":863,"text":"We'll zoom in here to examine the finer details of this data cluster.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":864,"text":"If we zoom out, we can observe the overall trajectory of these changes.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":865,"text":"Zoom in on this part to see how the variables interact closely.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":866,"text":"By zooming out, we can get a broader view of the market dynamics.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":867,"text":"Let's zoom in on this period to understand the nuances of the fluctuation.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":868,"text":"Zoom out to appreciate the full scope of the environmental impact.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":869,"text":"Focus closer by zooming in on this curve to identify the subtle shifts.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":870,"text":"Zoom out to encompass the entire dataset and observe the long-term trends.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":871,"text":"Zoom in on this corner to see the specifics of the regional differences.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":872,"text":"When we zoom out, the pattern of growth versus stagnation becomes clearer.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":873,"text":"Let's take a detailed look by zooming in on the peak period.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":874,"text":"Zoom out to get a comprehensive view of how these factors correlate.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":875,"text":"Focus in on this segment to discern the intricacies of the data interaction.","cats":[],"entities":[],"Comments":[]}
+{"id":876,"text":"By zooming out, we can compare the historical context of these figures.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":877,"text":"Zoom in here to closely examine the sudden drop in these values.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":878,"text":"Zoom out to see how this section fits into the overall industry landscape.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":879,"text":"Let's zoom in to understand the reasons behind this anomaly.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":880,"text":"If we zoom out, we can see the effect of these variables on a larger scale.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":881,"text":"Zoom in on 1990 to see the specific market changes that year.","cats":["zoom_in"],"entities":[[8,15,"xtick"]],"Comments":[]}
+{"id":882,"text":"Zoom out to get a broader view of the trends from 2000 to 2010.","cats":["zoom_out"],"entities":[[45,62,"range"]],"Comments":[]}
+{"id":883,"text":"Zoom 5 years bigger to compare the economic growth from 1995 to 2000.","cats":["zoom_out"],"entities":[[51,68,"range"]],"Comments":[]}
+{"id":884,"text":"Zoom in on April to analyze the spring season's market impact.","cats":["zoom_in"],"entities":[[8,16,"xtick"]],"Comments":[]}
+{"id":885,"text":"Zoom out for an overview of consumer behavior changes from January to December.","cats":["zoom_out"],"entities":[[54,78,"range"]],"Comments":[]}
+{"id":886,"text":"Zoom 3 months bigger to observe the transition from summer to autumn.","cats":["zoom_out"],"entities":[[47,68,"range"]],"Comments":[]}
+{"id":887,"text":"Zoom in on Quarter 2 to examine the details of the summer holiday effect.","cats":["zoom_in"],"entities":[[8,20,"xtick"]],"Comments":[]}
+{"id":888,"text":"Zoom out to understand the year-round performance across all four quarters.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":889,"text":"Zoom 2 quarters bigger to compare the first half of the year with the second half.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":890,"text":"Zoom in on Monday to study the start-of-week trends in detail.","cats":["zoom_in"],"entities":[[7,17,"xtick"]],"Comments":[]}
+{"id":891,"text":"Zoom out for a week-long overview, from Monday to Sunday.","cats":["zoom_out"],"entities":[[35,56,"xtick"]],"Comments":[]}
+{"id":892,"text":"Zoom the weekend bigger to analyze the difference between Saturday and Sunday.","cats":["zoom_out"],"entities":[[50,77,"range"]],"Comments":[]}
+{"id":893,"text":"Zoom in on 2008 to understand the financial crisis's immediate effects.","cats":["zoom_in"],"entities":[[8,15,"xtick"]],"Comments":[]}
+{"id":894,"text":"Zoom out to see the entire decade of the 2000s and its economic fluctuations.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":895,"text":"Zoom in on July and August to study the peak vacation season.","cats":["zoom_in"],"entities":[[8,15,"xtick"],[20,26,"xtick"]],"Comments":[]}
+{"id":896,"text":"Zoom out to compare winter and summer months in retail sales.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":897,"text":"Zoom in on Quarter 4 for a close-up view of holiday shopping patterns.","cats":["zoom_in"],"entities":[[11,21,"xtick"]],"Comments":[]}
+{"id":898,"text":"Zoom out to review the quarterly progression throughout the year.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":899,"text":"Zoom in on Wednesday to examine midweek consumer behavior.","cats":["zoom_in"],"entities":[[11,20,"xtick"]],"Comments":[]}
+{"id":900,"text":"Zoom out to compare weekday and weekend activities.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":901,"text":"Considering the overall trends, let's zoom in on the year 2005 to understand the spike in technology adoption.","cats":["zoom_in"],"entities":[[53,63,"xtick"]],"Comments":[]}
+{"id":902,"text":"It's interesting to note, if we zoom out from the year 1990 to 2000, we see a gradual but significant change in market dynamics.","cats":["zoom_out"],"entities":[[41,67,"range"]],"Comments":[]}
+{"id":903,"text":"And as we discuss, the period from 1985 to 1995, zoom 10 years bigger to see the broader economic shift.","cats":["zoom_out"],"entities":[[30,47,"range"]],"Comments":[]}
+{"id":904,"text":"While April often shows a surge in sales, zoom in on this month for a closer look at consumer behavior patterns.","cats":["zoom_in"],"entities":[[6,11,"xtick"]],"Comments":[]}
+{"id":905,"text":"For a seasonal analysis, let's zoom out and compare the shopping trends from March through August.","cats":["zoom_out"],"entities":[[72,97,"range"]],"Comments":[]}
+{"id":906,"text":"Interestingly, if we zoom 6 months bigger, the transition from spring to fall becomes much clearer.","cats":["zoom_out"],"entities":[[58,77,"range"]],"Comments":[]}
+{"id":907,"text":"Focusing on annual projections, we should zoom in on Quarter 3 to dissect the unexpected rise in sales.","cats":["zoom_in"],"entities":[[50,62,"xtick"]],"Comments":[]}
+{"id":908,"text":"To get the full picture, zoom out to encompass all four quarters of the previous fiscal year.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":909,"text":"Now, as we compare half-yearly data, zoom 2 quarters bigger to contrast the first and second halves.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":910,"text":"Let's not forget, when we zoom in on Monday, we often see a different pattern than the rest of the week.","cats":["zoom_in"],"entities":[[34,43,"xtick"]],"Comments":[]}
+{"id":911,"text":"A week's overview shows distinct patterns, so let's zoom out from Monday to Sunday for a complete analysis.","cats":["zoom_out"],"entities":[[61,82,"range"]],"Comments":[]}
+{"id":912,"text":"To understand weekend shopping habits better, zoom the weekend bigger and compare it with weekdays.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":913,"text":"In the context of global events, zoom in on 2011 and observe the market reaction to international news.","cats":["zoom_in"],"entities":[[41,48,"xtick"]],"Comments":[]}
+{"id":914,"text":"Looking at the broader picture requires us to zoom out and review the entire 1990s decade for key economic events.","cats":["zoom_out"],"entities":[[77,82,"xtick"]],"Comments":[]}
+{"id":915,"text":"When examining summer tourism trends, let's zoom in on June and July and then compare them with the quieter months.","cats":["zoom_in"],"entities":[[52,59,"xtick"],[64,68,"xtick"]],"Comments":[]}
+{"id":916,"text":"For a yearly overview, zoom out to see how the retail landscape transforms from January all the way to December.","cats":["zoom_out"],"entities":[[75,112,"range"]],"Comments":[]}
+{"id":917,"text":"In focusing on quarterly performance, especially zoom in on Quarter 1 to see the post-holiday effect.","cats":["zoom_in"],"entities":[[60,69,"xtick"]],"Comments":[]}
+{"id":918,"text":"It's crucial, for our analysis, to zoom out and look at the quarter-by-quarter growth throughout the past year.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":919,"text":"During our discussion about consumer behavior, let's zoom in on Thursday to understand the pre-weekend surge.","cats":["zoom_in"],"entities":[[61,73,"xtick"]],"Comments":[]}
+{"id":920,"text":"And finally, to see the bigger picture of consumer trends, let's zoom out and compare weekdays with weekends.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":921,"text":"Let's zoom in on the first quarter of 2018 and see how the new tax policies affected consumer spending.","cats":["zoom_in"],"entities":[[38,42,"xtick"]],"Comments":[]}
+{"id":922,"text":"Let's zoom out to a five-year overview and observe the long-term growth trends in the renewable energy sector.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":923,"text":"Let's zoom 3 months bigger in the summer period to analyze the seasonal impact on tourism.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":924,"text":"Let's zoom in on April's data to examine the sudden spike in online retail sales.","cats":["zoom_in"],"entities":[[14,24,"xtick"]],"Comments":[]}
+{"id":925,"text":"Let's zoom out across the decade and trace the evolution of digital media consumption.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":926,"text":"Let's zoom into the week of the product launch and analyze the immediate market reaction.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":927,"text":"Let's zoom out and compare the winter months to see the effect of holiday shopping on the economy.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":928,"text":"Let's zoom in on the months following a major policy change to assess its immediate impact.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":929,"text":"Let's zoom out to encompass the entire year and evaluate the effectiveness of new marketing strategies.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":930,"text":"Let's zoom in on the hours after a significant global event and study its impact on the stock market.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":931,"text":"Let's zoom out to review the quarterly data and identify recurring seasonal patterns.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":932,"text":"Let's zoom into the weekends in Q2 to understand leisure spending habits.","cats":["zoom_in"],"entities":[[32,34,"xtick"]],"Comments":[]}
+{"id":933,"text":"Let's zoom out and look at years of data to understand the long-term climate change impact.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":934,"text":"Let's zoom in on the holiday season and dissect the consumer spending behavior.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":935,"text":"Let's zoom out to encompass several years and observe the shifts in global trade patterns.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":936,"text":"Let's zoom into the weekdays and contrast them with weekend sales performance.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":937,"text":"Let's zoom out to the past five years and analyze the employment rate trends.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":938,"text":"Let's zoom in on the month of September to see the back-to-school effect on retail.","cats":["zoom_in"],"entities":[[30,39,"xtick"]],"Comments":[]}
+{"id":939,"text":"Let's zoom out and compare the first and second halves of the year for consumer electronics sales.","cats":["zoom_out"],"entities":[],"Comments":[]}
+{"id":940,"text":"Let's zoom in on the days leading up to a major sports event and track the related merchandise sales.","cats":["zoom_in"],"entities":[],"Comments":[]}
+{"id":941,"text":"Highlight the surge in July's sales, but remember, it might be due to seasonal factors.","cats":["highlight"],"entities":[[19,29,"xtick"]],"Comments":[]}
+{"id":942,"text":"Let's highlight the decline in Q1 performance, though it's not entirely unexpected given the market conditions.","cats":["highlight"],"entities":[[28,33,"xtick"]],"Comments":[]}
+{"id":943,"text":"Interestingly, when we highlight the consumer behavior in November, it correlates with major holiday trends.","cats":["highlight"],"entities":[[55,66,"xtick"]],"Comments":[]}
+{"id":944,"text":"Highlight the unusual spike in February, and yes, it might be related to the new product launch.","cats":["highlight"],"entities":[[28,40,"xtick"]],"Comments":[]}
+{"id":945,"text":"Let's highlight how Monday's data contrasts with Friday's, which could be due to different consumer habits.","cats":["highlight"],"entities":[[20,28,"xtick"],[49,57,"xtick"]],"Comments":[]}
+{"id":946,"text":"It's crucial to highlight the year-over-year growth in 2020, despite the global economic challenges.","cats":["highlight"],"entities":[[52,59,"xtick"]],"Comments":[]}
+{"id":947,"text":"Highlight the steady increase in online engagement in April, though it coincides with the national campaign.","cats":["highlight"],"entities":[[51,59,"xtick"]],"Comments":[]}
+{"id":948,"text":"When highlighting the Q3 results, consider the impact of the new marketing strategy implemented in July.","cats":["highlight"],"entities":[[22,24,"xtick"]],"Comments":[]}
+{"id":949,"text":"Let's highlight the fluctuations in September, and yes, it's possibly due to back-to-school shopping.","cats":["highlight"],"entities":[[33,45,"xtick"]],"Comments":[]}
+{"id":950,"text":"Highlight the revenue growth in December, keeping in mind the holiday season's effect.","cats":["highlight"],"entities":[[29,40,"xtick"]],"Comments":[]}
+{"id":951,"text":"It's fascinating to highlight the trends between summer and autumn months, despite the unpredictable weather.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":952,"text":"Let's highlight the market shift in 2015, which marks a key turning point in industry dynamics.","cats":["highlight"],"entities":[[33,40,"xtick"]],"Comments":[]}
+{"id":953,"text":"Highlight the uptick in March, and it's interesting to note its alignment with the sports season.","cats":["highlight"],"entities":[[21,29,"xtick"]],"Comments":[]}
+{"id":954,"text":"When highlighting Quarter 2, remember to factor in the new tax regulations that were introduced.","cats":["highlight"],"entities":[[18,27,"xtick"]],"Comments":[]}
+{"id":955,"text":"Let's highlight the weekend peaks in consumer spending, though it might be skewed by special events.","cats":["highlight"],"entities":[],"Comments":[]}
+{"id":956,"text":"Highlight the significant downturn in August, which could be a result of various external factors.","cats":["highlight"],"entities":[[35,44,"xtick"]],"Comments":[]}
+{"id":957,"text":"It's insightful to highlight the pattern in June, especially with the introduction of new technologies.","cats":["highlight"],"entities":[[41,48,"xtick"]],"Comments":[]}
+{"id":958,"text":"Let's highlight the impressive performance in Q4, considering it's usually a challenging quarter.","cats":["highlight"],"entities":[[43,48,"xtick"]],"Comments":[]}
+{"id":959,"text":"Highlight the steady customer acquisition in May, and consider the impact of the recent advertising campaign.","cats":["highlight"],"entities":[[42,48,"xtick"]],"Comments":[]}
+{"id":960,"text":"When highlighting the data from 2018, it's important to note the influence of global economic trends.","cats":["highlight"],"entities":[[27,36,"xtick"]],"Comments":[]}
+{"id":961,"text":"Let's highlight the growth in the healthcare sector in January, amidst the usual post-holiday slowdown.","cats":["highlight"],"entities":[[52,62,"xtick"]],"Comments":[]}
+{"id":962,"text":"Highlight the changes in travel habits in February, potentially influenced by the new airline regulations.","cats":["highlight"],"entities":[[39,50,"xtick"]],"Comments":[]}
+{"id":963,"text":"It's essential to highlight the impact of the global event in March on the financial markets.","cats":["highlight"],"entities":[[59,67,"xtick"]],"Comments":[]}
+{"id":964,"text":"Let's highlight the remarkable recovery in April, even though it was a period of economic uncertainty.","cats":["highlight"],"entities":[[40,48,"xtick"]],"Comments":[]}
+{"id":965,"text":"Highlight the dip in consumer confidence in May, but also consider the political climate at that time.","cats":["highlight"],"entities":[[41,47,"xtick"]],"Comments":[]}
+{"id":966,"text":"When highlighting June's performance, take into account the summer sales promotions.","cats":["highlight"],"entities":[[18,24,"xtick"]],"Comments":[]}
+{"id":967,"text":"Let's highlight the steady increase in Q2, despite the fluctuating currency exchange rates.","cats":["highlight"],"entities":[[36,41,"xtick"]],"Comments":[]}
+{"id":968,"text":"Highlight the surprising shift in July, which might be attributed to the new government policy.","cats":["highlight"],"entities":[[31,38,"xtick"]],"Comments":[]}
+{"id":969,"text":"It's crucial to highlight the August data, especially with the launch of the new product line.","cats":["highlight"],"entities":[[30,36,"xtick"]],"Comments":[]}
+{"id":970,"text":"Let's highlight the consumer trend in September, coinciding with various global sports events.","cats":["highlight"],"entities":[[35,48,"xtick"]],"Comments":[]}
+{"id":971,"text":"Highlight the October data, but be aware of the potential impact of the festive season starting early.","cats":["highlight"],"entities":[[14,21,"xtick"]],"Comments":[]}
+{"id":972,"text":"When highlighting November, consider the effect of year-end strategic changes by major companies.","cats":["highlight"],"entities":[[18,26,"xtick"]],"Comments":[]}
+{"id":973,"text":"Let's highlight the significant sales in December, though it's typical for that time of the year.","cats":[],"entities":[[38,49,"xtick"]],"Comments":[]}
+{"id":974,"text":"Highlight the fluctuations in the energy market in Q1, possibly due to changes in global oil prices.","cats":["highlight"],"entities":[[48,53,"xtick"]],"Comments":[]}
+{"id":975,"text":"When highlighting Q3, remember the seasonal weather changes and their impact on certain industries.","cats":["highlight"],"entities":[[18,20,"xtick"]],"Comments":[]}
+{"id":976,"text":"Let's highlight the market response in Q4, amid various end-of-year financial closures.","cats":["highlight"],"entities":[[36,41,"xtick"]],"Comments":[]}
+{"id":977,"text":"Highlight the growth in the tech sector in February, taking into account the major tech conference.","cats":["highlight"],"entities":[[40,51,"xtick"]],"Comments":[]}
+{"id":978,"text":"It's key to highlight the April numbers, especially considering the new export regulations.","cats":["highlight"],"entities":[[26,31,"xtick"]],"Comments":[]}
+{"id":979,"text":"Let's highlight the shift in consumer preferences in Q1, perhaps influenced by the emerging health trends.","cats":["highlight"],"entities":[[50,55,"xtick"]],"Comments":[]}
+{"id":980,"text":"Highlight the significant investments in renewable energy in Q3, while noting the governmental incentives involved.","cats":["highlight"],"entities":[[58,63,"xtick"]],"Comments":[]}
+{"id":981,"text":"Well, highlight the spike in user engagement in January, you know, to see the effect of the new year's resolutions.","cats":["highlight"],"entities":[[45,55,"xtick"]],"Comments":[]}
+{"id":982,"text":"You know, let's highlight how the sales figures in June were impacted by, like, the mid-year promotions.","cats":["highlight"],"entities":[[48,55,"xtick"]],"Comments":[]}
+{"id":983,"text":"I mean, focus on the significant downturn in September, possibly due to back-to-school season, you know.","cats":["highlight"],"entities":[[42,54,"xtick"]],"Comments":[]}
+{"id":984,"text":"So, like, highlight the surge in retail around November, especially with the holiday season kicking in.","cats":["highlight"],"entities":[[47,55,"xtick"]],"Comments":[]}
+{"id":985,"text":"Well, let's take a look at, you know, the Q2 results and highlight the growth compared to Q1.","cats":["highlight"],"entities":[[42,44,"xtick"],[90,92,"xtick"]],"Comments":[]}
+{"id":986,"text":"You know, it's interesting to highlight how the market reacted in April, like, right after the product launch.","cats":["highlight"],"entities":[[63,71,"xtick"]],"Comments":[]}
+{"id":987,"text":"I mean, let's highlight the gradual increase in leisure spending from March to May, which is kind of expected, you know.","cats":["highlight"],"entities":[[65,82,"range"]],"Comments":[]}
+{"id":988,"text":"Well, highlight the downturn in tourism in August, you know, it could be due to the end of summer vacations.","cats":["highlight"],"entities":[[40,49,"xtick"]],"Comments":[]}
+{"id":989,"text":"Like, let's focus on the October data, you know, to see the pre-holiday shopping trends.","cats":["highlight"],"entities":[[25,32,"xtick"]],"Comments":[]}
+{"id":990,"text":"You know, it's crucial to highlight the steady growth in Q3, like, as the market stabilizes.","cats":["highlight"],"entities":[[54,59,"xtick"]],"Comments":[]}
+{"id":991,"text":"Well, I mean, let's look at the dip in February, possibly related to, you know, post-holiday slumps.","cats":["highlight"],"entities":[[36,47,"xtick"]],"Comments":[]}
+{"id":992,"text":"Like, highlight the consistent performance across all Mondays in Q1, which is quite remarkable, you know.","cats":["highlight"],"entities":[[62,67,"xtick"]],"Comments":[]}
+{"id":993,"text":"You know, focus on how the energy consumption in December, like, spikes, probably due to the winter season.","cats":["highlight"],"entities":[[46,57,"xtick"]],"Comments":[]}
+{"id":994,"text":"Well, let's highlight the Q4 data, you know, to analyze the year-end financial strategies.","cats":["highlight"],"entities":[[26,28,"xtick"]],"Comments":[]}
+{"id":995,"text":"I mean, take a look at the July numbers, and, like, notice the seasonal peak in certain industries.","cats":["highlight"],"entities":[[27,31,"xtick"]],"Comments":[]}
+{"id":996,"text":"Like, let's highlight the increase in online activity in September, you know, with the new product releases.","cats":["highlight"],"entities":[[54,66,"xtick"]],"Comments":[]}
+{"id":997,"text":"You know, it's interesting to highlight the decline in April, possibly due to, well, market uncertainties.","cats":["highlight"],"entities":[[52,60,"xtick"]],"Comments":[]}
+{"id":998,"text":"Well, focus on the rise in consumer confidence in June, you know, as the economy shows signs of recovery.","cats":["highlight"],"entities":[[47,54,"xtick"]],"Comments":[]}
+{"id":999,"text":"I mean, let's highlight the fluctuations in market trends from, like, January through March.","cats":["highlight"],"entities":[[70,91,"range"]],"Comments":[]}
+{"id":1000,"text":"Like, highlight the noticeable shift in travel patterns in Q2, you know, with summer holidays approaching.","cats":["highlight"],"entities":[[56,61,"xtick"]],"Comments":[]}
+{"id":1001,"text":"Highlight in 1800, 1850, and 1900, how industrialization started to take shape.","cats":["highlight"],"entities":[[13,17,"xtick"],[19,23,"xtick"],[29,33,"xtick"]],"Comments":[]}
+{"id":1002,"text":"Look at in 1910, 1930, and 1950, the global economic shifts due to major wars.","cats":["highlight"],"entities":[[11,15,"xtick"],[17,21,"xtick"],[27,31,"xtick"]],"Comments":[]}
+{"id":1003,"text":"Focus on in 1960, 1980, and 2000, the evolution of technology and its societal impact.","cats":["highlight"],"entities":[[12,16,"xtick"],[18,22,"xtick"],[28,32,"xtick"]],"Comments":[]}
+{"id":1004,"text":"Observe in 1991, 2001, and 2011, significant political changes worldwide.","cats":["highlight"],"entities":[[8,15,"xtick"],[17,21,"xtick"],[27,31,"xtick"]],"Comments":[]}
+{"id":1005,"text":"Highlight in 1992, 2002, and 2012, the progression of environmental awareness and action.","cats":["highlight"],"entities":[[10,17,"xtick"],[19,23,"xtick"],[29,33,"xtick"]],"Comments":[]}
+{"id":1006,"text":"Examine in 2003, 2008, and 2013, the fluctuations in the global stock markets.","cats":["highlight"],"entities":[[8,15,"xtick"],[17,21,"xtick"],[27,31,"xtick"]],"Comments":[]}
+{"id":1007,"text":"Consider in 1995, 2005, and 2015, the advancements in digital technology.","cats":["highlight"],"entities":[[9,16,"xtick"],[18,22,"xtick"],[28,32,"xtick"]],"Comments":[]}
+{"id":1008,"text":"Notice in 1998, 2008, and 2018, how global crises impacted economic policies.","cats":["highlight"],"entities":[[7,14,"xtick"],[16,20,"xtick"],[26,30,"xtick"]],"Comments":[]}
+{"id":1009,"text":"In 1999, 2009, and 2019, highlight the shifts in global leadership and governance.","cats":["highlight"],"entities":[[0,7,"xtick"],[9,13,"xtick"],[19,23,"xtick"]],"Comments":[]}
+{"id":1010,"text":"Look at in 1994, 2004, and 2014, the changes in global health trends and policies.","cats":["highlight"],"entities":[[8,15,"xtick"],[17,21,"xtick"],[27,31,"xtick"]],"Comments":[]}
+{"id":1011,"text":"Focus on in 2007, 2012, and 2017, the milestones in renewable energy adoption.","cats":["highlight"],"entities":[[9,16,"xtick"],[18,22,"xtick"],[28,32,"xtick"]],"Comments":[]}
+{"id":1012,"text":"Examine in 2001, 2006, and 2011, the evolution of internet and mobile technology.","cats":["highlight"],"entities":[[8,15,"xtick"],[17,21,"xtick"],[27,31,"xtick"]],"Comments":[]}
+{"id":1013,"text":"Observe in 2000, 2010, and 2020, the pivotal moments in global climate change initiatives.","cats":["highlight"],"entities":[[8,15,"xtick"],[17,21,"xtick"],[27,31,"xtick"]],"Comments":[]}
+{"id":1014,"text":"Highlight in 1996, 2006, and 2016, the advancements in medical research and healthcare.","cats":["highlight"],"entities":[[10,17,"xtick"],[19,23,"xtick"],[29,33,"xtick"]],"Comments":[]}
+{"id":1015,"text":"Consider in 1993, 2003, and 2013, the changes in international trade agreements.","cats":["highlight"],"entities":[[9,16,"xtick"],[18,22,"xtick"],[28,32,"xtick"]],"Comments":[]}
+{"id":1016,"text":"In 1990, 2000, and 2010, look at the cultural shifts influenced by media and entertainment.","cats":["highlight"],"entities":[[0,7,"xtick"],[9,13,"xtick"],[19,23,"xtick"]],"Comments":[]}
+{"id":1017,"text":"Focus on in 1985, 1995, and 2005, the evolution of consumer electronics.","cats":["highlight"],"entities":[[9,16,"xtick"],[18,22,"xtick"],[28,32,"xtick"]],"Comments":[]}
+{"id":1018,"text":"Notice in 1982, 1992, and 2002, significant developments in global telecommunications.","cats":["highlight"],"entities":[[7,14,"xtick"],[16,20,"xtick"],[26,30,"xtick"]],"Comments":[]}
+{"id":1019,"text":"Highlight in 1978, 1988, and 1998, the major milestones in space exploration.","cats":["highlight"],"entities":[[10,17,"xtick"],[19,23,"xtick"],[29,33,"xtick"]],"Comments":[]}
+{"id":1020,"text":"Examine in 1973, 1983, and 1993, the impact of oil crises on global economies.","cats":["highlight"],"entities":[[8,15,"xtick"],[17,21,"xtick"],[27,31,"xtick"]],"Comments":[]}
+{"id":1021,"text":"In 1970, 1990, and 2010, observe the changes in environmental policies and practices.","cats":["highlight"],"entities":[[0,7,"xtick"],[9,13,"xtick"],[19,23,"xtick"]],"Comments":[]}
+{"id":1022,"text":"Look at in 1965, 1985, and 2005, the progression in civil rights and equality movements.","cats":["highlight"],"entities":[[8,15,"xtick"],[17,21,"xtick"],[27,31,"xtick"]],"Comments":[]}
+{"id":1023,"text":"Focus on in 1962, 1982, and 2002, the milestones in global peacekeeping efforts.","cats":[],"entities":[[9,16,"xtick"],[18,22,"xtick"],[28,32,"xtick"]],"Comments":[]}
+{"id":1024,"text":"Highlight in 1955, 1975, and 1995, the evolution of post-war economic recovery.","cats":["highlight"],"entities":[[10,17,"xtick"],[19,23,"xtick"],[29,33,"xtick"]],"Comments":[]}
+{"id":1025,"text":"Examine in 1952, 1972, and 1992, the advancements in aerospace technology.","cats":["highlight"],"entities":[[8,15,"xtick"],[17,21,"xtick"],[27,31,"xtick"]],"Comments":[]}
+{"id":1026,"text":"Consider in 1947, 1967, and 1987, the shifts in global political alliances.","cats":["highlight"],"entities":[[9,16,"xtick"],[18,22,"xtick"],[28,32,"xtick"]],"Comments":[]}
+{"id":1027,"text":"Notice in 1944, 1964, and 1984, the changes in international monetary systems.","cats":["highlight"],"entities":[[7,14,"xtick"],[16,20,"xtick"],[26,30,"xtick"]],"Comments":[]}
+{"id":1028,"text":"In 1940, 1960, and 1980, look at the global cultural and social transformations.","cats":["highlight"],"entities":[[0,7,"xtick"],[9,13,"xtick"],[19,23,"xtick"]],"Comments":[]}
+{"id":1029,"text":"Highlight in 1937, 1957, and 1977, the advancements in automotive technology.","cats":["highlight"],"entities":[[10,17,"xtick"],[19,23,"xtick"],[29,33,"xtick"]],"Comments":[]}
+{"id":1030,"text":"Observe in 1932, 1952, and 1972, the shifts in global population dynamics.","cats":["highlight"],"entities":[[8,15,"xtick"],[17,21,"xtick"],[27,31,"xtick"]],"Comments":[]}
+{"id":1031,"text":"Focus on in 1927, 1947, and 1967, the breakthroughs in medical science.","cats":["highlight"],"entities":[[9,16,"xtick"],[18,22,"xtick"],[28,32,"xtick"]],"Comments":[]}
+{"id":1032,"text":"Examine in 1923, 1943, and 1963, the changes in global education systems.","cats":["highlight"],"entities":[[8,15,"xtick"],[17,21,"xtick"],[27,31,"xtick"]],"Comments":[]}
+{"id":1033,"text":"In 1918, 1938, and 1958, highlight the aftermath of global conflicts.","cats":["highlight"],"entities":[[0,7,"xtick"],[9,13,"xtick"],[19,23,"xtick"]],"Comments":[]}
+{"id":1034,"text":"Look at in 1914, 1934, and 1954, the periods of economic depression and recovery.","cats":["highlight"],"entities":[[8,15,"xtick"],[17,21,"xtick"],[27,31,"xtick"]],"Comments":[]}
+{"id":1035,"text":"Notice in 1910, 1930, and 1950, the evolution of modern architecture and urban planning.","cats":["highlight"],"entities":[[7,14,"xtick"],[16,20,"xtick"],[26,30,"xtick"]],"Comments":[]}
+{"id":1036,"text":"Highlight in 1905, 1925, and 1945, the significant artistic movements of the times.","cats":["highlight"],"entities":[[10,17,"xtick"],[19,23,"xtick"],[29,33,"xtick"]],"Comments":[]}
+{"id":1037,"text":"Focus on in 1902, 1922, and 1942, the advancements in transportation infrastructure.","cats":["highlight"],"entities":[[9,16,"xtick"],[18,22,"xtick"],[28,32,"xtick"]],"Comments":[]}
+{"id":1038,"text":"Examine in 1897, 1917, and 1937, the shifts in global labor movements.","cats":["highlight"],"entities":[[8,15,"xtick"],[17,21,"xtick"],[27,31,"xtick"]],"Comments":[]}
+{"id":1039,"text":"In 1892, 1912, and 1932, observe the changes in agricultural practices and technologies","cats":["highlight"],"entities":[[0,7,"xtick"],[9,13,"xtick"],[19,23,"xtick"]],"Comments":[]}
+{"id":1040,"text":"So, moving on to the next slide, you'll see our Q1 performance metrics.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1041,"text":"Now, let's go to the next one, where we can compare year-over-year growth.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1042,"text":"Well, switching to the following chart, you know, it highlights our regional sales distribution.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1043,"text":"Okay, next up, we have our customer satisfaction analysis from the last quarter.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1044,"text":"Alright, let's move on to the subsequent slide, which shows our market share.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1045,"text":"So, on the next page, you'll notice the trends we've observed in consumer behavior.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1046,"text":"Now, turning to the next graph, we can see a significant shift in our online engagement.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1047,"text":"Well, the next chart, you know, will give us an insight into our competitive landscape.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1048,"text":"Okay, moving forward, the following data visualization focuses on our cost breakdown.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1049,"text":"Alright, on to the next one, where we'll delve into our advertising effectiveness.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1050,"text":"So, let's switch to the next slide, which demonstrates our revenue streams.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1051,"text":"Now, the subsequent chart will highlight our year-to-date achievements.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1052,"text":"Well, going to the next page, you know, we'll examine our operational efficiencies.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1053,"text":"Okay, coming up next, take a look at our social media impact over the past months.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1054,"text":"Alright, let's transition to the following visualization, focusing on our customer demographics.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1055,"text":"So, the next slide, as you can see, illustrates the breakdown of our R&D investments.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1056,"text":"Now, the next graph will walk us through our seasonal sales variations.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1057,"text":"Well, moving on to the next one, you'll see a comparison of our pre- and post-campaign results.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1058,"text":"Okay, let's advance to the following slide, where we discuss our supply chain optimization.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1059,"text":"Alright, next, we have an interesting analysis of our market penetration in different regions.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1060,"text":"Alright, moving on, let's take a look at our performance in different regions.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1061,"text":"So, the next slide shows our projected growth for the upcoming year.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1062,"text":"Well, the following chart really puts our progress into perspective.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1063,"text":"Okay, onto the next one where we'll see how our new product line is performing.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1064,"text":"Now, if we turn to the next page, we can see our customer retention rates.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1065,"text":"Alright, let's jump to the next graph that details our quarterly expenses.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1066,"text":"So, just moving ahead, the next visualization illustrates our digital marketing impact.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1067,"text":"Well, on the next slide, we have our international sales figures.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1068,"text":"Okay, flipping to the next one, here’s a breakdown of our revenue by product category.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1069,"text":"Now, the next chart, as you can see, highlights the age distribution of our user base.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1070,"text":"Alright, let’s proceed to the next slide, which is about our sustainability efforts.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1071,"text":"So, the subsequent graph will show how we've fared against our main competitors.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1072,"text":"Well, the next one will help us understand our seasonal staffing needs.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1073,"text":"Okay, next, we have an exciting comparison of this year's performance to last year's.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1074,"text":"Now, moving to the next page, we'll see the impact of recent market changes.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1075,"text":"Alright, let's turn to the next visualization showing our social media growth.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1076,"text":"So, going forward, the next slide presents our innovation roadmap for the next five years.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1077,"text":"Well, the following chart gives an overview of our customer journey.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1078,"text":"Okay, the next one, let’s see how our R&D investments have paid off.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1079,"text":"Now, the next graph will compare our online versus offline sales channels.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1080,"text":"Alright, as we move to the next slide, you'll see our expansion plans into new markets.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1081,"text":"So, the subsequent page outlines the key milestones we've achieved this quarter.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1082,"text":"Well, on the next chart, we’ll be looking at our employee satisfaction scores.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1083,"text":"Okay, the next one, here’s an in-depth look at our logistics efficiency.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1084,"text":"Now, let’s shift to the next slide, focusing on our partnership outcomes.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1085,"text":"Alright, moving ahead, the next graph will showcase our website traffic analytics.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1086,"text":"So, the next page is all about our customer service response times.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1087,"text":"Well, the following visualization reveals our market segmentation.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1088,"text":"Okay, next up, let’s check out our brand's performance across different media channels.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1089,"text":"Now, turning to the next chart, we can analyze the effectiveness of our recent ad campaign.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1090,"text":"Alright, let’s go on to the next slide for a closer look at our supply chain resilience.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1091,"text":"So, the subsequent graph will highlight the trends in our B2B partnerships.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1092,"text":"Well, the next one is about our year-on-year revenue growth.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1093,"text":"Okay, on the next page, let’s dive into the specifics of our product development cycle.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1094,"text":"Now, the next chart is particularly interesting, showing our customer lifetime value.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1095,"text":"Alright, moving forward, the next slide focuses on our competitive analysis.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1096,"text":"So, the next visualization will shed light on our market share evolution.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1097,"text":"Well, on the next slide, we’re going to look at our CSR initiatives.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1098,"text":"Okay, the next one is about the feedback we received from our latest customer survey.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1099,"text":"Now, let’s move to the next graph where we’ll see the breakdown of our operating costs.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1100,"text":"Next, let's examine the 2020 sales data.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1101,"text":"Now, focus on our Q3 customer growth.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1102,"text":"Moving to 2018's market share overview.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1103,"text":"Let's see April's impressive performance.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1104,"text":"Turning to our global reach in 2019.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1105,"text":"Next up, July's revenue comparison.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1106,"text":"Observe the 2021 holiday sales spike.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1107,"text":"Now, 2017 versus 2022 trends.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1108,"text":"Let's check the Q1 production stats.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1109,"text":"Moving on to the recent user feedback.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1110,"text":"See the Q4 profit margins now.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1111,"text":"Next, a quick look at 2023 forecasts.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1112,"text":"Now, highlighting our environmental initiatives.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1113,"text":"Check out the 2015 investment returns.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1114,"text":"Up next, June's digital campaign results.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1115,"text":"Turn to our 2022 customer demographics.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1116,"text":"Let's quickly review the Q2 outcomes.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1117,"text":"Now, the 2019 employee satisfaction rates.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1118,"text":"Next, a glance at October's expansion.","cats":["next_page"],"entities":[],"Comments":[]}
+{"id":1119,"text":"See the 2016 versus 2021 comparison.","cats":["next_page"],"entities":[],"Comments":[]}

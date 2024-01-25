@@ -1,0 +1,20 @@
+version: "3.1"
+
+nlu:
+- intent: show_axis
+  examples: |
+    - The [X axis](axis) is the GDP value.
+    - The [Y axis](axis) is the GDP value.
+    - The [Y axis](axis) is the life span.
+    - The [X axis](axis) is the life span.
+    - The [X axis](axis) is the per-capita income.
+    - The [Y axis](axis) is the per-capita income.
+    - Let's look at the [X axis](axis).
+    - Let's look at the [Y axis](axis).
+    - [vertical](axis) shows the the GDP value.
+    - [horizontal](axis) shows the the GDP value.
+    - [vertical](axis) shows the the life span.
+    - [horizontal](axis) shows the the life span.
+    - [vertical](axis) is child mortality rate from [30%](axis_value) of children dying before age 5 to [0%](axis_value) don't almost zero.
+    - [horizontal](axis) number of babies born per women from [8](axis_value) to less than [2](axis_value).
+
