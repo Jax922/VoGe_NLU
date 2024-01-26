@@ -4,48 +4,48 @@ version: "3.1"
 nlu:
 - intent: zoom_out
   examples: |
-		- Zoom out to see how this trend compares on a global scale.
-		- If we zoom out, we can observe the overall trajectory of these changes.
-		- By zooming out, we can get a broader view of the market dynamics.
-		- Zoom out to appreciate the full scope of the environmental impact.
-		- Zoom out to encompass the entire dataset and observe the long-term trends.
-		- When we zoom out, the pattern of growth versus stagnation becomes clearer.
-		- Zoom out to get a comprehensive view of how these factors correlate.
-		- By zooming out, we can compare the historical context of these figures.
-		- Zoom out to see how this section fits into the overall industry landscape.
-		- If we zoom out, we can see the effect of these variables on a larger scale.
-		- Zoom out to get a broader view of the trends [from 2000 to 2010](range).
-		- Zoom 5 years bigger to compare the economic growth [from 1995 to 2000](range).
-		- Zoom out for an overview of consumer behavior changes [from January to December](range).
-		- Zoom 3 months bigger to observe the transition [from summer to autumn](range).
-		- Zoom out to understand the year-round performance across all four quarters.
-		- Zoom 2 quarters bigger to compare the first half of the year with the second half.
-		- Zoom out for a week-long overview, [from Monday to Sunday](xtick).
-		- Zoom the weekend bigger to analyze the difference [between Saturday and Sunday](range).
-		- Zoom out to see the entire decade of the 2000s and its economic fluctuations.
-		- Zoom out to compare winter and summer months in retail sales.
-		- Zoom out to review the quarterly progression throughout the year.
-		- Zoom out to compare weekday and weekend activities.
-		- It's interesting to note, if we zoom out [from the year 1990 to 2000](range), we see a gradual but significant change in market dynamics.
-		- And as we discuss, the period [from 1985 to 1995](range), zoom 10 years bigger to see the broader economic shift.
-		- For a seasonal analysis, let's zoom out and compare the shopping trends [from March through August](range).
-		- Interestingly, if we zoom 6 months bigger, the transition [from spring to fall](range) becomes much clearer.
-		- To get the full picture, zoom out to encompass all four quarters of the previous fiscal year.
-		- Now, as we compare half-yearly data, zoom 2 quarters bigger to contrast the first and second halves.
-		- A week's overview shows distinct patterns, so let's zoom out [from Monday to Sunday](range) for a complete analysis.
-		- To understand weekend shopping habits better, zoom the weekend bigger and compare it with weekdays.
-		- Looking at the broader picture requires us to zoom out and review the entire [1990s](xtick) decade for key economic events.
-		- For a yearly overview, zoom out to see how the retail landscape transforms [from January all the way to December.](range)
-		- It's crucial, for our analysis, to zoom out and look at the quarter-by-quarter growth throughout the past year.
-		- And finally, to see the bigger picture of consumer trends, let's zoom out and compare weekdays with weekends.
-		- Let's zoom out to a five-year overview and observe the long-term growth trends in the renewable energy sector.
-		- Let's zoom 3 months bigger in the summer period to analyze the seasonal impact on tourism.
-		- Let's zoom out across the decade and trace the evolution of digital media consumption.
-		- Let's zoom out and compare the winter months to see the effect of holiday shopping on the economy.
-		- Let's zoom out to encompass the entire year and evaluate the effectiveness of new marketing strategies.
-		- Let's zoom out to review the quarterly data and identify recurring seasonal patterns.
-		- Let's zoom out and look at years of data to understand the long-term climate change impact.
-		- Let's zoom out to encompass several years and observe the shifts in global trade patterns.
-		- Let's zoom into the weekdays and contrast them with weekend sales performance.
-		- Let's zoom out to the past five years and analyze the employment rate trends.
-		- Let's zoom out and compare the first and second halves of the year for consumer electronics sales.
+    - Zoom out to see how this trend compares on a global scale.
+    - If we zoom out, we can observe the overall trajectory of these changes.
+    - By zooming out, we can get a broader view of the market dynamics.
+    - Zoom out to appreciate the full scope of the environmental impact.
+    - Zoom out to encompass the entire dataset and observe the long-term trends.
+    - When we zoom out, the pattern of growth versus stagnation becomes clearer.
+    - Zoom out to get a comprehensive view of how these factors correlate.
+    - By zooming out, we can compare the historical context of these figures.
+    - Zoom out to see how this section fits into the overall industry landscape.
+    - If we zoom out, we can see the effect of these variables on a larger scale.
+    - Zoom out to get a broader view of the trends [from 2000 to 2010](range).
+    - Zoom 5 years bigger to compare the economic growth [from 1995 to 2000](range).
+    - Zoom out for an overview of consumer behavior changes [from January to December](range).
+    - Zoom 3 months bigger to observe the transition [from summer to autumn](range).
+    - Zoom out to understand the year-round performance across all four quarters.
+    - Zoom 2 quarters bigger to compare the first half of the year with the second half.
+    - Zoom out for a week-long overview, [from Monday to Sunday](xtick).
+    - Zoom the weekend bigger to analyze the difference [between Saturday and Sunday](range).
+    - Zoom out to see the entire decade of the 2000s and its economic fluctuations.
+    - Zoom out to compare winter and summer months in retail sales.
+    - Zoom out to review the quarterly progression throughout the year.
+    - Zoom out to compare weekday and weekend activities.
+    - It's interesting to note, if we zoom out [from the year 1990 to 2000](range), we see a gradual but significant change in market dynamics.
+    - And as we discuss, the period [from 1985 to 1995](range), zoom 10 years bigger to see the broader economic shift.
+    - For a seasonal analysis, let's zoom out and compare the shopping trends [from March through August](range).
+    - Interestingly, if we zoom 6 months bigger, the transition [from spring to fall](range) becomes much clearer.
+    - To get the full picture, zoom out to encompass all four quarters of the previous fiscal year.
+    - Now, as we compare half-yearly data, zoom 2 quarters bigger to contrast the first and second halves.
+    - A week's overview shows distinct patterns, so let's zoom out [from Monday to Sunday](range) for a complete analysis.
+    - To understand weekend shopping habits better, zoom the weekend bigger and compare it with weekdays.
+    - Looking at the broader picture requires us to zoom out and review the entire [1990s](xtick) decade for key economic events.
+    - For a yearly overview, zoom out to see how the retail landscape transforms [from January all the way to December.](range)
+    - It's crucial, for our analysis, to zoom out and look at the quarter-by-quarter growth throughout the past year.
+    - And finally, to see the bigger picture of consumer trends, let's zoom out and compare weekdays with weekends.
+    - Let's zoom out to a five-year overview and observe the long-term growth trends in the renewable energy sector.
+    - Let's zoom 3 months bigger in the summer period to analyze the seasonal impact on tourism.
+    - Let's zoom out across the decade and trace the evolution of digital media consumption.
+    - Let's zoom out and compare the winter months to see the effect of holiday shopping on the economy.
+    - Let's zoom out to encompass the entire year and evaluate the effectiveness of new marketing strategies.
+    - Let's zoom out to review the quarterly data and identify recurring seasonal patterns.
+    - Let's zoom out and look at years of data to understand the long-term climate change impact.
+    - Let's zoom out to encompass several years and observe the shifts in global trade patterns.
+    - Let's zoom into the weekdays and contrast them with weekend sales performance.
+    - Let's zoom out to the past five years and analyze the employment rate trends.
+    - Let's zoom out and compare the first and second halves of the year for consumer electronics sales.
