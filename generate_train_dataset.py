@@ -37,7 +37,7 @@ def save_to_file(cat_text_content, prefix):
         with open(file_name, 'w') as file:
             file.write(prefix.format(category))
             for text in texts:
-                file.write("\t\t" + "- " + text + '\n')
+                file.write("- " + text + '\n')
         file_paths[category] = file_name
 
     return file_paths

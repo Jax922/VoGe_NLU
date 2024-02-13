@@ -4,658 +4,658 @@ version: "3.1"
 nlu:
 - intent: highlight
   examples: |
-		- Look at here, solar panels used to cost a lot, $[115](yvalue) per watt back [in 1975](xtick).
-		- Notice here, [Japan](xtick) was catching up.
-		- Observe here, [Iran](xtick) was getting a little richer from oil, but still had short lives.
-		- Focus on this part, the [United States](xtick) was in the front.
-		- [In 1950](xtick), roughly 25 percent of children worked.
-		- Look at this trend, [Internet](xtick) is taking off fast.
-		- Focus here, today only [9%](yvalue) remain where the majority used to be.
-		- Look at this, [Shanghai](xtick) has the same wealth and health as [Italy](xtick) today.
-		- Notice the pattern, [South Africa](xtick) follows.
-		- Observe how the extreme poverty rate was [78%](yvalue) worldwide in the [year 1800](xtick).
-		- Highlight this, [in 2022](xtick), 52 of the fortune 500 companies were led by woman.
-		- Focus on this change, today only [0.7 billion](yvalue) are missing electricity.
-		- See this trend, the vast majority lived with [less than](compare) $[2.15](xtick) per day.
-		- Look at the shift, [cell phones](xtick) and[ independent human rights institutions](xtick) is moving too slow.
-		- Observe the trend, [slum dwellings](xtick) is moving the wrong way.
-		- Notice this, [Sweden](xtick), a total of almost [4500](yvalue) people have lost their lives.
-		- Focus on this, the scale for the [y-axis](yaxis) on this chart.
-		- Look at this progression, five years into the race they should be here.
-		- Look at this, The world still looks like the developing and developed.
-		- Notice this, [Capital ADDIS](xtick) ABABA is already down here.
-		- Observe here, But the remote [Somali Religion](xtick) of ETHIOPIA still have high child mortality.
-		- [In 1950](xtick) roughly [25 percent](yvalue) of children worked.
-		- Look at this trend, [Internet](xtick) is taking off fast.
-		- Look at this, [Shanghai](xtick) has the same wealth and health as [Italy](xtick) today.
-		- Notice the pattern, [South Africa](xtick) follows.
-		- Observe how the extreme poverty rate was[ 78%](yvalue) worldwide in the [year 1800](xtick).
-		- Highlight this, [in 2022,](xtick) 52 of the fortune 500 companies were led by woman.
-		- Look at the shift, [cell phones](xtick) and [independent human rights institutions](xtick) is moving too slow.
-		- Observe the trend, [slum dwellings](xtick) is moving the wrong way.
-		- Notice this, [Sweden](xtick), a total of almost [4500](yvalue) people have lost their lives.
-		- Look at this, on a linear scale, it looked like things were pretty bad in [Italy](xtick).
-		- Observe this part, this box shows where all countries.
-		- Notice the location, and that it where you find [Sweden](xtick).
-		- Look back, here we go you can see we go backwards into history.
-		- Compare this, and look here -- compare to the [Philippines](xtick) of today.
-		- Notice the difference, and the red [Toyota](xtick) down there.
-		- Focus on this, the size is the population - big [China](xtick), big [India](xtick) here.
-		- Look at these examples, and these are countries from the [United States](xtick) here.
-		- Observe this, many think that [Afghanistan](xtick) here and [Congo](xtick).
-		- Look at this contrast, here we have [Qatar](xtick) today, and there we have [Bangladesh](xtick) today.
-		- Observe the trend, it's like in [Colombia](xtick) - it's [2.4](yvalue) today.
-		- Focus on these details, these are the quintiles of [Uganda](xtick).
-		- Look at this scale, so the first 100,000 cases take up this much space.
-		- Observe this date, for [Turkey](xtick), March 19.
-		- And [1957](xtick) - the [United States](xtick) had the same economy as [Chile](xtick) has today.
-		- Take a look at this, compare [Japan](xtick) and [South Korea](xtick) earlier 2060.
-		- Observe this change, and the red [Toyota](xtick) down there.
-		- Look at this difference, the size is the population - big China, big India here.
-		- Notice this point, and these are countries from the [United States](xtick) here.
-		- Notice this, these are the so-called "developing" countries.
-		- See this trend, the vast majority lived with [less than](compare) $[2.15](xtick) per day.
-		- Focus here, today only [9%](yvalue) remain where the majority used to be.
-		- Focus on this change, today only [0.7 billion](yvalue) are missing electricity.
-		- Notice this, [over](compare) [30%](yvalue) of the population now has access to advanced technology.
-		- Look at this area, where the percentage of renewable energy usage [exceeds](compare) [50%](yvalue).
-		- Observe here, the revenue has grown to [more than](compare) $[1 billion](yvalue) this quarter.
-		- See this trend, where the average temperature rises [above](compare) [20](yvalue)°C.
-		- Examine this part, where the market share of electric vehicles is [less than](compare) [10%](yvalue).
-		- Look at this, the cost of living has increased by [over](compare) [15%](yvalue) since last year.
-		- Notice this segment, where customer satisfaction scores fall [below](compare) [70%](yvalue).
-		- Focus here, where the number of subscribers [surpasses](compare) [2 million](yvalue).
-		- Observe this change, where the percentage of online sales reaches [40%](yvalue).
-		- See this line, indicating the inflation rate is now [lower than](compare) [2%](yvalue).
-		- Look at this growth, where the investment returns [exceed](compare) [8%](yvalue).
-		- Notice this decrease, where water consumption per capita drops [under](compare) [100](yvalue) liters a day.
-		- Focus on this area, where the literacy rate is [above](compare) [90%](yvalue).
-		- Observe this peak, where daily internet usage [exceeds](compare) [5 ](yvalue)hours per person.
-		- See this drop, where the poverty rate falls [below](compare) 15%.
-		- Examine this point, where the average life expectancy reaches [80](yvalue) years.
-		- Look at this trend, where carbon emissions per capita are [less than](compare) [4 ](yvalue)tonnes annually.
-		- Notice this rise, where the smartphone penetration rate goes [over](compare) [70%](yvalue).
-		- Focus on this milestone, where the number of active users hits [1 billion](yvalue).
-		- Focus on this part, Today there are 400 times cheaper.
-		- Look at this progression, five years into the race they should be here.
-		- Notice this, 100 times 10 is 1000, times 10 is 10000, times 10 is 100000.
-		- Focus here, we see that richest, to the [right](location) here.
-		- These are the so-called "developing" countries.
-		- Look at this scale, so the first 100,000 cases take up this much space.
-		- up here is 100 million, a billion, 10 billion, 100 billion.
-		- Look at this part of the chart, where you can see a notable shift in the trend.
-		- Focus on this area [right](location) here; it's interesting to observe the pattern that emerges.
-		- Notice how in this section, there's a significant change from the previous data.
-		- Observe this segment of the graph, where the lines start to diverge.
-		- Let's concentrate on this portion of the diagram; it highlights a key aspect of our discussion.
-		- Pay attention to this region of the chart, where we see a distinct anomaly.
-		- Direct your eyes to this part; it's crucial for understanding the overall context.
-		- See this part of the graph? It shows a unique development that's worth discussing.
-		- Examine this quadrant here, especially how the trends interact.
-		- Look closely at this span of the graph, where the rate of change accelerates.
-		- Focus on the upper right corner of the chart, where there's a subtle but important trend.
-		- Look towards the lower part of the graph, where we see an unexpected dip.
-		- Notice this stretch here, where the data starts to level off.
-		- Observe this area, particularly where the curve peaks.
-		- Let's examine this side of the chart, where there's a notable fluctuation.
-		- Pay attention to this [central](location) part, where the data points cluster closely.
-		- Direct your gaze to this edge, where the pattern shifts dramatically.
-		- See this section of the graph? It's critical to our understanding of the overall trend.
-		- Examine this band across the chart, where there's a clear break from the norm.
-		- Look closely at this juncture in the graph, where the trajectory changes course.
-		- Focus on the [upper right](location) corner of the chart, where there's a subtle but important trend.
-		- Look towards the [lower part](location) of the graph, where we see an unexpected dip.
-		- Notice this stretch here, where the data starts to level off.
-		- Observe this area, particularly where the curve peaks.
-		- Let's examine this side of the chart, where there's a notable fluctuation.
-		- Pay attention to this [central](location) part, where the data points cluster closely.
-		- Direct your gaze to this edge, where the pattern shifts dramatically.
-		- See this section of the graph? It's critical to our understanding of the overall trend.
-		- Examine this band across the chart, where there's a clear break from the norm.
-		- Look closely at this juncture in the graph, where the trajectory changes course.
-		- Let's highlight the [top left corner](location) to explore the early phase of this trend.
-		- Highlight the entire [right side](location) to see where multiple trends converge.
-		- Focus on the [bottom right area](location) to highlight the details of the recent data points.
-		- Highlight the [upper half](location) of the chart for a comparative overview.
-		- Let's concentrate on the[ lower left](location) quadrant to examine the outlier data.
-		- Highlight the [left side](location) to understand the overall pattern.
-		- Focus on the [central region](location), just below the [top section](location), for a clearer view.
-		- Highlight the[ top right corner](location) to see the peak values.
-		- Emphasize the[ bottom half](location) of the graph for a broader perspective.
-		- Let's take a closer look at the [left middle section](location) to notice the subtle changes.
-		- Highlight the [upper central](location) part to dissect the complex interactions there.
-		- Emphasize how the[ lower right section](location) contrasts with the rest.
-		- Focus on the [right edge](location), especially the [lower area](location), to analyze the decline.
-		- Highlight the entire[ left half ](location)to see the long-term trends.
-		- Concentrate on the very [bottom](location), in the center, to pinpoint the recent shift.
-		- Highlight the [top half](location), focusing on the [right-hand side](location), for a comprehensive view.
-		- Focus on the [left bottom corner](location) to closely observe the starting point.
-		- Emphasize the entire [right portion](location) for a comprehensive overview.
-		- Highlight the [top section](location), near the [left edge](location), to trace the initial growth.
-		- Emphasize the [lower central area](location) in relation to the overall data set.
-		- Highlight the segment on the [upper right](location) to observe the latest peak in the data.
-		- Focus on the [lower central](location) part, where there's a noticeable dip in the values.
-		- Emphasize the [leftmost ](location)column to understand the initial stages of our analysis.
-		- Concentrate on the [top middle area](location) to see where the data starts to diverge.
-		- Highlight the [bottom left corner](location) for a detailed look at the declining trend.
-		- Observe the [right middle section](location), where the data abruptly changes.
-		- Focus on the [central part ](location)of the graph, [right at the heart ](location)of the data.
-		- Highlight the entire [lower section](location) to understand the overall decrease.
-		- Emphasize the [upper left](location) quadrant to see the early success in the data.
-		- Concentrate on the [right bottom area](location), where the trend reverses.
-		- Highlight the [middle left side](location) to track the gradual increase.
-		- Focus on the [top edge](location), spanning the entire length, for a broad overview.
-		- Emphasize the [bottom right](location), where the data culminates in a key point.
-		- Concentrate on the [left central region](location) to dissect the complex pattern.
-		- Highlight the [entire upper section](location) for an overview of the high points.
-		- Focus on the [lower right](location) quadrant, where the pattern starts to stabilize.
-		- Emphasize the [left edge](location), covering top to bottom, to see the overall progression.
-		- Concentrate on the[ middle right side](location) to observe the most volatile section.
-		- Highlight the [bottom middle](location), where the data reaches its lowest point.
-		- Emphasize the [top right corner](location) for an in-depth analysis of the peak phase.
-		- Look carefully at the[ upper right segment ](location)to observe the latest peak in the data.
-		- Look at the [lower central part](location), where there's a noticeable dip in the values.
-		- See here, the [leftmost column](location), to understand the initial stages of our analysis.
-		- Look here at the [top middle area](location) to see where the data starts to diverge.
-		- Look carefully at the [bottom left corner](location) for a detailed look at the declining trend.
-		- See here, the [right middle section](location), where the data abruptly changes.
-		- Look at the [central part](location) of the graph,[ right at the heart](location) of the data.
-		- Look carefully at the entire [lower section](location) to understand the overall decrease.
-		- See here, the [upper left](location) quadrant, to see the early success in the data.
-		- Look at the [right bottom area](location), where the trend reverses.
-		- Look carefully at the [middle left side](location) to track the gradual increase.
-		- Look at the [top edge](location), spanning the entire length, for a broad overview.
-		- See here, the [bottom right](location), where the data culminates in a key point.
-		- Look here at the [left central region](location) to dissect the complex pattern.
-		- Look carefully at the [entire upper section](location) for an overview of the high points.
-		- Look at the [lower right ](location)quadrant, where the pattern starts to stabilize.
-		- See here, the [left edge](location), covering top to bottom, to see the overall progression.
-		- Look here at the [middle right side](location) to observe the most volatile section.
-		- Look carefully at the [bottom middle](location), where the data reaches its lowest point.
-		- See here, the [top right corner](location) for an in-depth analysis of the peak phase.
-		- Look at the [year 1800](xtick), where the income starts at [985](yvalue).
-		- Notice the steady income around [985](yvalue) during the early [1800](xtick)s.
-		- Observe the slight increase in income to [986](yvalue) by [1830](xtick).
-		- See here, the [year 1860](xtick), where income begins to rise, reaching [1023](yvalue).
-		- Focus [on 1870](xtick), a notable year where income jumps to [1099](yvalue).
-		- Look at the decline in income to [894](yvalue) by [1900](xtick).
-		- See the fluctuation around the early [1900](yvalue)s, with income dipping and rising slightly.
-		- Notice the significant drop in income to [535](yvalue) by [1950](xtick).
-		- Focus on the rapid recovery in the [1950](xtick)s, with income rising to [706](yvalue) by [1955](xtick).
-		- Observe the [year 1960](xtick), where income falls back to [889](yvalue).
-		- See the sharp decline in [1961](xtick), with income dropping to [558](yvalue).
-		- Look at the steady increase in income during the [1960](xtick)s, reaching [826](yvalue) by [1966](xtick).
-		- Focus on the year [1970](xtick), where income rises to [848](yvalue).
-		- Notice the steady growth in the [1970](xtick)s, reaching [920](yvalue) by [1975](xtick).
-		- Look at the [year 1984](xtick), where there's a significant jump to [1456](yvalue).
-		- Observe the steady increase through the [1980](xtick)s, reaching [1604](yvalue) by [1986](xtick).
-		- See here, the [year 1990](xtick), with an income of [1516](yvalue).
-		- Focus on the rapid growth in the [1990](xtick)s, reaching [2323](yvalue) by [1994](xtick).
-		- Notice the [year 2000](xtick), marking a significant milestone with an income of [3678](yvalue).
-		- Look at the consistent growth in the 21st century, reaching [13334](yvalue) by [2015](xtick).
-		- Look [at Monday](xtick), where we see a significant increase in activity.
-		- Notice how [on Tuesday](xtick), the numbers start to peak, possibly reaching a high point.
-		- Focus on [Wednesday](xtick), where there's a noticeable dip compared to the beginning of the week.
-		- Observe the trend on [Thursday](xtick), which shows a steady rise in the data.
-		- See here on [Friday](xtick), where the values reach their weekly maximum.
-		- Look at the sharp decline on [Saturday](xtick), indicating a change in the pattern.
-		- Notice how [Sunday's](xtick) data contrasts with the rest of the week, showing a unique trend.
-		- Focus on the weekend, specifically [Saturday](xtick) and [Sunday](xtick), where the trends differ significantly from weekdays.
-		- Observe the midweek trend, especially on [Wednesday](xtick) and [Thursday](xtick), where there's a consistent pattern.
-		- See the fluctuation from [Monday](xtick) to [Wednesday](xtick), highlighting a volatile start to the week.
-		- Look at how the data stabilizes towards the end of the week, particularly on [Friday](xtick).
-		- Notice the gradual increase in values as the week progresses, peaking on [Friday](xtick).
-		- Focus on the drop in numbers on [Sunday](xtick), concluding the week with a significant change.
-		- Observe the consistent rise from [Monday](xtick) through [Wednesday](xtick), indicating a midweek surge.
-		- See here how [Thursday](xtick) acts as a turning point in the week's trend.
-		- Look at the weekend, especially [Sunday](xtick), where the pattern deviates from the rest of the week.
-		- Notice how the peak on [Tuesday](xtick) is followed by a plateau for the rest of the week.
-		- Focus on the gradual decline from [Wednesday](xtick), leading into a quieter weekend.
-		- Observe the spike in data on [Friday](xtick), suggesting increased activity or interest.
-		- See the contrast between the busy weekdays and the more relaxed pace of the weekend.
-		- Compare [Monday's](xtick) data with [Friday's](xtick), noting the significant difference in values.
-		- Look at the contrast between [Tuesday](xtick) and [Thursday](xtick), where the trends show opposite behaviors.
-		- Compare the activity levels on [Wednesday](xtick) and [Sunday](xtick) to understand the weekly pattern.
-		- Observe the differences between [Monday](xtick) and [Saturday](xtick), highlighting the change in trends.
-		- Compare the midweek days, particularly [Wednesday](xtick) and [Thursday](xtick), to see the consistency in data.
-		- Notice the variation between the start of the week ([Monday](xtick)) and the end ([Sunday](xtick)).
-		- Look at how the data on [Tuesday](xtick) compares with that of [Friday](xtick), showing a week's progression.
-		- Compare the weekend days, [Saturday](xtick) and [Sunday](xtick), to understand the shift from weekdays.
-		- Observe the differences in numbers between [Monday](xtick) and [Wednesday](xtick), noting the midweek change.
-		- Compare the trends from [Tuesday](xtick) to [Thursday](xtick), focusing on the midweek dynamics.
-		- Notice how the data on [Friday](xtick) contrasts with that on [Monday](xtick), marking the week's range.
-		- Look at the comparison between [Wednesday](xtick) and [Saturday](xtick), showing a transition to the weekend.
-		- Compare the activity levels from [Thursday](xtick) to [Sunday](xtick), observing the weekend effect.
-		- Observe how [Monday's](xtick) data contrasts with [Thursday's](xtick), indicating a shift in the week.
-		- Compare [Saturday](xtick) with [Sunday](xtick), focusing on the subtle changes in weekend behavior.
-		- Notice the difference in trends from the beginning ([Monday](xtick)) to the middle ([Wednesday](xtick)) of the week.
-		- Look at how the data on [Tuesday](xtick) compares with [Saturday](xtick), showing a weekday versus weekend pattern.
-		- Compare the consistency between [Wednesday](xtick) and [Friday](xtick), understanding the weekly peak.
-		- Observe the transition from [Thursday](xtick) to [Sunday](xtick), highlighting the end-of-week trend.
-		- Notice how [Monday](xtick) and [Tuesday](xtick) contrast with the rest of the week, particularly with [Friday](xtick) and [Saturday](xtick).
-		- [In 1800](xtick), the data shows an initial value, setting the baseline for the century.
-		- [In 1850](xtick), compare how the numbers barely changed from [1800](xtick), indicating slow growth.
-		- [In 1900](xtick), observe the slight decline from the previous decades.
-		- [In 1950](xtick), notice the significant drop, marking a pivotal year in the data.
-		- [In 1970](xtick), compare the gradual increase from two decades earlier.
-		- [In 1990](xtick), observe the upward trend, a key turning point in the data.
-		- [In 2000](xtick), notice how the values significantly differ from a century ago.
-		- [In 2010](xtick), compare the rapid growth with the slow progress of the early [1900](xtick)s.
-		- [In 2015](xtick), observe the latest data point, showing the most recent trend.
-		- On [Monday](xtick), look at the starting point of the week's data.
-		- On [Tuesday](xtick), compare the slight increase from [Monday](xtick), indicating a midweek rise.
-		- On [Wednesday](xtick), observe the peak of midweek activity.
-		- On [Thursday](xtick), notice the consistency with Wednesday's data, showing midweek stability.
-		- On [Friday](xtick), compare the peak with earlier in the week, marking the end of the workweek.
-		- On [Saturday](xtick), observe the transition from workweek to weekend.
-		- On [Sunday](xtick), notice the contrast with the rest of the week, typically showing a different trend.
-		- Notice how [in 2000](xtick), the data shows a significant increase to fifty percent.
-		- Observe the steady rise to [30%](yvalue) in [the mid-1990s](xtick), indicating a gradual improvement.
-		- [In 2010](xtick), focus on the peak where the percentage reaches [seventy-five percent](yvalue).
-		- Look at the decline [in 2005](xtick), where the figure drops to [20%](yvalue).
-		- Compare the data from [199](xtick)0, showing a modest[ ten percent](yvalue), to that of 2000.
-		- [In 2015](xtick), see how the percentage stabilizes at around [60%](yvalue).
-		- Notice the gradual increase from [twenty-five percent](yvalue) [in 1980](xtick) to[ fifty percent ](yvalue)[in 1990](xtick).
-		- Observe the significant jump to [80%](yvalue) in the [early 2000s](xtick).
-		- [In the late 1980s](xtick), focus on the decrease, where the percentage falls to[ fifteen percent](yvalue).
-		- Look at the consistent growth from [5%](yvalue) [in 1970](xtick) to [45%](yvalue) by the end of the decade.
-		- [In 1985](xtick), notice how the data peaks at approximately [forty percent](yvalue).
-		- Observe the gradual decrease [in 1992](xtick), reaching down to [25%](yvalue).
-		- Look at the [year 2000](xtick), where there's a noticeable increase to [sixty-five percent](yvalue).
-		- Compare the steady rise from [10% ](yvalue)[in the early 1970s](xtick) to [50%](yvalue) by [the mid-1980s](xtick).
-		- Notice the slight dip to [55%](yvalue) [in 2008,](xtick) indicating a minor setback.
-		- [In 1995](xtick), see the increment reaching up to [thirty percent](yvalue), a key growth point.
-		- Observe the consistent upward trend to [75%](yvalue) by the [year 2010](xtick).
-		- Compare the relatively stable period [in the 1990s](xtick), fluctuating around [forty-five percent](yvalue).
-		- [In 2014](xtick), look at how the data levels off, maintaining a steady rate of [sixty percent](yvalue).
-		- [In 1978](xtick), observe how the percentage slightly rises to around [15%](yvalue).
-		- Look at the [year 1982](xtick), where the figure reaches nearly [thirty percent](yvalue).
-		- Notice the gradual increase to [35%](yvalue) by [the mid-1980s](xtick), indicating steady growth.
-		- [In 1987](xtick), focus on the jump to approximately [forty-two percent](yvalue).
-		- Observe the significant rise to [50%](yvalue) [in the early 1990s](xtick).
-		- [In 1993](xtick), see the increment to [fifty-five percent](yvalue), marking a new high.
-		- Look at the decrease [in 1996](xtick), where the figure drops to[ 48%](yvalue).
-		- Notice the fluctuation around [sixty percent](yvalue) [in the early 2000s](xtick).
-		- [In 2004](xtick), focus on the increase to nearly [sixty-five percent](yvalue).
-		- Observe the steady growth to [70%](yvalue) [by 2007](xtick).
-		- [In 2009](xtick), notice the dip to [sixty-eight percent](yvalue), a slight decline.
-		- Look at the [year 2011](xtick), where the percentage increases to [seventy-two percent](yvalue).
-		- [In 2013](xtick), focus on the consistent level at around [75%](yvalue).
-		- Notice how [in 2016](xtick), the figure slightly declines to [73%](yvalue).
-		- [In 2018](xtick), see the rise to approximately [seventy-eight percent](yvalue).
-		- Look at the steady increase to [80%](yvalue) by the [year 2020](xtick).
-		- [In 2022](xtick), notice a peak at [eighty-two percent](yvalue).
-		- Observe the leveling off around [eighty percent](yvalue) [in the mid-2020s](xtick).
-		- [In 2025](xtick), focus on the slight increase to [eighty-three percent](yvalue).
-		- See the gradual rise to [85%](yvalue) by the end of the decade [in 2030](xtick).
-		- Look at the trend [from 1980 to 1990](range), where there's a consistent increase in percentage.
-		- Observe the data [from Monday to Wednesday](range), showing a midweek peak in activity.
-		- Focus on the period [from 2000 to 2010](range), where significant growth is evident.
-		- Notice the changes in the data [from January to March](range), indicating seasonal variations.
-		- Examine the steady rise in values [from the first quarter to the third quarter](range) of the year.
-		- Compare the data [from the 1990s to the 2000s](range), observing the evolution over two decades.
-		- Look at the fluctuations [from summer to winter,](range) showing seasonal impacts.
-		- Focus on the years [from 2015 to 2020](range), where a distinct trend emerges.
-		- Notice the differences in trends [from morning to evening](range) hours across the week.
-		- Observe the steady decline in percentage [from 1970 to 1980](range).
-		- Look at the data [from April to June](range), showing a quarterly comparison.
-		- Compare weekdays to weekends, focusing on the range [from Monday to Sunday](range).
-		- Notice the pattern[ from the beginning to the end of each month](range), highlighting monthly trends.
-		- Focus on the decade [from 1980 to 1990](range), observing the key developments in that era.
-		- Look at the shift in trends [from the first half to the second half ](range)of the year.
-		- Compare the data [from the rainy season to the dry season](range), observing weather-related changes.
-		- Notice how the figures evolve [from the early morning hours to the late evening](range).
-		- Focus on the changes [from the start to the end of ](range)the financial year.
-		- Observe the variations in the data [from weekdays to weekends](range), showing different patterns.
-		- Compare the performance [from quarter one to quarter four](range), highlighting annual progress.
-		- Look at the data [from 1960 to 1970](range), showing a gradual increase in economic activity.
-		- Focus on the trend [from January to December,](range) observing the annual cycle in data.
-		- Observe the changes [from morning to night](range), indicating daily behavioral patterns.
-		- Compare the market growth [from the first quarter to the fourth quarter](range) of 2005.
-		- Notice the shift in consumer habits [from summer to winter](range).
-		- Look at the development [from 2005 to 2015](range), marking a decade of technological advancement.
-		- Focus on the environmental data [from spring to autumn](range), revealing seasonal effects.
-		- Observe the consumer trends [from Monday to Friday](range), contrasting with weekend habits.
-		- Examine the temperature changes [from June to August](range), showing peak summer heat.
-		- Compare employment rates [from the beginning to the end of ](range)the 1990s.
-		- Notice the fluctuation in stock prices [from opening to closing](range) hours over a week.
-		- Look at the health data [from 1990 to 2000](range), reflecting changes in public health policies.
-		- Focus on traffic patterns [from 7 AM to 9 AM](range), showing morning rush hour peaks.
-		- Observe the changes in online activity [from weekdays to weekends](range).
-		- Examine the fluctuation in currency value [from January to July](range).
-		- Compare the agricultural output [from planting season to harvest season](range).
-		- Notice the variations in retail sales [from the holiday season to the off-season](range).
-		- Look at the energy consumption data [from winter to summer](range).
-		- Focus on changes in water usage [from the dry season to the rainy season](range).
-		- Observe the trend in tourist arrivals [from the peak season to the off-peak season](range).
-		- Look at [January's](xtick) data, showing a significant start to the year.
-		- Focus on the trend [from March to April](range), marking the transition into spring.
-		- Notice the shift in consumer behavior [in May](xtick), preparing for summer.
-		- Look at the peak in tourism [in June](xtick), indicating the beginning of the holiday season.
-		- Observe [July's ](xtick)high temperatures and their impact on data.
-		- Compare[ August's](xtick) relaxed pace with the busyness of [November](xtick).
-		- Focus on [September](xtick), marking a shift as schools reopen and summer ends.
-		- Notice the increase in retail activity [in October](xtick), leading up to the holiday season.
-		- Look at [November's ](xtick)data, showing preparation for year-end events.
-		- Observe the holiday season's peak [in December](xtick), closing the year with high activity.
-		- Compare [January's](xtick) quiet start with the bustling activity [in December](xtick).
-		- Focus on the gradual warming trend[ from February to May](range).
-		- Notice the transition from spring to summer [between March and June](range).
-		- Look at the decrease in leisure activities [from April to September](range).
-		- Observe the climatic changes reflected in data [from May to August](range).
-		- Compare the vacation periods [in June](xtick) and [July](xtick) with the back-to-school season [in September](xtick).
-		- Focus on [August's](xtick) slowdown before [the September](xtick) rush.
-		- Notice October's pre-holiday surge compared to the post-holiday lull [in January](xtick).
-		- Look at [November](xtick), a key month for commerce leading into the holiday season.
-		- Observe the festive boost [in December](xtick), contrasted with the calm of [February](xtick).
-		- Compare the post-holiday period of [January](xtick) with the mid-year activity [in July](xtick).
-		- Focus on the blossoming of activities [in April](xtick), contrasting with [October's](xtick) wind-down.
-		- Notice the gradual temperature rise [from March through June](range).
-		- Look at the leisure activities peaking [in July](xtick) and declining [by November](xtick).
-		- Observe the back-to-school impact on data [in September](xtick) compared [to June](xtick).
-		- Compare [August's](xtick) vacation season with [December's](xtick) festive period.
-		- Focus on the retail buildup [from October through December](range).
-		- Notice the quieting down of activities [in January](xtick) after [December's](xtick) highs.
-		- Look at the growth in outdoor activities [from February to May](range).
-		- Observe the transition [from the rainy season in June to the dry spell in September](range).
-		- Compare [September's](xtick) data with that [of March](xtick), showing seasonal shifts.
-		- Focus on [October](xtick), a critical month for many industries.
-		- Notice [November's](xtick) preparation for end-of-year events and holidays.
-		- Look at the festive activities and their culmination [in December](xtick).
-		- Observe the New Year's effect on data [in January](xtick) compared to [November's](xtick) prep.
-		- Compare the leisure slowdown [from February to April](range) with the pick-up [in August](xtick).
-		- Focus on [May's](xtick) pivot point [between spring and summer](range).
-		- Notice [June's](xtick) mid-year data trends, a mix of various factors.
-		- Observe the data [between January and February](range), showing winter's impact.
-		- Notice the trend [between February and March](range), as the season transitions.
-		- Look at the changes in consumer behavior [between March and April](range).
-		- Focus on the gradual warming trend [between April and May](range).
-		- Examine the differences in data [between May and June](range), marking the start of summer.
-		- Observe the peak tourist season [between June and July](range).
-		- Notice the high activity in retail and leisure [between July and August](range).
-		- Look at the transition from summer to autumn [between August and September](range).
-		- Focus on the business uptick [between September and October](range).
-		- Examine the market changes [between October and November](range) as holidays approach.
-		- Observe the festive preparations [between November and December](range).
-		- Notice the contrasting consumer behavior [between December and January](range).
-		- Look at the fluctuation in sales [between January and February,](range) post-holiday season.
-		- Focus on the seasonal transition [between February and March](range).
-		- Examine the increase in outdoor activities [between March and April](range).
-		- Observe the data trends in consumer spending [between April and May](range).
-		- Notice the shift in travel patterns [between May and June](range).
-		- Look at the climate impact on data [between June and July](range).
-		- Focus on vacation and travel trends [between July and August](range).
-		- Examine the back-to-school effect [between August and September](range).
-		- Observe the pre-holiday market preparation [between September and October](range).
-		- Notice the rise in retail activity [between October and November](range).
-		- Look at the holiday season peak [between November and December](range).
-		- Focus on the post-New Year's lull [between December and January](range).
-		- Examine the gradual return to normalcy [between January and February](range).
-		- Observe the early signs of spring [between February and March](range).
-		- Notice the bloom of activities [between March and April](range).
-		- Look at the preparation for summer[ between April and May](range).
-		- Focus on the transition to summer vacation [between May and June](range).
-		- Examine the peak of summer activities [between June and July](range).
-		- Observe the leisure and travel trends [between July and August.](range)
-		- Notice the shift from vacation to work mode [between August and September](range).
-		- Look at the ramp-up to the holiday season [between September and October](range).
-		- Focus on the pre-winter preparations [between October and November](range).
-		- Examine consumer spending habits [between November and December](range).
-		- Observe the holiday wind-down [between December and January](range).
-		- Notice the new year's resolutions impact [between January and February](range).
-		- Look at the changes in weather patterns [between February and March](range).
-		- Focus on the spring awakening in consumer behavior [between March and April](range).
-		- Examine the anticipation of summer [between April and May](range).
-		- [In January](xtick), observe how the new year influences market trends.
-		- Notice the significant changes in consumer behavior [in February](xtick).
-		- Look at the data trends [in March](xtick), marking the beginning of spring.
-		- Focus on [April's](xtick) data to see the impact of seasonal changes.
-		- [In May](xtick), examine the rise in outdoor activities and its effects.
-		- Observe the beginning of summer vacation trends [in June](xtick).
-		- [In July](xtick), notice the peak in travel and tourism activities.
-		- Look at [August's](xtick) data to see the continuation of summer trends.
-		- Focus on [September](xtick) as schools reopen and routines change.
-		- [In October](xtick), observe the preparations for the holiday season.
-		- Notice the increase in retail sales [in November](xtick) as holidays approach.
-		- Look at [December's](xtick) data to see the impact of the festive season.
-		- [On January](xtick) weekends, focus on the leisure and travel patterns.
-		- [In February](xtick), observe the consumer behavior around Valentine's Day.
-		- Look at the spring awakening in market activities [in March](xtick).
-		- Focus on the significant shifts in consumer trends [in April](xtick).
-		- [In May](xtick), notice the preparation for summer and its impact on sales.
-		- Observe the graduation season's effect on the market [in June](xtick).
-		- [In July](xtick), focus on the high season for travel and leisure.
-		- Look at the back-to-school shopping trends [in August](xtick).
-		- [In September](xtick), observe the changes as the autumn season begins.
-		- Focus on [October's](xtick) data for insights into pre-holiday consumer behavior.
-		- [In November](xtick), notice the impact of Thanksgiving on the market.
-		- Look at the end-of-year rush [in December](xtick), especially in retail.
-		- [On January](xtick) weekdays, focus on the post-holiday slowdown.
-		- [In February](xtick), observe the winter's impact on various sectors.
-		- Look at [March's](xtick) data to understand the spring season's effect.
-		- Focus on the Easter-related trends [in April](xtick).
-		- [In May](xtick), notice the preparation for summer holidays.
-		- Observe the transition [from spring to summer](range) [in June](xtick).
-		- [In July](xtick), focus on the peak of summer activities.
-		- Look at [August's](xtick) data for insights into late summer behavior.
-		- [In September,](xtick) observe the impact of the academic year starting.
-		- Focus on the Halloween effects [in October's](xtick) market trends.
-		- [In November](xtick), notice the buildup to the festive season.
-		- Look at [December](xtick) for an analysis of year-end consumer trends.
-		- [On January](xtick) mornings, observe the commuting patterns.
-		- [In February](xtick), focus on the seasonal sports and outdoor activities.
-		- Look at the weather-related changes [in March's](xtick) data.
-		- [In April](xtick), observe the shift towards more outdoor and leisure activities.
-		- [In Q1](xtick), observe how the new year sets the tone for market trends.
-		- Notice the shift in consumer behavior [in Q2](xtick) as the weather warms up.
-		- Look at the data trends [in Q3](xtick), highlighting the peak of summer activities.
-		- Focus on [Q4's](xtick) data to see the impact of the holiday season.
-		- [In Q1](xtick), examine the rise in new initiatives and business strategies.
-		- Observe how vacation planning [in Q2](xtick) affects various sectors.
-		- [In Q3](xtick), notice the peak in travel and leisure activities.
-		- Look at [Q4](xtick) for an analysis of year-end sales and holiday shopping.
-		- [In Q1](xtick), focus on the financial sector's performance post-New Year.
-		- Notice the onset of summer and its effects on the market [in Q2](xtick).
-		- Look at the back-to-school impact on the market [in Q3](xtick).
-		- [In Q4](xtick), observe the preparation and celebration of major holidays.
-		- [In Q2](xtick), examine the real estate market as it enters its peak season.
-		- Observe the shift in consumer spending towards outdoor activities [in Q3](xtick).
-		- [In Q4](xtick), focus on the retail and e-commerce sectors during the holiday rush.
-		- Look at the technology sector's innovations launched [in Q1](xtick).
-		- [In Q2](xtick), notice the trends in travel and hospitality industries.
-		- Observe the agricultural sector's harvest and its impact [in Q3](xtick).
-		- [In Q4](xtick), focus on the impact of holiday marketing campaigns.
-		- Look at the energy consumption patterns [in Q1](xtick) during the colder months.
-		- [In Q2](xtick), observe the increase in outdoor and entertainment activities.
-		- Focus on the educational sector's preparation for the new academic year [in Q3](xtick).
-		- [In Q4](xtick), examine the consumer behavior around Black Friday and Cyber Monday.
-		- Look at [Q1's](xtick) data for insights into post-holiday economic trends.
-		- [In Q2](xtick), notice the fashion industry's transition to summer collections.
-		- Observe the travel industry's peak season [in Q3](xtick).
-		- [In Q4](xtick), focus on the non-profit sector and end-of-year donations.
-		- Look at how [Q1](xtick) sets the stage for the year's economic outlook.
-		- [In Q2](xtick), examine the impact of summer vacations on employee productivity.
-		- Observe the automotive industry's performance [in Q3](xtick).
-		- [In Q4](xtick), focus on the banking sector's year-end financial reporting.
-		- Look at the impact of tax season on consumer spending[ in Q1](xtick).
-		- Focus on the retail sector's strategies for the upcoming holiday season [in Q3](xtick).
-		- [In Q4](xtick), examine the impact of winter holidays on the hospitality industry.
-		- Look at the healthcare sector's initiatives to tackle seasonal illnesses [in Q1](xtick).
-		- [In Q2](xtick), notice the entertainment industry's release of blockbuster movies.
-		- Observe the food and beverage industry's seasonal products [in Q3](xtick).
-		- [In Q4](xtick), focus on the trends in online shopping and delivery services.
-		- In the [First Quarter](xtick), observe how businesses strategize for the new year.
-		- Notice the consumer spending patterns in the [Second Quarter](xtick) as summer approaches.
-		- Look at the [Third Quarter](xtick) data, showing the impact of vacation and travel peak.
-		- Focus on the [Fourth Quarter's](xtick) performance, highlighting holiday shopping trends.
-		- In the [First Quarter](xtick), examine the post-holiday recovery in various sectors.
-		- Observe the real estate market's growth in the [Second Quarter](xtick).
-		- In the [Third Quarter](xtick), notice the back-to-school effects on retail and e-commerce.
-		- Look at the [Fourth Quarter](xtick) for insights into year-end financial strategies.
-		- In the [First Quarter](xtick), focus on the healthcare sector's initiatives for the year.
-		- Notice the tourism industry's preparation for the high season in the [Second Quarter](xtick).
-		- Look at the agricultural harvest's impact on the market in the [Third Quarter](xtick).
-		- In the [Fourth Quarter,](xtick) observe the effects of winter holidays on consumer behavior.
-		- Focus on the technology sector's new releases in the [First Quarter](xtick).
-		- In the [Second Quarter](xtick), examine the automotive industry's performance.
-		- Observe the fashion industry's transition to fall collections in the [Third Quarter](xtick).
-		- In the [Fourth Quarter](xtick), focus on the impact of holiday marketing on consumer spending.
-		- Look at the energy sector's performance during the colder months in the [First Quarter](xtick).
-		- In the [Second Quarter](xtick), notice the increase in outdoor concerts and events.
-		- Focus on the education sector's planning for the new academic year in the [Third Quarter](xtick).
-		- In the [Fourth Quarter](xtick), examine the banking industry's year-end assessments.
-		- Look at the [First Quarter's](xtick) data to understand the year's economic kickoff.
-		- In the [Second Quarter](xtick), observe how companies prepare for vacation season.
-		- Focus on the retail industry's strategies for Black Friday in the [Fourth Quarter](xtick).
-		- In the [Third Quarter](xtick), examine the hospitality industry's response to travel demands.
-		- Look at the impact of tax season in the [First Quarter.](xtick)
-		- Observe the food and beverage industry's seasonal trends in the [Third Quarter](xtick).
-		- In the [Fourth Quarter](xtick), focus on trends in online shopping and holiday sales.
-		- Look at the healthcare initiatives tackling flu season in the [First Quarter.](xtick)
-		- In the [Second Quarter,](xtick) examine the entertainment industry's summer releases.
-		- Focus on the automotive industry's new models release in the [Third Quarter](xtick).
-		- In the [Fourth Quarter](xtick), examine the charitable giving and non-profit sector trends.
-		- Look at consumer electronics sales spikes in the [First Quarter ](xtick)post-New Year.
-		- In the [Second Quarter](xtick), observe the travel and hospitality sector's preparations.
-		- Focus on the impact of school reopening on various sectors in the [Third Quarter.](xtick)
-		- In the [Fourth Quarter](xtick), look at the financial planning strategies for the upcoming year.
-		- Notice the shift in fashion and apparel trends in the [First Quarter](xtick).
-		- In the [Second Quarter,](xtick) examine the impact of graduation season.
-		- Observe the retail sector's inventory management in the [Third Quarter](xtick).
-		- In the [Fourth Quarter](xtick), focus on the impact of year-end bonuses on consumer spending.
-		- In [Quarter 1](xtick), observe the new strategies businesses implement at the year's start.
-		- Notice the shift in consumer behavior in [Quarter 2](xtick) as summer approaches.
-		- Look at the data trends in [Quarter 3](xtick), showing the height of vacation season.
-		- Focus on [Quarter 4's](xtick) performance, emphasizing holiday shopping and year-end sales.
-		- In [Quarter 1](xtick), examine the financial sector's recovery after the holiday season.
-		- Observe how outdoor activities increase in [Quarter 2](xtick) with warmer weather.
-		- In [Quarter 3](xtick), notice the peak in travel and leisure activities.
-		- Look at [Quarter 4](xtick) for insights into consumer behavior during the holiday season.
-		- In [Quarter 1](xtick), focus on the trends in health and wellness industries.
-		- Notice the start of major sports seasons and their economic impact in [Quarter 2](xtick).
-		- Look at the back-to-school impact on retail in [Quarter 3](xtick).
-		- In [Quarter 4](xtick), observe the preparation for major holidays like Christmas and New Year.
-		- Focus on the technology sector's new product releases in [Quarter 1](xtick).
-		- In [Quarter 2](xtick), examine the real estate market as it enters its busy season.
-		- Observe the shift in fashion and retail trends in [Quarter 3](xtick).
-		- In [Quarter 4](xtick), focus on the retail and e-commerce sectors' performance.
-		- Look at the energy consumption patterns in [Quarter 1](xtick) during colder months.
-		- In [Quarter 2](xtick), observe the rise in travel and vacation planning.
-		- Focus on the changes in consumer spending on education in [Quarter 3](xtick).
-		- In [Quarter 4](xtick), examine the impact of year-end bonuses on spending.
-		- Look at [Quarter 1's](xtick) data for insights into economic trends at the year's start.
-		- In [Quarter 2](xtick), notice the preparations for summer holidays in various sectors.
-		- Observe the agricultural sector's harvest season in [Quarter 3.](xtick)
-		- In [Quarter 4](xtick), focus on the hospitality sector's response to holiday travelers.
-		- Look at the impact of tax season on financial planning in [Quarter 1](xtick).
-		- In [Quarter 2](xtick), examine the entertainment industry's activities.
-		- Focus on the retail industry's strategies for Black Friday in [Quarter 4](xtick).
-		- Look at the healthcare industry's preparation for winter [in Quarter 4](xtick).
-		- In [Quarter 1](xtick), focus on the post-New Year's market strategies.
-		- Notice the impact of spring holidays on the market in [Quarter 2](xtick).
-		- Observe how businesses prepare for the end of the year in [Quarter 4](xtick).
-		- In [Quarter 3](xtick), examine the impact of summer weather on various industries.
-		- Look at the technology sector's developments throughout [Quarter 1](xtick).
-		- In [Quarter 2](xtick), focus on the impact of graduation season on different sectors.
-		- Notice the shifts in consumer behavior during [Quarter 3's](xtick) vacation time.
-		- In [Quarter 4](xtick), examine the trends in holiday travel and tourism.
-		- Look at how industries wrap up the year and plan for the next in [Quarter 4](xtick).
-		- In [Quarter 1](xtick), observe the trends in New Year's resolutions and their impact.
-		- Focus on the transition to summer activities in various sectors in [Quarter 2](xtick).
-		- Highlight the surge[ in July's](xtick) sales, but remember, it might be due to seasonal factors.
-		- Let's highlight the decline [in Q1](xtick) performance, though it's not entirely unexpected given the market conditions.
-		- Interestingly, when we highlight the consumer behavior [in November](xtick), it correlates with major holiday trends.
-		- Highlight the unusual spike [in February,](xtick) and yes, it might be related to the new product launch.
-		- Let's highlight how [Monday's](xtick) data contrasts with [Friday's](xtick), which could be due to different consumer habits.
-		- It's crucial to highlight the year-over-year growth [in 2020](xtick), despite the global economic challenges.
-		- Highlight the steady increase in online engagement [in April](xtick), though it coincides with the national campaign.
-		- When highlighting the [Q3](xtick) results, consider the impact of the new marketing strategy implemented in July.
-		- Let's highlight the fluctuations [in September](xtick), and yes, it's possibly due to back-to-school shopping.
-		- Highlight the revenue growth [in December](xtick), keeping in mind the holiday season's effect.
-		- It's fascinating to highlight the trends between summer and autumn months, despite the unpredictable weather.
-		- Let's highlight the market shift [in 2015](xtick), which marks a key turning point in industry dynamics.
-		- Highlight the uptick [in March](xtick), and it's interesting to note its alignment with the sports season.
-		- When highlighting [Quarter 2](xtick), remember to factor in the new tax regulations that were introduced.
-		- Let's highlight the weekend peaks in consumer spending, though it might be skewed by special events.
-		- Highlight the significant downturn [in August](xtick), which could be a result of various external factors.
-		- It's insightful to highlight the pattern [in June](xtick), especially with the introduction of new technologies.
-		- Let's highlight the impressive performance [in Q4](xtick), considering it's usually a challenging quarter.
-		- Highlight the steady customer acquisition [in May](xtick), and consider the impact of the recent advertising campaign.
-		- When highlighting the data [from 2018](xtick), it's important to note the influence of global economic trends.
-		- Let's highlight the growth in the healthcare sector [in January](xtick), amidst the usual post-holiday slowdown.
-		- Highlight the changes in travel habits [in February](xtick), potentially influenced by the new airline regulations.
-		- It's essential to highlight the impact of the global event [in March](xtick) on the financial markets.
-		- Let's highlight the remarkable recovery [in April](xtick), even though it was a period of economic uncertainty.
-		- Highlight the dip in consumer confidence [in May](xtick), but also consider the political climate at that time.
-		- When highlighting [June's](xtick) performance, take into account the summer sales promotions.
-		- Let's highlight the steady increase [in Q2](xtick), despite the fluctuating currency exchange rates.
-		- Highlight the surprising shift [in July](xtick), which might be attributed to the new government policy.
-		- It's crucial to highlight the [August](xtick) data, especially with the launch of the new product line.
-		- Let's highlight the consumer trend [in September,](xtick) coinciding with various global sports events.
-		- Highlight the [October](xtick) data, but be aware of the potential impact of the festive season starting early.
-		- When highlighting [November](xtick), consider the effect of year-end strategic changes by major companies.
-		- Highlight the fluctuations in the energy market [in Q1](xtick), possibly due to changes in global oil prices.
-		- When highlighting [Q3](xtick), remember the seasonal weather changes and their impact on certain industries.
-		- Let's highlight the market response [in Q4](xtick), amid various end-of-year financial closures.
-		- Highlight the growth in the tech sector [in February](xtick), taking into account the major tech conference.
-		- It's key to highlight the [April](xtick) numbers, especially considering the new export regulations.
-		- Let's highlight the shift in consumer preferences [in Q1](xtick), perhaps influenced by the emerging health trends.
-		- Highlight the significant investments in renewable energy [in Q3](xtick), while noting the governmental incentives involved.
-		- Well, highlight the spike in user engagement [in January](xtick), you know, to see the effect of the new year's resolutions.
-		- You know, let's highlight how the sales figures [in June](xtick) were impacted by, like, the mid-year promotions.
-		- I mean, focus on the significant downturn [in September](xtick), possibly due to back-to-school season, you know.
-		- So, like, highlight the surge in retail around [November](xtick), especially with the holiday season kicking in.
-		- Well, let's take a look at, you know, the [Q2](xtick) results and highlight the growth compared to [Q1](xtick).
-		- You know, it's interesting to highlight how the market reacted [in April](xtick), like, right after the product launch.
-		- I mean, let's highlight the gradual increase in leisure spending [from March to May](range), which is kind of expected, you know.
-		- Well, highlight the downturn in tourism [in August](xtick), you know, it could be due to the end of summer vacations.
-		- Like, let's focus on the [October](xtick) data, you know, to see the pre-holiday shopping trends.
-		- You know, it's crucial to highlight the steady growth [in Q3](xtick), like, as the market stabilizes.
-		- Well, I mean, let's look at the dip [in February](xtick), possibly related to, you know, post-holiday slumps.
-		- Like, highlight the consistent performance across all Mondays [in Q1](xtick), which is quite remarkable, you know.
-		- You know, focus on how the energy consumption [in December](xtick), like, spikes, probably due to the winter season.
-		- Well, let's highlight the [Q4](xtick) data, you know, to analyze the year-end financial strategies.
-		- I mean, take a look at the [July](xtick) numbers, and, like, notice the seasonal peak in certain industries.
-		- Like, let's highlight the increase in online activity [in September](xtick), you know, with the new product releases.
-		- You know, it's interesting to highlight the decline [in April](xtick), possibly due to, well, market uncertainties.
-		- Well, focus on the rise in consumer confidence [in June](xtick), you know, as the economy shows signs of recovery.
-		- I mean, let's highlight the fluctuations in market trends from, like, [January through March](range).
-		- Like, highlight the noticeable shift in travel patterns [in Q2](xtick), you know, with summer holidays approaching.
-		- Highlight in [1800](xtick), [1850](xtick), and [1900](xtick), how industrialization started to take shape.
-		- Look at in [1910](xtick), [1930](xtick), and [1950](xtick), the global economic shifts due to major wars.
-		- Focus on in [1960](xtick), [1980](xtick), and [2000](xtick), the evolution of technology and its societal impact.
-		- Observe [in 1991](xtick), [2001](xtick), and [2011](xtick), significant political changes worldwide.
-		- Highlight [in 1992](xtick), [2002](xtick), and [2012](xtick), the progression of environmental awareness and action.
-		- Examine [in 2003](xtick), [2008](xtick), and [2013](xtick), the fluctuations in the global stock markets.
-		- Consider [in 1995](xtick), [2005](xtick), and [2015](xtick), the advancements in digital technology.
-		- Notice [in 1998](xtick), [2008](xtick), and [2018](xtick), how global crises impacted economic policies.
-		- [In 1999](xtick), [2009](xtick), and [2019](xtick), highlight the shifts in global leadership and governance.
-		- Look at [in 1994](xtick), [2004](xtick), and [2014](xtick), the changes in global health trends and policies.
-		- Focus on [in 2007](xtick), [2012](xtick), and [2017](xtick), the milestones in renewable energy adoption.
-		- Examine [in 2001](xtick), [2006](xtick), and [2011](xtick), the evolution of internet and mobile technology.
-		- Observe [in 2000](xtick), [2010](xtick), and [2020](xtick), the pivotal moments in global climate change initiatives.
-		- Highlight [in 1996](xtick), [2006](xtick), and [2016](xtick), the advancements in medical research and healthcare.
-		- Consider [in 1993](xtick), [2003](xtick), and [2013](xtick), the changes in international trade agreements.
-		- [In 1990](xtick), [2000](xtick), and [2010](xtick), look at the cultural shifts influenced by media and entertainment.
-		- Focus on [in 1985](xtick), [1995](xtick), and [2005](xtick), the evolution of consumer electronics.
-		- Notice [in 1982](xtick), [1992](xtick), and [2002](xtick), significant developments in global telecommunications.
-		- Highlight [in 1978](xtick), [1988](xtick), and [1998](xtick), the major milestones in space exploration.
-		- Examine [in 1973](xtick), [1983](xtick), and [1993](xtick), the impact of oil crises on global economies.
-		- [In 1970](xtick), [1990](xtick), and [2010](xtick), observe the changes in environmental policies and practices.
-		- Look at [in 1965](xtick), [1985](xtick), and [2005](xtick), the progression in civil rights and equality movements.
-		- Highlight [in 1955](xtick), [1975](xtick), and [1995](xtick), the evolution of post-war economic recovery.
-		- Examine [in 1952](xtick), [1972](xtick), and [1992](xtick), the advancements in aerospace technology.
-		- Consider [in 1947](xtick), [1967](xtick), and [1987](xtick), the shifts in global political alliances.
-		- Notice [in 1944](xtick), [1964](xtick), and [1984](xtick), the changes in international monetary systems.
-		- [In 1940](xtick), [1960](xtick), and [1980](xtick), look at the global cultural and social transformations.
-		- Highlight [in 1937](xtick), [1957](xtick), and [1977](xtick), the advancements in automotive technology.
-		- Observe [in 1932](xtick), [1952](xtick), and [1972](xtick), the shifts in global population dynamics.
-		- Focus on [in 1927](xtick), [1947](xtick), and [1967](xtick), the breakthroughs in medical science.
-		- Examine [in 1923](xtick), [1943](xtick), and [1963](xtick), the changes in global education systems.
-		- [In 1918](xtick), [1938](xtick), and [1958](xtick), highlight the aftermath of global conflicts.
-		- Look at [in 1914](xtick), [1934](xtick), and [1954](xtick), the periods of economic depression and recovery.
-		- Notice [in 1910](xtick), [1930](xtick), and [1950](xtick), the evolution of modern architecture and urban planning.
-		- Highlight [in 1905](xtick), [1925](xtick), and [1945](xtick), the significant artistic movements of the times.
-		- Focus on [in 1902](xtick), [1922](xtick), and [1942](xtick), the advancements in transportation infrastructure.
-		- Examine [in 1897](xtick), [1917](xtick), and [1937](xtick), the shifts in global labor movements.
-		- [In 1892](xtick), [1912](xtick), and [1932](xtick), observe the changes in agricultural practices and technologies
+    - Look at here, solar panels used to cost a lot, $[115](yvalue) per watt back [in 1975](xtick).
+    - Notice here, [Japan](xtick) was catching up.
+    - Observe here, [Iran](xtick) was getting a little richer from oil, but still had short lives.
+    - Focus on this part, the [United States](xtick) was in the front.
+    - [In 1950](xtick), roughly 25 percent of children worked.
+    - Look at this trend, [Internet](xtick) is taking off fast.
+    - Focus here, today only [9%](yvalue) remain where the majority used to be.
+    - Look at this, [Shanghai](xtick) has the same wealth and health as [Italy](xtick) today.
+    - Notice the pattern, [South Africa](xtick) follows.
+    - Observe how the extreme poverty rate was [78%](yvalue) worldwide in the [year 1800](xtick).
+    - Highlight this, [in 2022](xtick), 52 of the fortune 500 companies were led by woman.
+    - Focus on this change, today only [0.7 billion](yvalue) are missing electricity.
+    - See this trend, the vast majority lived with [less than](compare) $[2.15](xtick) per day.
+    - Look at the shift, [cell phones](xtick) and[ independent human rights institutions](xtick) is moving too slow.
+    - Observe the trend, [slum dwellings](xtick) is moving the wrong way.
+    - Notice this, [Sweden](xtick), a total of almost [4500](yvalue) people have lost their lives.
+    - Focus on this, the scale for the [y-axis](yaxis) on this chart.
+    - Look at this progression, five years into the race they should be here.
+    - Look at this, The world still looks like the developing and developed.
+    - Notice this, [Capital ADDIS](xtick) ABABA is already down here.
+    - Observe here, But the remote [Somali Religion](xtick) of ETHIOPIA still have high child mortality.
+    - [In 1950](xtick) roughly [25 percent](yvalue) of children worked.
+    - Look at this trend, [Internet](xtick) is taking off fast.
+    - Look at this, [Shanghai](xtick) has the same wealth and health as [Italy](xtick) today.
+    - Notice the pattern, [South Africa](xtick) follows.
+    - Observe how the extreme poverty rate was[ 78%](yvalue) worldwide in the [year 1800](xtick).
+    - Highlight this, [in 2022,](xtick) 52 of the fortune 500 companies were led by woman.
+    - Look at the shift, [cell phones](xtick) and [independent human rights institutions](xtick) is moving too slow.
+    - Observe the trend, [slum dwellings](xtick) is moving the wrong way.
+    - Notice this, [Sweden](xtick), a total of almost [4500](yvalue) people have lost their lives.
+    - Look at this, on a linear scale, it looked like things were pretty bad in [Italy](xtick).
+    - Observe this part, this box shows where all countries.
+    - Notice the location, and that it where you find [Sweden](xtick).
+    - Look back, here we go you can see we go backwards into history.
+    - Compare this, and look here -- compare to the [Philippines](xtick) of today.
+    - Notice the difference, and the red [Toyota](xtick) down there.
+    - Focus on this, the size is the population - big [China](xtick), big [India](xtick) here.
+    - Look at these examples, and these are countries from the [United States](xtick) here.
+    - Observe this, many think that [Afghanistan](xtick) here and [Congo](xtick).
+    - Look at this contrast, here we have [Qatar](xtick) today, and there we have [Bangladesh](xtick) today.
+    - Observe the trend, it's like in [Colombia](xtick) - it's [2.4](yvalue) today.
+    - Focus on these details, these are the quintiles of [Uganda](xtick).
+    - Look at this scale, so the first 100,000 cases take up this much space.
+    - Observe this date, for [Turkey](xtick), March 19.
+    - And [1957](xtick) - the [United States](xtick) had the same economy as [Chile](xtick) has today.
+    - Take a look at this, compare [Japan](xtick) and [South Korea](xtick) earlier 2060.
+    - Observe this change, and the red [Toyota](xtick) down there.
+    - Look at this difference, the size is the population - big China, big India here.
+    - Notice this point, and these are countries from the [United States](xtick) here.
+    - Notice this, these are the so-called "developing" countries.
+    - See this trend, the vast majority lived with [less than](compare) $[2.15](xtick) per day.
+    - Focus here, today only [9%](yvalue) remain where the majority used to be.
+    - Focus on this change, today only [0.7 billion](yvalue) are missing electricity.
+    - Notice this, [over](compare) [30%](yvalue) of the population now has access to advanced technology.
+    - Look at this area, where the percentage of renewable energy usage [exceeds](compare) [50%](yvalue).
+    - Observe here, the revenue has grown to [more than](compare) $[1 billion](yvalue) this quarter.
+    - See this trend, where the average temperature rises [above](compare) [20](yvalue)°C.
+    - Examine this part, where the market share of electric vehicles is [less than](compare) [10%](yvalue).
+    - Look at this, the cost of living has increased by [over](compare) [15%](yvalue) since last year.
+    - Notice this segment, where customer satisfaction scores fall [below](compare) [70%](yvalue).
+    - Focus here, where the number of subscribers [surpasses](compare) [2 million](yvalue).
+    - Observe this change, where the percentage of online sales reaches [40%](yvalue).
+    - See this line, indicating the inflation rate is now [lower than](compare) [2%](yvalue).
+    - Look at this growth, where the investment returns [exceed](compare) [8%](yvalue).
+    - Notice this decrease, where water consumption per capita drops [under](compare) [100](yvalue) liters a day.
+    - Focus on this area, where the literacy rate is [above](compare) [90%](yvalue).
+    - Observe this peak, where daily internet usage [exceeds](compare) [5 ](yvalue)hours per person.
+    - See this drop, where the poverty rate falls [below](compare) 15%.
+    - Examine this point, where the average life expectancy reaches [80](yvalue) years.
+    - Look at this trend, where carbon emissions per capita are [less than](compare) [4 ](yvalue)tonnes annually.
+    - Notice this rise, where the smartphone penetration rate goes [over](compare) [70%](yvalue).
+    - Focus on this milestone, where the number of active users hits [1 billion](yvalue).
+    - Focus on this part, Today there are 400 times cheaper.
+    - Look at this progression, five years into the race they should be here.
+    - Notice this, 100 times 10 is 1000, times 10 is 10000, times 10 is 100000.
+    - Focus here, we see that richest, to the [right](location) here.
+    - These are the so-called "developing" countries.
+    - Look at this scale, so the first 100,000 cases take up this much space.
+    - up here is 100 million, a billion, 10 billion, 100 billion.
+    - Look at this part of the chart, where you can see a notable shift in the trend.
+    - Focus on this area [right](location) here; it's interesting to observe the pattern that emerges.
+    - Notice how in this section, there's a significant change from the previous data.
+    - Observe this segment of the graph, where the lines start to diverge.
+    - Let's concentrate on this portion of the diagram; it highlights a key aspect of our discussion.
+    - Pay attention to this region of the chart, where we see a distinct anomaly.
+    - Direct your eyes to this part; it's crucial for understanding the overall context.
+    - See this part of the graph? It shows a unique development that's worth discussing.
+    - Examine this quadrant here, especially how the trends interact.
+    - Look closely at this span of the graph, where the rate of change accelerates.
+    - Focus on the upper right corner of the chart, where there's a subtle but important trend.
+    - Look towards the lower part of the graph, where we see an unexpected dip.
+    - Notice this stretch here, where the data starts to level off.
+    - Observe this area, particularly where the curve peaks.
+    - Let's examine this side of the chart, where there's a notable fluctuation.
+    - Pay attention to this [central](location) part, where the data points cluster closely.
+    - Direct your gaze to this edge, where the pattern shifts dramatically.
+    - See this section of the graph? It's critical to our understanding of the overall trend.
+    - Examine this band across the chart, where there's a clear break from the norm.
+    - Look closely at this juncture in the graph, where the trajectory changes course.
+    - Focus on the [upper right](location) corner of the chart, where there's a subtle but important trend.
+    - Look towards the [lower part](location) of the graph, where we see an unexpected dip.
+    - Notice this stretch here, where the data starts to level off.
+    - Observe this area, particularly where the curve peaks.
+    - Let's examine this side of the chart, where there's a notable fluctuation.
+    - Pay attention to this [central](location) part, where the data points cluster closely.
+    - Direct your gaze to this edge, where the pattern shifts dramatically.
+    - See this section of the graph? It's critical to our understanding of the overall trend.
+    - Examine this band across the chart, where there's a clear break from the norm.
+    - Look closely at this juncture in the graph, where the trajectory changes course.
+    - Let's highlight the [top left corner](location) to explore the early phase of this trend.
+    - Highlight the entire [right side](location) to see where multiple trends converge.
+    - Focus on the [bottom right area](location) to highlight the details of the recent data points.
+    - Highlight the [upper half](location) of the chart for a comparative overview.
+    - Let's concentrate on the[ lower left](location) quadrant to examine the outlier data.
+    - Highlight the [left side](location) to understand the overall pattern.
+    - Focus on the [central region](location), just below the [top section](location), for a clearer view.
+    - Highlight the[ top right corner](location) to see the peak values.
+    - Emphasize the[ bottom half](location) of the graph for a broader perspective.
+    - Let's take a closer look at the [left middle section](location) to notice the subtle changes.
+    - Highlight the [upper central](location) part to dissect the complex interactions there.
+    - Emphasize how the[ lower right section](location) contrasts with the rest.
+    - Focus on the [right edge](location), especially the [lower area](location), to analyze the decline.
+    - Highlight the entire[ left half ](location)to see the long-term trends.
+    - Concentrate on the very [bottom](location), in the center, to pinpoint the recent shift.
+    - Highlight the [top half](location), focusing on the [right-hand side](location), for a comprehensive view.
+    - Focus on the [left bottom corner](location) to closely observe the starting point.
+    - Emphasize the entire [right portion](location) for a comprehensive overview.
+    - Highlight the [top section](location), near the [left edge](location), to trace the initial growth.
+    - Emphasize the [lower central area](location) in relation to the overall data set.
+    - Highlight the segment on the [upper right](location) to observe the latest peak in the data.
+    - Focus on the [lower central](location) part, where there's a noticeable dip in the values.
+    - Emphasize the [leftmost ](location)column to understand the initial stages of our analysis.
+    - Concentrate on the [top middle area](location) to see where the data starts to diverge.
+    - Highlight the [bottom left corner](location) for a detailed look at the declining trend.
+    - Observe the [right middle section](location), where the data abruptly changes.
+    - Focus on the [central part ](location)of the graph, [right at the heart ](location)of the data.
+    - Highlight the entire [lower section](location) to understand the overall decrease.
+    - Emphasize the [upper left](location) quadrant to see the early success in the data.
+    - Concentrate on the [right bottom area](location), where the trend reverses.
+    - Highlight the [middle left side](location) to track the gradual increase.
+    - Focus on the [top edge](location), spanning the entire length, for a broad overview.
+    - Emphasize the [bottom right](location), where the data culminates in a key point.
+    - Concentrate on the [left central region](location) to dissect the complex pattern.
+    - Highlight the [entire upper section](location) for an overview of the high points.
+    - Focus on the [lower right](location) quadrant, where the pattern starts to stabilize.
+    - Emphasize the [left edge](location), covering top to bottom, to see the overall progression.
+    - Concentrate on the[ middle right side](location) to observe the most volatile section.
+    - Highlight the [bottom middle](location), where the data reaches its lowest point.
+    - Emphasize the [top right corner](location) for an in-depth analysis of the peak phase.
+    - Look carefully at the[ upper right segment ](location)to observe the latest peak in the data.
+    - Look at the [lower central part](location), where there's a noticeable dip in the values.
+    - See here, the [leftmost column](location), to understand the initial stages of our analysis.
+    - Look here at the [top middle area](location) to see where the data starts to diverge.
+    - Look carefully at the [bottom left corner](location) for a detailed look at the declining trend.
+    - See here, the [right middle section](location), where the data abruptly changes.
+    - Look at the [central part](location) of the graph,[ right at the heart](location) of the data.
+    - Look carefully at the entire [lower section](location) to understand the overall decrease.
+    - See here, the [upper left](location) quadrant, to see the early success in the data.
+    - Look at the [right bottom area](location), where the trend reverses.
+    - Look carefully at the [middle left side](location) to track the gradual increase.
+    - Look at the [top edge](location), spanning the entire length, for a broad overview.
+    - See here, the [bottom right](location), where the data culminates in a key point.
+    - Look here at the [left central region](location) to dissect the complex pattern.
+    - Look carefully at the [entire upper section](location) for an overview of the high points.
+    - Look at the [lower right ](location)quadrant, where the pattern starts to stabilize.
+    - See here, the [left edge](location), covering top to bottom, to see the overall progression.
+    - Look here at the [middle right side](location) to observe the most volatile section.
+    - Look carefully at the [bottom middle](location), where the data reaches its lowest point.
+    - See here, the [top right corner](location) for an in-depth analysis of the peak phase.
+    - Look at the [year 1800](xtick), where the income starts at [985](yvalue).
+    - Notice the steady income around [985](yvalue) during the early [1800](xtick)s.
+    - Observe the slight increase in income to [986](yvalue) by [1830](xtick).
+    - See here, the [year 1860](xtick), where income begins to rise, reaching [1023](yvalue).
+    - Focus [on 1870](xtick), a notable year where income jumps to [1099](yvalue).
+    - Look at the decline in income to [894](yvalue) by [1900](xtick).
+    - See the fluctuation around the early [1900](yvalue)s, with income dipping and rising slightly.
+    - Notice the significant drop in income to [535](yvalue) by [1950](xtick).
+    - Focus on the rapid recovery in the [1950](xtick)s, with income rising to [706](yvalue) by [1955](xtick).
+    - Observe the [year 1960](xtick), where income falls back to [889](yvalue).
+    - See the sharp decline in [1961](xtick), with income dropping to [558](yvalue).
+    - Look at the steady increase in income during the [1960](xtick)s, reaching [826](yvalue) by [1966](xtick).
+    - Focus on the year [1970](xtick), where income rises to [848](yvalue).
+    - Notice the steady growth in the [1970](xtick)s, reaching [920](yvalue) by [1975](xtick).
+    - Look at the [year 1984](xtick), where there's a significant jump to [1456](yvalue).
+    - Observe the steady increase through the [1980](xtick)s, reaching [1604](yvalue) by [1986](xtick).
+    - See here, the [year 1990](xtick), with an income of [1516](yvalue).
+    - Focus on the rapid growth in the [1990](xtick)s, reaching [2323](yvalue) by [1994](xtick).
+    - Notice the [year 2000](xtick), marking a significant milestone with an income of [3678](yvalue).
+    - Look at the consistent growth in the 21st century, reaching [13334](yvalue) by [2015](xtick).
+    - Look [at Monday](xtick), where we see a significant increase in activity.
+    - Notice how [on Tuesday](xtick), the numbers start to peak, possibly reaching a high point.
+    - Focus on [Wednesday](xtick), where there's a noticeable dip compared to the beginning of the week.
+    - Observe the trend on [Thursday](xtick), which shows a steady rise in the data.
+    - See here on [Friday](xtick), where the values reach their weekly maximum.
+    - Look at the sharp decline on [Saturday](xtick), indicating a change in the pattern.
+    - Notice how [Sunday's](xtick) data contrasts with the rest of the week, showing a unique trend.
+    - Focus on the weekend, specifically [Saturday](xtick) and [Sunday](xtick), where the trends differ significantly from weekdays.
+    - Observe the midweek trend, especially on [Wednesday](xtick) and [Thursday](xtick), where there's a consistent pattern.
+    - See the fluctuation from [Monday](xtick) to [Wednesday](xtick), highlighting a volatile start to the week.
+    - Look at how the data stabilizes towards the end of the week, particularly on [Friday](xtick).
+    - Notice the gradual increase in values as the week progresses, peaking on [Friday](xtick).
+    - Focus on the drop in numbers on [Sunday](xtick), concluding the week with a significant change.
+    - Observe the consistent rise from [Monday](xtick) through [Wednesday](xtick), indicating a midweek surge.
+    - See here how [Thursday](xtick) acts as a turning point in the week's trend.
+    - Look at the weekend, especially [Sunday](xtick), where the pattern deviates from the rest of the week.
+    - Notice how the peak on [Tuesday](xtick) is followed by a plateau for the rest of the week.
+    - Focus on the gradual decline from [Wednesday](xtick), leading into a quieter weekend.
+    - Observe the spike in data on [Friday](xtick), suggesting increased activity or interest.
+    - See the contrast between the busy weekdays and the more relaxed pace of the weekend.
+    - Compare [Monday's](xtick) data with [Friday's](xtick), noting the significant difference in values.
+    - Look at the contrast between [Tuesday](xtick) and [Thursday](xtick), where the trends show opposite behaviors.
+    - Compare the activity levels on [Wednesday](xtick) and [Sunday](xtick) to understand the weekly pattern.
+    - Observe the differences between [Monday](xtick) and [Saturday](xtick), highlighting the change in trends.
+    - Compare the midweek days, particularly [Wednesday](xtick) and [Thursday](xtick), to see the consistency in data.
+    - Notice the variation between the start of the week ([Monday](xtick)) and the end ([Sunday](xtick)).
+    - Look at how the data on [Tuesday](xtick) compares with that of [Friday](xtick), showing a week's progression.
+    - Compare the weekend days, [Saturday](xtick) and [Sunday](xtick), to understand the shift from weekdays.
+    - Observe the differences in numbers between [Monday](xtick) and [Wednesday](xtick), noting the midweek change.
+    - Compare the trends from [Tuesday](xtick) to [Thursday](xtick), focusing on the midweek dynamics.
+    - Notice how the data on [Friday](xtick) contrasts with that on [Monday](xtick), marking the week's range.
+    - Look at the comparison between [Wednesday](xtick) and [Saturday](xtick), showing a transition to the weekend.
+    - Compare the activity levels from [Thursday](xtick) to [Sunday](xtick), observing the weekend effect.
+    - Observe how [Monday's](xtick) data contrasts with [Thursday's](xtick), indicating a shift in the week.
+    - Compare [Saturday](xtick) with [Sunday](xtick), focusing on the subtle changes in weekend behavior.
+    - Notice the difference in trends from the beginning ([Monday](xtick)) to the middle ([Wednesday](xtick)) of the week.
+    - Look at how the data on [Tuesday](xtick) compares with [Saturday](xtick), showing a weekday versus weekend pattern.
+    - Compare the consistency between [Wednesday](xtick) and [Friday](xtick), understanding the weekly peak.
+    - Observe the transition from [Thursday](xtick) to [Sunday](xtick), highlighting the end-of-week trend.
+    - Notice how [Monday](xtick) and [Tuesday](xtick) contrast with the rest of the week, particularly with [Friday](xtick) and [Saturday](xtick).
+    - [In 1800](xtick), the data shows an initial value, setting the baseline for the century.
+    - [In 1850](xtick), compare how the numbers barely changed from [1800](xtick), indicating slow growth.
+    - [In 1900](xtick), observe the slight decline from the previous decades.
+    - [In 1950](xtick), notice the significant drop, marking a pivotal year in the data.
+    - [In 1970](xtick), compare the gradual increase from two decades earlier.
+    - [In 1990](xtick), observe the upward trend, a key turning point in the data.
+    - [In 2000](xtick), notice how the values significantly differ from a century ago.
+    - [In 2010](xtick), compare the rapid growth with the slow progress of the early [1900](xtick)s.
+    - [In 2015](xtick), observe the latest data point, showing the most recent trend.
+    - On [Monday](xtick), look at the starting point of the week's data.
+    - On [Tuesday](xtick), compare the slight increase from [Monday](xtick), indicating a midweek rise.
+    - On [Wednesday](xtick), observe the peak of midweek activity.
+    - On [Thursday](xtick), notice the consistency with Wednesday's data, showing midweek stability.
+    - On [Friday](xtick), compare the peak with earlier in the week, marking the end of the workweek.
+    - On [Saturday](xtick), observe the transition from workweek to weekend.
+    - On [Sunday](xtick), notice the contrast with the rest of the week, typically showing a different trend.
+    - Notice how [in 2000](xtick), the data shows a significant increase to fifty percent.
+    - Observe the steady rise to [30%](yvalue) in [the mid-1990s](xtick), indicating a gradual improvement.
+    - [In 2010](xtick), focus on the peak where the percentage reaches [seventy-five percent](yvalue).
+    - Look at the decline [in 2005](xtick), where the figure drops to [20%](yvalue).
+    - Compare the data from [199](xtick)0, showing a modest[ ten percent](yvalue), to that of 2000.
+    - [In 2015](xtick), see how the percentage stabilizes at around [60%](yvalue).
+    - Notice the gradual increase from [twenty-five percent](yvalue) [in 1980](xtick) to[ fifty percent ](yvalue)[in 1990](xtick).
+    - Observe the significant jump to [80%](yvalue) in the [early 2000s](xtick).
+    - [In the late 1980s](xtick), focus on the decrease, where the percentage falls to[ fifteen percent](yvalue).
+    - Look at the consistent growth from [5%](yvalue) [in 1970](xtick) to [45%](yvalue) by the end of the decade.
+    - [In 1985](xtick), notice how the data peaks at approximately [forty percent](yvalue).
+    - Observe the gradual decrease [in 1992](xtick), reaching down to [25%](yvalue).
+    - Look at the [year 2000](xtick), where there's a noticeable increase to [sixty-five percent](yvalue).
+    - Compare the steady rise from [10% ](yvalue)[in the early 1970s](xtick) to [50%](yvalue) by [the mid-1980s](xtick).
+    - Notice the slight dip to [55%](yvalue) [in 2008,](xtick) indicating a minor setback.
+    - [In 1995](xtick), see the increment reaching up to [thirty percent](yvalue), a key growth point.
+    - Observe the consistent upward trend to [75%](yvalue) by the [year 2010](xtick).
+    - Compare the relatively stable period [in the 1990s](xtick), fluctuating around [forty-five percent](yvalue).
+    - [In 2014](xtick), look at how the data levels off, maintaining a steady rate of [sixty percent](yvalue).
+    - [In 1978](xtick), observe how the percentage slightly rises to around [15%](yvalue).
+    - Look at the [year 1982](xtick), where the figure reaches nearly [thirty percent](yvalue).
+    - Notice the gradual increase to [35%](yvalue) by [the mid-1980s](xtick), indicating steady growth.
+    - [In 1987](xtick), focus on the jump to approximately [forty-two percent](yvalue).
+    - Observe the significant rise to [50%](yvalue) [in the early 1990s](xtick).
+    - [In 1993](xtick), see the increment to [fifty-five percent](yvalue), marking a new high.
+    - Look at the decrease [in 1996](xtick), where the figure drops to[ 48%](yvalue).
+    - Notice the fluctuation around [sixty percent](yvalue) [in the early 2000s](xtick).
+    - [In 2004](xtick), focus on the increase to nearly [sixty-five percent](yvalue).
+    - Observe the steady growth to [70%](yvalue) [by 2007](xtick).
+    - [In 2009](xtick), notice the dip to [sixty-eight percent](yvalue), a slight decline.
+    - Look at the [year 2011](xtick), where the percentage increases to [seventy-two percent](yvalue).
+    - [In 2013](xtick), focus on the consistent level at around [75%](yvalue).
+    - Notice how [in 2016](xtick), the figure slightly declines to [73%](yvalue).
+    - [In 2018](xtick), see the rise to approximately [seventy-eight percent](yvalue).
+    - Look at the steady increase to [80%](yvalue) by the [year 2020](xtick).
+    - [In 2022](xtick), notice a peak at [eighty-two percent](yvalue).
+    - Observe the leveling off around [eighty percent](yvalue) [in the mid-2020s](xtick).
+    - [In 2025](xtick), focus on the slight increase to [eighty-three percent](yvalue).
+    - See the gradual rise to [85%](yvalue) by the end of the decade [in 2030](xtick).
+    - Look at the trend [from 1980 to 1990](range), where there's a consistent increase in percentage.
+    - Observe the data [from Monday to Wednesday](range), showing a midweek peak in activity.
+    - Focus on the period [from 2000 to 2010](range), where significant growth is evident.
+    - Notice the changes in the data [from January to March](range), indicating seasonal variations.
+    - Examine the steady rise in values [from the first quarter to the third quarter](range) of the year.
+    - Compare the data [from the 1990s to the 2000s](range), observing the evolution over two decades.
+    - Look at the fluctuations [from summer to winter,](range) showing seasonal impacts.
+    - Focus on the years [from 2015 to 2020](range), where a distinct trend emerges.
+    - Notice the differences in trends [from morning to evening](range) hours across the week.
+    - Observe the steady decline in percentage [from 1970 to 1980](range).
+    - Look at the data [from April to June](range), showing a quarterly comparison.
+    - Compare weekdays to weekends, focusing on the range [from Monday to Sunday](range).
+    - Notice the pattern[ from the beginning to the end of each month](range), highlighting monthly trends.
+    - Focus on the decade [from 1980 to 1990](range), observing the key developments in that era.
+    - Look at the shift in trends [from the first half to the second half ](range)of the year.
+    - Compare the data [from the rainy season to the dry season](range), observing weather-related changes.
+    - Notice how the figures evolve [from the early morning hours to the late evening](range).
+    - Focus on the changes [from the start to the end of ](range)the financial year.
+    - Observe the variations in the data [from weekdays to weekends](range), showing different patterns.
+    - Compare the performance [from quarter one to quarter four](range), highlighting annual progress.
+    - Look at the data [from 1960 to 1970](range), showing a gradual increase in economic activity.
+    - Focus on the trend [from January to December,](range) observing the annual cycle in data.
+    - Observe the changes [from morning to night](range), indicating daily behavioral patterns.
+    - Compare the market growth [from the first quarter to the fourth quarter](range) of 2005.
+    - Notice the shift in consumer habits [from summer to winter](range).
+    - Look at the development [from 2005 to 2015](range), marking a decade of technological advancement.
+    - Focus on the environmental data [from spring to autumn](range), revealing seasonal effects.
+    - Observe the consumer trends [from Monday to Friday](range), contrasting with weekend habits.
+    - Examine the temperature changes [from June to August](range), showing peak summer heat.
+    - Compare employment rates [from the beginning to the end of ](range)the 1990s.
+    - Notice the fluctuation in stock prices [from opening to closing](range) hours over a week.
+    - Look at the health data [from 1990 to 2000](range), reflecting changes in public health policies.
+    - Focus on traffic patterns [from 7 AM to 9 AM](range), showing morning rush hour peaks.
+    - Observe the changes in online activity [from weekdays to weekends](range).
+    - Examine the fluctuation in currency value [from January to July](range).
+    - Compare the agricultural output [from planting season to harvest season](range).
+    - Notice the variations in retail sales [from the holiday season to the off-season](range).
+    - Look at the energy consumption data [from winter to summer](range).
+    - Focus on changes in water usage [from the dry season to the rainy season](range).
+    - Observe the trend in tourist arrivals [from the peak season to the off-peak season](range).
+    - Look at [January's](xtick) data, showing a significant start to the year.
+    - Focus on the trend [from March to April](range), marking the transition into spring.
+    - Notice the shift in consumer behavior [in May](xtick), preparing for summer.
+    - Look at the peak in tourism [in June](xtick), indicating the beginning of the holiday season.
+    - Observe [July's ](xtick)high temperatures and their impact on data.
+    - Compare[ August's](xtick) relaxed pace with the busyness of [November](xtick).
+    - Focus on [September](xtick), marking a shift as schools reopen and summer ends.
+    - Notice the increase in retail activity [in October](xtick), leading up to the holiday season.
+    - Look at [November's ](xtick)data, showing preparation for year-end events.
+    - Observe the holiday season's peak [in December](xtick), closing the year with high activity.
+    - Compare [January's](xtick) quiet start with the bustling activity [in December](xtick).
+    - Focus on the gradual warming trend[ from February to May](range).
+    - Notice the transition from spring to summer [between March and June](range).
+    - Look at the decrease in leisure activities [from April to September](range).
+    - Observe the climatic changes reflected in data [from May to August](range).
+    - Compare the vacation periods [in June](xtick) and [July](xtick) with the back-to-school season [in September](xtick).
+    - Focus on [August's](xtick) slowdown before [the September](xtick) rush.
+    - Notice October's pre-holiday surge compared to the post-holiday lull [in January](xtick).
+    - Look at [November](xtick), a key month for commerce leading into the holiday season.
+    - Observe the festive boost [in December](xtick), contrasted with the calm of [February](xtick).
+    - Compare the post-holiday period of [January](xtick) with the mid-year activity [in July](xtick).
+    - Focus on the blossoming of activities [in April](xtick), contrasting with [October's](xtick) wind-down.
+    - Notice the gradual temperature rise [from March through June](range).
+    - Look at the leisure activities peaking [in July](xtick) and declining [by November](xtick).
+    - Observe the back-to-school impact on data [in September](xtick) compared [to June](xtick).
+    - Compare [August's](xtick) vacation season with [December's](xtick) festive period.
+    - Focus on the retail buildup [from October through December](range).
+    - Notice the quieting down of activities [in January](xtick) after [December's](xtick) highs.
+    - Look at the growth in outdoor activities [from February to May](range).
+    - Observe the transition [from the rainy season in June to the dry spell in September](range).
+    - Compare [September's](xtick) data with that [of March](xtick), showing seasonal shifts.
+    - Focus on [October](xtick), a critical month for many industries.
+    - Notice [November's](xtick) preparation for end-of-year events and holidays.
+    - Look at the festive activities and their culmination [in December](xtick).
+    - Observe the New Year's effect on data [in January](xtick) compared to [November's](xtick) prep.
+    - Compare the leisure slowdown [from February to April](range) with the pick-up [in August](xtick).
+    - Focus on [May's](xtick) pivot point [between spring and summer](range).
+    - Notice [June's](xtick) mid-year data trends, a mix of various factors.
+    - Observe the data [between January and February](range), showing winter's impact.
+    - Notice the trend [between February and March](range), as the season transitions.
+    - Look at the changes in consumer behavior [between March and April](range).
+    - Focus on the gradual warming trend [between April and May](range).
+    - Examine the differences in data [between May and June](range), marking the start of summer.
+    - Observe the peak tourist season [between June and July](range).
+    - Notice the high activity in retail and leisure [between July and August](range).
+    - Look at the transition from summer to autumn [between August and September](range).
+    - Focus on the business uptick [between September and October](range).
+    - Examine the market changes [between October and November](range) as holidays approach.
+    - Observe the festive preparations [between November and December](range).
+    - Notice the contrasting consumer behavior [between December and January](range).
+    - Look at the fluctuation in sales [between January and February,](range) post-holiday season.
+    - Focus on the seasonal transition [between February and March](range).
+    - Examine the increase in outdoor activities [between March and April](range).
+    - Observe the data trends in consumer spending [between April and May](range).
+    - Notice the shift in travel patterns [between May and June](range).
+    - Look at the climate impact on data [between June and July](range).
+    - Focus on vacation and travel trends [between July and August](range).
+    - Examine the back-to-school effect [between August and September](range).
+    - Observe the pre-holiday market preparation [between September and October](range).
+    - Notice the rise in retail activity [between October and November](range).
+    - Look at the holiday season peak [between November and December](range).
+    - Focus on the post-New Year's lull [between December and January](range).
+    - Examine the gradual return to normalcy [between January and February](range).
+    - Observe the early signs of spring [between February and March](range).
+    - Notice the bloom of activities [between March and April](range).
+    - Look at the preparation for summer[ between April and May](range).
+    - Focus on the transition to summer vacation [between May and June](range).
+    - Examine the peak of summer activities [between June and July](range).
+    - Observe the leisure and travel trends [between July and August.](range)
+    - Notice the shift from vacation to work mode [between August and September](range).
+    - Look at the ramp-up to the holiday season [between September and October](range).
+    - Focus on the pre-winter preparations [between October and November](range).
+    - Examine consumer spending habits [between November and December](range).
+    - Observe the holiday wind-down [between December and January](range).
+    - Notice the new year's resolutions impact [between January and February](range).
+    - Look at the changes in weather patterns [between February and March](range).
+    - Focus on the spring awakening in consumer behavior [between March and April](range).
+    - Examine the anticipation of summer [between April and May](range).
+    - [In January](xtick), observe how the new year influences market trends.
+    - Notice the significant changes in consumer behavior [in February](xtick).
+    - Look at the data trends [in March](xtick), marking the beginning of spring.
+    - Focus on [April's](xtick) data to see the impact of seasonal changes.
+    - [In May](xtick), examine the rise in outdoor activities and its effects.
+    - Observe the beginning of summer vacation trends [in June](xtick).
+    - [In July](xtick), notice the peak in travel and tourism activities.
+    - Look at [August's](xtick) data to see the continuation of summer trends.
+    - Focus on [September](xtick) as schools reopen and routines change.
+    - [In October](xtick), observe the preparations for the holiday season.
+    - Notice the increase in retail sales [in November](xtick) as holidays approach.
+    - Look at [December's](xtick) data to see the impact of the festive season.
+    - [On January](xtick) weekends, focus on the leisure and travel patterns.
+    - [In February](xtick), observe the consumer behavior around Valentine's Day.
+    - Look at the spring awakening in market activities [in March](xtick).
+    - Focus on the significant shifts in consumer trends [in April](xtick).
+    - [In May](xtick), notice the preparation for summer and its impact on sales.
+    - Observe the graduation season's effect on the market [in June](xtick).
+    - [In July](xtick), focus on the high season for travel and leisure.
+    - Look at the back-to-school shopping trends [in August](xtick).
+    - [In September](xtick), observe the changes as the autumn season begins.
+    - Focus on [October's](xtick) data for insights into pre-holiday consumer behavior.
+    - [In November](xtick), notice the impact of Thanksgiving on the market.
+    - Look at the end-of-year rush [in December](xtick), especially in retail.
+    - [On January](xtick) weekdays, focus on the post-holiday slowdown.
+    - [In February](xtick), observe the winter's impact on various sectors.
+    - Look at [March's](xtick) data to understand the spring season's effect.
+    - Focus on the Easter-related trends [in April](xtick).
+    - [In May](xtick), notice the preparation for summer holidays.
+    - Observe the transition [from spring to summer](range) [in June](xtick).
+    - [In July](xtick), focus on the peak of summer activities.
+    - Look at [August's](xtick) data for insights into late summer behavior.
+    - [In September,](xtick) observe the impact of the academic year starting.
+    - Focus on the Halloween effects [in October's](xtick) market trends.
+    - [In November](xtick), notice the buildup to the festive season.
+    - Look at [December](xtick) for an analysis of year-end consumer trends.
+    - [On January](xtick) mornings, observe the commuting patterns.
+    - [In February](xtick), focus on the seasonal sports and outdoor activities.
+    - Look at the weather-related changes [in March's](xtick) data.
+    - [In April](xtick), observe the shift towards more outdoor and leisure activities.
+    - [In Q1](xtick), observe how the new year sets the tone for market trends.
+    - Notice the shift in consumer behavior [in Q2](xtick) as the weather warms up.
+    - Look at the data trends [in Q3](xtick), highlighting the peak of summer activities.
+    - Focus on [Q4's](xtick) data to see the impact of the holiday season.
+    - [In Q1](xtick), examine the rise in new initiatives and business strategies.
+    - Observe how vacation planning [in Q2](xtick) affects various sectors.
+    - [In Q3](xtick), notice the peak in travel and leisure activities.
+    - Look at [Q4](xtick) for an analysis of year-end sales and holiday shopping.
+    - [In Q1](xtick), focus on the financial sector's performance post-New Year.
+    - Notice the onset of summer and its effects on the market [in Q2](xtick).
+    - Look at the back-to-school impact on the market [in Q3](xtick).
+    - [In Q4](xtick), observe the preparation and celebration of major holidays.
+    - [In Q2](xtick), examine the real estate market as it enters its peak season.
+    - Observe the shift in consumer spending towards outdoor activities [in Q3](xtick).
+    - [In Q4](xtick), focus on the retail and e-commerce sectors during the holiday rush.
+    - Look at the technology sector's innovations launched [in Q1](xtick).
+    - [In Q2](xtick), notice the trends in travel and hospitality industries.
+    - Observe the agricultural sector's harvest and its impact [in Q3](xtick).
+    - [In Q4](xtick), focus on the impact of holiday marketing campaigns.
+    - Look at the energy consumption patterns [in Q1](xtick) during the colder months.
+    - [In Q2](xtick), observe the increase in outdoor and entertainment activities.
+    - Focus on the educational sector's preparation for the new academic year [in Q3](xtick).
+    - [In Q4](xtick), examine the consumer behavior around Black Friday and Cyber Monday.
+    - Look at [Q1's](xtick) data for insights into post-holiday economic trends.
+    - [In Q2](xtick), notice the fashion industry's transition to summer collections.
+    - Observe the travel industry's peak season [in Q3](xtick).
+    - [In Q4](xtick), focus on the non-profit sector and end-of-year donations.
+    - Look at how [Q1](xtick) sets the stage for the year's economic outlook.
+    - [In Q2](xtick), examine the impact of summer vacations on employee productivity.
+    - Observe the automotive industry's performance [in Q3](xtick).
+    - [In Q4](xtick), focus on the banking sector's year-end financial reporting.
+    - Look at the impact of tax season on consumer spending[ in Q1](xtick).
+    - Focus on the retail sector's strategies for the upcoming holiday season [in Q3](xtick).
+    - [In Q4](xtick), examine the impact of winter holidays on the hospitality industry.
+    - Look at the healthcare sector's initiatives to tackle seasonal illnesses [in Q1](xtick).
+    - [In Q2](xtick), notice the entertainment industry's release of blockbuster movies.
+    - Observe the food and beverage industry's seasonal products [in Q3](xtick).
+    - [In Q4](xtick), focus on the trends in online shopping and delivery services.
+    - In the [First Quarter](xtick), observe how businesses strategize for the new year.
+    - Notice the consumer spending patterns in the [Second Quarter](xtick) as summer approaches.
+    - Look at the [Third Quarter](xtick) data, showing the impact of vacation and travel peak.
+    - Focus on the [Fourth Quarter's](xtick) performance, highlighting holiday shopping trends.
+    - In the [First Quarter](xtick), examine the post-holiday recovery in various sectors.
+    - Observe the real estate market's growth in the [Second Quarter](xtick).
+    - In the [Third Quarter](xtick), notice the back-to-school effects on retail and e-commerce.
+    - Look at the [Fourth Quarter](xtick) for insights into year-end financial strategies.
+    - In the [First Quarter](xtick), focus on the healthcare sector's initiatives for the year.
+    - Notice the tourism industry's preparation for the high season in the [Second Quarter](xtick).
+    - Look at the agricultural harvest's impact on the market in the [Third Quarter](xtick).
+    - In the [Fourth Quarter,](xtick) observe the effects of winter holidays on consumer behavior.
+    - Focus on the technology sector's new releases in the [First Quarter](xtick).
+    - In the [Second Quarter](xtick), examine the automotive industry's performance.
+    - Observe the fashion industry's transition to fall collections in the [Third Quarter](xtick).
+    - In the [Fourth Quarter](xtick), focus on the impact of holiday marketing on consumer spending.
+    - Look at the energy sector's performance during the colder months in the [First Quarter](xtick).
+    - In the [Second Quarter](xtick), notice the increase in outdoor concerts and events.
+    - Focus on the education sector's planning for the new academic year in the [Third Quarter](xtick).
+    - In the [Fourth Quarter](xtick), examine the banking industry's year-end assessments.
+    - Look at the [First Quarter's](xtick) data to understand the year's economic kickoff.
+    - In the [Second Quarter](xtick), observe how companies prepare for vacation season.
+    - Focus on the retail industry's strategies for Black Friday in the [Fourth Quarter](xtick).
+    - In the [Third Quarter](xtick), examine the hospitality industry's response to travel demands.
+    - Look at the impact of tax season in the [First Quarter.](xtick)
+    - Observe the food and beverage industry's seasonal trends in the [Third Quarter](xtick).
+    - In the [Fourth Quarter](xtick), focus on trends in online shopping and holiday sales.
+    - Look at the healthcare initiatives tackling flu season in the [First Quarter.](xtick)
+    - In the [Second Quarter,](xtick) examine the entertainment industry's summer releases.
+    - Focus on the automotive industry's new models release in the [Third Quarter](xtick).
+    - In the [Fourth Quarter](xtick), examine the charitable giving and non-profit sector trends.
+    - Look at consumer electronics sales spikes in the [First Quarter ](xtick)post-New Year.
+    - In the [Second Quarter](xtick), observe the travel and hospitality sector's preparations.
+    - Focus on the impact of school reopening on various sectors in the [Third Quarter.](xtick)
+    - In the [Fourth Quarter](xtick), look at the financial planning strategies for the upcoming year.
+    - Notice the shift in fashion and apparel trends in the [First Quarter](xtick).
+    - In the [Second Quarter,](xtick) examine the impact of graduation season.
+    - Observe the retail sector's inventory management in the [Third Quarter](xtick).
+    - In the [Fourth Quarter](xtick), focus on the impact of year-end bonuses on consumer spending.
+    - In [Quarter 1](xtick), observe the new strategies businesses implement at the year's start.
+    - Notice the shift in consumer behavior in [Quarter 2](xtick) as summer approaches.
+    - Look at the data trends in [Quarter 3](xtick), showing the height of vacation season.
+    - Focus on [Quarter 4's](xtick) performance, emphasizing holiday shopping and year-end sales.
+    - In [Quarter 1](xtick), examine the financial sector's recovery after the holiday season.
+    - Observe how outdoor activities increase in [Quarter 2](xtick) with warmer weather.
+    - In [Quarter 3](xtick), notice the peak in travel and leisure activities.
+    - Look at [Quarter 4](xtick) for insights into consumer behavior during the holiday season.
+    - In [Quarter 1](xtick), focus on the trends in health and wellness industries.
+    - Notice the start of major sports seasons and their economic impact in [Quarter 2](xtick).
+    - Look at the back-to-school impact on retail in [Quarter 3](xtick).
+    - In [Quarter 4](xtick), observe the preparation for major holidays like Christmas and New Year.
+    - Focus on the technology sector's new product releases in [Quarter 1](xtick).
+    - In [Quarter 2](xtick), examine the real estate market as it enters its busy season.
+    - Observe the shift in fashion and retail trends in [Quarter 3](xtick).
+    - In [Quarter 4](xtick), focus on the retail and e-commerce sectors' performance.
+    - Look at the energy consumption patterns in [Quarter 1](xtick) during colder months.
+    - In [Quarter 2](xtick), observe the rise in travel and vacation planning.
+    - Focus on the changes in consumer spending on education in [Quarter 3](xtick).
+    - In [Quarter 4](xtick), examine the impact of year-end bonuses on spending.
+    - Look at [Quarter 1's](xtick) data for insights into economic trends at the year's start.
+    - In [Quarter 2](xtick), notice the preparations for summer holidays in various sectors.
+    - Observe the agricultural sector's harvest season in [Quarter 3.](xtick)
+    - In [Quarter 4](xtick), focus on the hospitality sector's response to holiday travelers.
+    - Look at the impact of tax season on financial planning in [Quarter 1](xtick).
+    - In [Quarter 2](xtick), examine the entertainment industry's activities.
+    - Focus on the retail industry's strategies for Black Friday in [Quarter 4](xtick).
+    - Look at the healthcare industry's preparation for winter [in Quarter 4](xtick).
+    - In [Quarter 1](xtick), focus on the post-New Year's market strategies.
+    - Notice the impact of spring holidays on the market in [Quarter 2](xtick).
+    - Observe how businesses prepare for the end of the year in [Quarter 4](xtick).
+    - In [Quarter 3](xtick), examine the impact of summer weather on various industries.
+    - Look at the technology sector's developments throughout [Quarter 1](xtick).
+    - In [Quarter 2](xtick), focus on the impact of graduation season on different sectors.
+    - Notice the shifts in consumer behavior during [Quarter 3's](xtick) vacation time.
+    - In [Quarter 4](xtick), examine the trends in holiday travel and tourism.
+    - Look at how industries wrap up the year and plan for the next in [Quarter 4](xtick).
+    - In [Quarter 1](xtick), observe the trends in New Year's resolutions and their impact.
+    - Focus on the transition to summer activities in various sectors in [Quarter 2](xtick).
+    - Highlight the surge[ in July's](xtick) sales, but remember, it might be due to seasonal factors.
+    - Let's highlight the decline [in Q1](xtick) performance, though it's not entirely unexpected given the market conditions.
+    - Interestingly, when we highlight the consumer behavior [in November](xtick), it correlates with major holiday trends.
+    - Highlight the unusual spike [in February,](xtick) and yes, it might be related to the new product launch.
+    - Let's highlight how [Monday's](xtick) data contrasts with [Friday's](xtick), which could be due to different consumer habits.
+    - It's crucial to highlight the year-over-year growth [in 2020](xtick), despite the global economic challenges.
+    - Highlight the steady increase in online engagement [in April](xtick), though it coincides with the national campaign.
+    - When highlighting the [Q3](xtick) results, consider the impact of the new marketing strategy implemented in July.
+    - Let's highlight the fluctuations [in September](xtick), and yes, it's possibly due to back-to-school shopping.
+    - Highlight the revenue growth [in December](xtick), keeping in mind the holiday season's effect.
+    - It's fascinating to highlight the trends between summer and autumn months, despite the unpredictable weather.
+    - Let's highlight the market shift [in 2015](xtick), which marks a key turning point in industry dynamics.
+    - Highlight the uptick [in March](xtick), and it's interesting to note its alignment with the sports season.
+    - When highlighting [Quarter 2](xtick), remember to factor in the new tax regulations that were introduced.
+    - Let's highlight the weekend peaks in consumer spending, though it might be skewed by special events.
+    - Highlight the significant downturn [in August](xtick), which could be a result of various external factors.
+    - It's insightful to highlight the pattern [in June](xtick), especially with the introduction of new technologies.
+    - Let's highlight the impressive performance [in Q4](xtick), considering it's usually a challenging quarter.
+    - Highlight the steady customer acquisition [in May](xtick), and consider the impact of the recent advertising campaign.
+    - When highlighting the data [from 2018](xtick), it's important to note the influence of global economic trends.
+    - Let's highlight the growth in the healthcare sector [in January](xtick), amidst the usual post-holiday slowdown.
+    - Highlight the changes in travel habits [in February](xtick), potentially influenced by the new airline regulations.
+    - It's essential to highlight the impact of the global event [in March](xtick) on the financial markets.
+    - Let's highlight the remarkable recovery [in April](xtick), even though it was a period of economic uncertainty.
+    - Highlight the dip in consumer confidence [in May](xtick), but also consider the political climate at that time.
+    - When highlighting [June's](xtick) performance, take into account the summer sales promotions.
+    - Let's highlight the steady increase [in Q2](xtick), despite the fluctuating currency exchange rates.
+    - Highlight the surprising shift [in July](xtick), which might be attributed to the new government policy.
+    - It's crucial to highlight the [August](xtick) data, especially with the launch of the new product line.
+    - Let's highlight the consumer trend [in September,](xtick) coinciding with various global sports events.
+    - Highlight the [October](xtick) data, but be aware of the potential impact of the festive season starting early.
+    - When highlighting [November](xtick), consider the effect of year-end strategic changes by major companies.
+    - Highlight the fluctuations in the energy market [in Q1](xtick), possibly due to changes in global oil prices.
+    - When highlighting [Q3](xtick), remember the seasonal weather changes and their impact on certain industries.
+    - Let's highlight the market response [in Q4](xtick), amid various end-of-year financial closures.
+    - Highlight the growth in the tech sector [in February](xtick), taking into account the major tech conference.
+    - It's key to highlight the [April](xtick) numbers, especially considering the new export regulations.
+    - Let's highlight the shift in consumer preferences [in Q1](xtick), perhaps influenced by the emerging health trends.
+    - Highlight the significant investments in renewable energy [in Q3](xtick), while noting the governmental incentives involved.
+    - Well, highlight the spike in user engagement [in January](xtick), you know, to see the effect of the new year's resolutions.
+    - You know, let's highlight how the sales figures [in June](xtick) were impacted by, like, the mid-year promotions.
+    - I mean, focus on the significant downturn [in September](xtick), possibly due to back-to-school season, you know.
+    - So, like, highlight the surge in retail around [November](xtick), especially with the holiday season kicking in.
+    - Well, let's take a look at, you know, the [Q2](xtick) results and highlight the growth compared to [Q1](xtick).
+    - You know, it's interesting to highlight how the market reacted [in April](xtick), like, right after the product launch.
+    - I mean, let's highlight the gradual increase in leisure spending [from March to May](range), which is kind of expected, you know.
+    - Well, highlight the downturn in tourism [in August](xtick), you know, it could be due to the end of summer vacations.
+    - Like, let's focus on the [October](xtick) data, you know, to see the pre-holiday shopping trends.
+    - You know, it's crucial to highlight the steady growth [in Q3](xtick), like, as the market stabilizes.
+    - Well, I mean, let's look at the dip [in February](xtick), possibly related to, you know, post-holiday slumps.
+    - Like, highlight the consistent performance across all Mondays [in Q1](xtick), which is quite remarkable, you know.
+    - You know, focus on how the energy consumption [in December](xtick), like, spikes, probably due to the winter season.
+    - Well, let's highlight the [Q4](xtick) data, you know, to analyze the year-end financial strategies.
+    - I mean, take a look at the [July](xtick) numbers, and, like, notice the seasonal peak in certain industries.
+    - Like, let's highlight the increase in online activity [in September](xtick), you know, with the new product releases.
+    - You know, it's interesting to highlight the decline [in April](xtick), possibly due to, well, market uncertainties.
+    - Well, focus on the rise in consumer confidence [in June](xtick), you know, as the economy shows signs of recovery.
+    - I mean, let's highlight the fluctuations in market trends from, like, [January through March](range).
+    - Like, highlight the noticeable shift in travel patterns [in Q2](xtick), you know, with summer holidays approaching.
+    - Highlight in [1800](xtick), [1850](xtick), and [1900](xtick), how industrialization started to take shape.
+    - Look at in [1910](xtick), [1930](xtick), and [1950](xtick), the global economic shifts due to major wars.
+    - Focus on in [1960](xtick), [1980](xtick), and [2000](xtick), the evolution of technology and its societal impact.
+    - Observe [in 1991](xtick), [2001](xtick), and [2011](xtick), significant political changes worldwide.
+    - Highlight [in 1992](xtick), [2002](xtick), and [2012](xtick), the progression of environmental awareness and action.
+    - Examine [in 2003](xtick), [2008](xtick), and [2013](xtick), the fluctuations in the global stock markets.
+    - Consider [in 1995](xtick), [2005](xtick), and [2015](xtick), the advancements in digital technology.
+    - Notice [in 1998](xtick), [2008](xtick), and [2018](xtick), how global crises impacted economic policies.
+    - [In 1999](xtick), [2009](xtick), and [2019](xtick), highlight the shifts in global leadership and governance.
+    - Look at [in 1994](xtick), [2004](xtick), and [2014](xtick), the changes in global health trends and policies.
+    - Focus on [in 2007](xtick), [2012](xtick), and [2017](xtick), the milestones in renewable energy adoption.
+    - Examine [in 2001](xtick), [2006](xtick), and [2011](xtick), the evolution of internet and mobile technology.
+    - Observe [in 2000](xtick), [2010](xtick), and [2020](xtick), the pivotal moments in global climate change initiatives.
+    - Highlight [in 1996](xtick), [2006](xtick), and [2016](xtick), the advancements in medical research and healthcare.
+    - Consider [in 1993](xtick), [2003](xtick), and [2013](xtick), the changes in international trade agreements.
+    - [In 1990](xtick), [2000](xtick), and [2010](xtick), look at the cultural shifts influenced by media and entertainment.
+    - Focus on [in 1985](xtick), [1995](xtick), and [2005](xtick), the evolution of consumer electronics.
+    - Notice [in 1982](xtick), [1992](xtick), and [2002](xtick), significant developments in global telecommunications.
+    - Highlight [in 1978](xtick), [1988](xtick), and [1998](xtick), the major milestones in space exploration.
+    - Examine [in 1973](xtick), [1983](xtick), and [1993](xtick), the impact of oil crises on global economies.
+    - [In 1970](xtick), [1990](xtick), and [2010](xtick), observe the changes in environmental policies and practices.
+    - Look at [in 1965](xtick), [1985](xtick), and [2005](xtick), the progression in civil rights and equality movements.
+    - Highlight [in 1955](xtick), [1975](xtick), and [1995](xtick), the evolution of post-war economic recovery.
+    - Examine [in 1952](xtick), [1972](xtick), and [1992](xtick), the advancements in aerospace technology.
+    - Consider [in 1947](xtick), [1967](xtick), and [1987](xtick), the shifts in global political alliances.
+    - Notice [in 1944](xtick), [1964](xtick), and [1984](xtick), the changes in international monetary systems.
+    - [In 1940](xtick), [1960](xtick), and [1980](xtick), look at the global cultural and social transformations.
+    - Highlight [in 1937](xtick), [1957](xtick), and [1977](xtick), the advancements in automotive technology.
+    - Observe [in 1932](xtick), [1952](xtick), and [1972](xtick), the shifts in global population dynamics.
+    - Focus on [in 1927](xtick), [1947](xtick), and [1967](xtick), the breakthroughs in medical science.
+    - Examine [in 1923](xtick), [1943](xtick), and [1963](xtick), the changes in global education systems.
+    - [In 1918](xtick), [1938](xtick), and [1958](xtick), highlight the aftermath of global conflicts.
+    - Look at [in 1914](xtick), [1934](xtick), and [1954](xtick), the periods of economic depression and recovery.
+    - Notice [in 1910](xtick), [1930](xtick), and [1950](xtick), the evolution of modern architecture and urban planning.
+    - Highlight [in 1905](xtick), [1925](xtick), and [1945](xtick), the significant artistic movements of the times.
+    - Focus on [in 1902](xtick), [1922](xtick), and [1942](xtick), the advancements in transportation infrastructure.
+    - Examine [in 1897](xtick), [1917](xtick), and [1937](xtick), the shifts in global labor movements.
+    - [In 1892](xtick), [1912](xtick), and [1932](xtick), observe the changes in agricultural practices and technologies.

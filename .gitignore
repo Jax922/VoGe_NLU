@@ -3,3 +3,4 @@
 /.rasa/
 intent_entities.txt
 .DS_Store
+/tensorboard/*

@@ -4,37 +4,37 @@ version: "3.1"
 nlu:
 - intent: zoom_in
   examples: |
-		- Let's zoom in on this section and take a closer look at the emerging pattern.
-		- We'll zoom in here to examine the finer details of this data cluster.
-		- Zoom in on this part to see how the variables interact closely.
-		- Let's zoom in on this period to understand the nuances of the fluctuation.
-		- Focus closer by zooming in on this curve to identify the subtle shifts.
-		- Zoom in on this corner to see the specifics of the regional differences.
-		- Let's take a detailed look by zooming in on the peak period.
-		- Zoom in here to closely examine the sudden drop in these values.
-		- Let's zoom in to understand the reasons behind this anomaly.
-		- Zoom in [on 1990](xtick) to see the specific market changes that year.
-		- Zoom in [on April](xtick) to analyze the spring season's market impact.
-		- Zoom in [on Quarter 2](xtick) to examine the details of the summer holiday effect.
-		- Zoom in[ on Monday](xtick) to study the start-of-week trends in detail.
-		- Zoom in [on 2008](xtick) to understand the financial crisis's immediate effects.
-		- Zoom in [on July](xtick) and [August](xtick) to study the peak vacation season.
-		- Zoom in on [Quarter 4 ](xtick)for a close-up view of holiday shopping patterns.
-		- Zoom in on [Wednesday](xtick) to examine midweek consumer behavior.
-		- Considering the overall trends, let's zoom in on the [year 2005 ](xtick)to understand the spike in technology adoption.
-		- While [April](xtick) often shows a surge in sales, zoom in on this month for a closer look at consumer behavior patterns.
-		- Focusing on annual projections, we should zoom in [on Quarter 3](xtick) to dissect the unexpected rise in sales.
-		- Let's not forget, when we zoom in [on Monday](xtick), we often see a different pattern than the rest of the week.
-		- In the context of global events, zoom in [on 2011](xtick) and observe the market reaction to international news.
-		- When examining summer tourism trends, let's zoom in [on June](xtick) and [July](xtick) and then compare them with the quieter months.
-		- In focusing on quarterly performance, especially zoom in on [Quarter 1](xtick) to see the post-holiday effect.
-		- During our discussion about consumer behavior, let's zoom in [on Thursday ](xtick)to understand the pre-weekend surge.
-		- Let's zoom in on the first quarter of [2018](xtick) and see how the new tax policies affected consumer spending.
-		- Let's zoom in [on April's](xtick) data to examine the sudden spike in online retail sales.
-		- Let's zoom into the week of the product launch and analyze the immediate market reaction.
-		- Let's zoom in on the months following a major policy change to assess its immediate impact.
-		- Let's zoom in on the hours after a significant global event and study its impact on the stock market.
-		- Let's zoom into the weekends in [Q2](xtick) to understand leisure spending habits.
-		- Let's zoom in on the holiday season and dissect the consumer spending behavior.
-		- Let's zoom in on the month of [September](xtick) to see the back-to-school effect on retail.
-		- Let's zoom in on the days leading up to a major sports event and track the related merchandise sales.
+    - Let's zoom in on this section and take a closer look at the emerging pattern.
+    - We'll zoom in here to examine the finer details of this data cluster.
+    - Zoom in on this part to see how the variables interact closely.
+    - Let's zoom in on this period to understand the nuances of the fluctuation.
+    - Focus closer by zooming in on this curve to identify the subtle shifts.
+    - Zoom in on this corner to see the specifics of the regional differences.
+    - Let's take a detailed look by zooming in on the peak period.
+    - Zoom in here to closely examine the sudden drop in these values.
+    - Let's zoom in to understand the reasons behind this anomaly.
+    - Zoom in [on 1990](xtick) to see the specific market changes that year.
+    - Zoom in [on April](xtick) to analyze the spring season's market impact.
+    - Zoom in [on Quarter 2](xtick) to examine the details of the summer holiday effect.
+    - Zoom in[ on Monday](xtick) to study the start-of-week trends in detail.
+    - Zoom in [on 2008](xtick) to understand the financial crisis's immediate effects.
+    - Zoom in [on July](xtick) and [August](xtick) to study the peak vacation season.
+    - Zoom in on [Quarter 4 ](xtick)for a close-up view of holiday shopping patterns.
+    - Zoom in on [Wednesday](xtick) to examine midweek consumer behavior.
+    - Considering the overall trends, let's zoom in on the [year 2005 ](xtick)to understand the spike in technology adoption.
+    - While [April](xtick) often shows a surge in sales, zoom in on this month for a closer look at consumer behavior patterns.
+    - Focusing on annual projections, we should zoom in [on Quarter 3](xtick) to dissect the unexpected rise in sales.
+    - Let's not forget, when we zoom in [on Monday](xtick), we often see a different pattern than the rest of the week.
+    - In the context of global events, zoom in [on 2011](xtick) and observe the market reaction to international news.
+    - When examining summer tourism trends, let's zoom in [on June](xtick) and [July](xtick) and then compare them with the quieter months.
+    - In focusing on quarterly performance, especially zoom in on [Quarter 1](xtick) to see the post-holiday effect.
+    - During our discussion about consumer behavior, let's zoom in [on Thursday ](xtick)to understand the pre-weekend surge.
+    - Let's zoom in on the first quarter of [2018](xtick) and see how the new tax policies affected consumer spending.
+    - Let's zoom in [on April's](xtick) data to examine the sudden spike in online retail sales.
+    - Let's zoom into the week of the product launch and analyze the immediate market reaction.
+    - Let's zoom in on the months following a major policy change to assess its immediate impact.
+    - Let's zoom in on the hours after a significant global event and study its impact on the stock market.
+    - Let's zoom into the weekends in [Q2](xtick) to understand leisure spending habits.
+    - Let's zoom in on the holiday season and dissect the consumer spending behavior.
+    - Let's zoom in on the month of [September](xtick) to see the back-to-school effect on retail.
+    - Let's zoom in on the days leading up to a major sports event and track the related merchandise sales.
