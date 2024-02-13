@@ -1,0 +1,17 @@
+
+version: "3.1"
+
+nlu:
+- intent: slow_down
+  examples: |
+		- And now we slow down to show the impact of the First World War and the Spanish flu epidemic.
+		- Let's reduce our speed here to examine the effects of the technological boom.
+		- Now, we'll take a slower look to understand the economic recession's impact.
+		- Slowing down, let's carefully observe the environmental changes in this era.
+		- We'll decelerate here to focus on the rapid urbanization period.
+		- Let's ease our pace to analyze the cultural shifts of this decade.
+		- At this point, we slow down to scrutinize the healthcare advancements.
+		- Here, we'll gently ease the speed to see the rise of digital technology.
+		- Slowing our timeline to witness the education reforms in detail.
+		- Let's dial down the speed to explore the global political shifts.
+		- Reducing our pace here to highlight the key moments in climate change.

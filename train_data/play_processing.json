@@ -1,0 +1,646 @@
+﻿{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Now I start the world.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Let's start the world and move forward.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "I am starting the world here.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "And now I will show you what has happened.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "And now I will show you what has happened.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Now, I begin a new world.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "At this moment, I start the world.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "From this point forward, I lead the world.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Right at this moment, I am initiating the world.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "I am now setting in motion the world.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "This instant marks the beginning of the world.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "I'm initiating the world now.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Now, I take the reins to begin the world.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "This is it; I'm now kickstarting the world.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Now, the world begins with my command.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "The world's journey starts now, by my hand.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "I'm now activating the world's sequence.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Now marks the onset of the world, by my action.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "I am now the initiator of the world's story.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "The world's era starts now, under my direction.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "I'm now setting the stage for the world's unfolding.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "This instant, I ignite the world's evolution.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "I now breathe life into the world's canvas.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Alright, let's dive in and see what's up.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Come on, let’s move ahead and see what unfolds.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "I’m about to show you something interesting here.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Now, let me reveal what’s been going on behind the scenes.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Check this out, things are starting to get interesting.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Okay, let’s get this show on the road.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Let’s journey forward and uncover what we find.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "I'm starting something cool here, watch this.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Now, I’ll show you what’s been happening.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Look closely, things are beginning to move.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Alright, let's unveil this mystery.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Let's step forward and peek into the unknown.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "I'm about to start something exciting; are you ready?",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "The big reveal is coming up, stay tuned.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Hey, watch this, it’s about to get good.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Okay, time to lead you through something new.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Let’s see what lies ahead for us.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "I'm here to take you on a new journey.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Now, let’s take a look at what's really happening.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "Pay attention, things are about to change.",
+        "intent": "play",
+        "entities": []
+      },
+      {
+        "text": "After the tragedies of the Second World War, we stop a little bit to look at the world in 1948. ",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "And in 1950 half, the world population had escaped extreme poverty.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "As we approach the 1960s, let's pause and reflect on the changes so far.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "Before we move into the 1970s, let's take a moment to observe the current state.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "Pausing at the turn of the 1990s, let's examine the progress made.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "We'll stop for a second here in the year 2000 to see the big picture.\"",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "As we reach 2010, let's freeze the frame and take a closer look.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "Before advancing to 2020, let's momentarily pause and review.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "Holding our timeline at 2025, let's analyze the current trends.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "Let's briefly stop at this point in 2030 to grasp the full context.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "Pausing right before we enter the 2040s, let's observe the patterns so far.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "At this juncture in 2050, let's stop to absorb the milestones achieved.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "We'll momentarily break our journey in 2060 to analyze these outcomes.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "Let's freeze our progress at 2070 to contemplate the trends we see.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "Pausing our timeline at 2080 allows us to delve deeper into these changes.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "Stopping here at the brink of 2090, let’s take a closer look at our data.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "As we hover over the year 2100, let's pause to appreciate the journey.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "Before we step into 2110, let's halt and review the significant shifts.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "Let's take a brief intermission here in 2120 to reflect on the progress.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "Pausing at this pivotal moment in 2130, let's examine the emerging patterns.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "As we reach this milestone in 2140, let’s stop and ponder the implications.",
+        "intent": "Pause",
+        "entities": []
+      },
+      {
+        "text": "Here we go year by year.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Here we go again.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Now we play the world forward.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "After 1990 billions of people followed.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Now, let’s continue our journey through the decades.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "And now, let's move forward to see the unfolding story.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Let’s resume and witness the global changes as they happen.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Moving on, let's watch the world's progress into the next era.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Let's roll forward and see how the trends evolve from here.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Now, let's advance the timeline and observe the developments.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "As we play onwards, watch the transformation of the world.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Continuing our journey, let’s see what the next years bring.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Let's proceed to explore the subsequent phases in our timeline.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Resuming our journey, let's see the unfolding of these events.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Now, let’s fast forward to witness the next chapter in history.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Pressing play, let's dive into the evolving global landscape.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "As we resume, watch how these patterns evolve over time.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Let's move ahead and see the impact of these changes.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "Continuing on, let's see how these dynamics play out.",
+        "intent": "Resume Play",
+        "entities": []
+      },
+      {
+        "text": "And now we slow down to show the impact of the First World War and the Spanish flu epidemic.",
+        "intent": "Slow Down",
+        "entities": []
+      },
+      {
+        "text": "Let's reduce our speed here to examine the effects of the technological boom.",
+        "intent": "Slow Down",
+        "entities": []
+      },
+      {
+        "text": "Now, we'll take a slower look to understand the economic recession's impact.",
+        "intent": "Slow Down",
+        "entities": []
+      },
+      {
+        "text": "Slowing down, let's carefully observe the environmental changes in this era.",
+        "intent": "Slow Down",
+        "entities": []
+      },
+      {
+        "text": "We'll decelerate here to focus on the rapid urbanization period.",
+        "intent": "Slow Down",
+        "entities": []
+      },
+      {
+        "text": "Let's ease our pace to analyze the cultural shifts of this decade.",
+        "intent": "Slow Down",
+        "entities": []
+      },
+      {
+        "text": "At this point, we slow down to scrutinize the healthcare advancements.",
+        "intent": "Slow Down",
+        "entities": []
+      },
+      {
+        "text": "Here, we'll gently ease the speed to see the rise of digital technology.",
+        "intent": "Slow Down",
+        "entities": []
+      },
+      {
+        "text": "Slowing our timeline to witness the education reforms in detail.",
+        "intent": "Slow Down",
+        "entities": []
+      },
+      {
+        "text": "Let's dial down the speed to explore the global political shifts.",
+        "intent": "Slow Down",
+        "entities": []
+      },
+      {
+        "text": "Reducing our pace here to highlight the key moments in climate change.",
+        "intent": "Slow Down",
+        "entities": []
+      },
+      {
+        "text": "Now I speed up.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Let's accelerate through the next few decades to observe broader trends.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Now, we'll pick up the pace to cover more ground on our timeline.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Increasing our speed, we'll quickly pass through several key milestones.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "I'll fast forward now to bring us to more recent developments.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Let's hasten our journey to the present, watching changes as they unfold.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Accelerating, we'll witness the rapid transformations of this era.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Speeding up, let's watch how these events rapidly evolved.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Now, we'll zip through these years to catch up to current times.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Let’s move faster through time to see the larger picture.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Increasing the tempo, let’s see how quickly these changes occurred.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "We're going to race through the next segment to highlight rapid progressions.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Let's quickly skim over these years to focus on the major shifts.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "We’ll now boost our speed to glimpse through these transformative years.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Let's sprint through this era to observe the fast-paced changes.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Now, let's shift gears and move swiftly through the upcoming decades.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "We'll breeze through these events to capture their overall impact.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Fast-forwarding now to highlight the key developments in this period.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Speeding up, let’s watch the timeline unfold at a brisker pace.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Let’s hustle through this part to get to the more recent events.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": "Turning up the speed, we'll quickly navigate through these significant years.",
+        "intent": "Speed Up",
+        "entities": []
+      },
+      {
+        "text": " And if I go back in time, I've added some historical statistics.",
+        "intent": "Rewind",
+        "entities": []
+      },
+      {
+        "text": "I take them backwards here to their independence.",
+        "intent": "Rewind",
+        "entities": []
+      },
+      {
+        "text": "If I take these countries back to the years of their independence,",
+        "intent": "Rewind",
+        "entities": []
+      },
+      {
+        "text": "Let's rewind to earlier years to trace the origins of these trends.",
+        "intent": "Rewind",
+        "entities": []
+      },
+      {
+        "text": "I'll take us back a few decades to set the stage for what comes next.",
+        "intent": "Rewind",
+        "entities": []
+      },
+      {
+        "text": "Rewinding now to see how these events initially unfolded.",
+        "intent": "Rewind",
+        "entities": []
+      },
+      {
+        "text": "Let's travel back in time to gain a deeper understanding of the context.",
+        "intent": "Rewind",
+        "entities": []
+      },
+      {
+        "text": "I'm reversing our timeline to explore the roots of this development.",
+        "intent": "Rewind",
+        "entities": []
+      },
+      {
+        "text": "Let's backtrack to see the foundation of these changes.",
+        "intent": "Rewind",
+        "entities": []
+      },
+      {
+        "text": "Taking a step back in time to where this all began.",
+        "intent": "Rewind",
+        "entities": []
+      },
+      {
+        "text": "Rewinding to provide a clearer picture of the early stages.",
+        "intent": "Rewind",
+        "entities": []
+      },
+      {
+        "text": "Let's revisit the past to see how it shaped the present.",
+        "intent": "Rewind",
+        "entities": []
+      },
+      {
+        "text": "Going back to see the initial phases of this timeline.",
+        "intent": "Rewind",
+        "entities": []
+      }
+    ]
+  }
+}

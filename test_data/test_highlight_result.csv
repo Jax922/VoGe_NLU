@@ -6,22 +6,22 @@ Only the UK and the Netherlands were slightly better off.,highlight
 Sweden topped the medal table at the Winter Olympics and I was born.,highlight
 The United States was in the front.,highlight
 Japan was catching up.,highlight
-Brail was way behind.,deny
+Brail was way behind.,highlight
 "Iran was getting a little richer from oil, but still had short lives.",highlight
 "And the Asian giants, China India Bangladesh and Indonesia, they were still poor and sick down here.",highlight
-There goes Shang hai.,greet
+There goes Shang hai.,highlight
 It has the same wealth and health as Italy today.,highlight
-It is like Pakistan.,show_axis
+It is like Pakistan.,No intent detected
 South Africa follows.,highlight
 There are huge difference at the same time between the best and the worst of countries.,highlight
-Take China,deny
+Take China,highlight
 Blue Africa.,highlight
 Red Asian.,highlight
-Yellow Europe.,affirm
-Green Americans.,mood_great
+Yellow Europe.,No intent detected
+Green Americans.,highlight
 Don't almost zero child death.,show_axis
 From eight to less than two.,highlight
-Woman have had six to seven children.,show_axis
+Woman have had six to seven children.,No intent detected
 The world still looks like the developing and developed.,highlight
 Capital ADDIS ABABA is already down here.,highlight
 But the remote Somali Religion of ETHIOPIA still have high child mortality.,highlight
@@ -32,11 +32,11 @@ In 1950 roughly 25 percent of children worked.,highlight
 "It's like this until 1990, 22 countries",highlight
 "Today, 87 countries have some time in their history, had the woman leading the government or state.",highlight
 "Among the richest 500 in the US companies, there were zero female ceos until 1972.",highlight
-"But in 1994, it became zero again.",show_axis
+"But in 1994, it became zero again.",No intent detected
 "In 2022, 52 of the fortune 500 companies were led by woman.",highlight
 Who have improved access to food and get enough is 70%.,highlight
 "Then there were 19%, have basic food access, but with some insecurity.",highlight
-Only 11% are sometimes missing food.,highlight
+Only 11% are sometimes missing food.,next_page
 The extreme poverty rate was 78% worldwide in the year 1800.,highlight
 "2015, it had reached 11%.",highlight
 The United Nations said this trend should continue down zero by the year 2030.,highlight
@@ -58,7 +58,7 @@ That's why we have 343 deaths during the last week.,highlight
 The second thing to know is that the scale for the y-axis on this chart,highlight
 And the last thing to know about our chart is that the x-axis doesn't plot time by,show_chart
 "Now five years into the race they should be here,",highlight
-"100 times 10 is 1000, times 10 is 10000, times 10 is 100000",highlight
+"100 times 10 is 1000, times 10 is 10000, times 10 is 100000",No intent detected
 "On a linear scale, it looked like things were pretty bad in Italy",highlight
 But Inclusive Employment is even slower.,highlight
 "We see that richest, to the right here.",highlight

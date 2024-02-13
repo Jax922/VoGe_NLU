@@ -1,0 +1,25 @@
+
+version: "3.1"
+
+nlu:
+- intent: resume_play
+  examples: |
+		- Here we go year by year.
+		- Here we go again.
+		- Now we play the world forward.
+		- After 1990 billions of people followed.
+		- Now, let’s continue our journey through the decades.
+		- And now, let's move forward to see the unfolding story.
+		- Let’s resume and witness the global changes as they happen.
+		- Moving on, let's watch the world's progress into the next era.
+		- Let's roll forward and see how the trends evolve from here.
+		- Now, let's advance the timeline and observe the developments.
+		- As we play onwards, watch the transformation of the world.
+		- Continuing our journey, let’s see what the next years bring.
+		- Let's proceed to explore the subsequent phases in our timeline.
+		- Resuming our journey, let's see the unfolding of these events.
+		- Now, let’s fast forward to witness the next chapter in history.
+		- Pressing play, let's dive into the evolving global landscape.
+		- As we resume, watch how these patterns evolve over time.
+		- Let's move ahead and see the impact of these changes.
+		- Continuing on, let's see how these dynamics play out.

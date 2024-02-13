@@ -1,0 +1,35 @@
+
+version: "3.1"
+
+nlu:
+- intent: rewind
+  examples: |
+		-  And if I go back in 1900, I've added some historical statistics.
+		- I take them backwards in year of 2000 to their independence.
+		- If I take these countries back to the years of 1880,
+		- Let's rewind to 1800 to trace the origins of these trends.
+		- I'll take us back to 2005 to set the stage for what comes next.
+		- Rewinding now to see how these events initially unfolded in year of 1999.
+		- Let's travel back in 1945 to gain a deeper understanding of the context.
+		- I'm reversing our timeline to explore the roots of this development in year of 2010.
+		- Let's backtrack to see the foundation of these changes in year of 2008.
+		- Taking a step back in 2001 to where this all began.
+		- Rewinding to provide a clearer picture of the early stages in 1890.
+		- Let's revisit in 1930 to see how it shaped the present.
+		- Going back to 1980 to see the initial phases of this timeline.
+		- I'll take us back to 1990 to see the early stages of this development.
+		- Let's rewind to 2000 to see the initial stages of this trend.
+		- I'll take us back to 2010 to see the early stages of this development.
+		- Let's go back to 2020 to see the initial stages of this trend.
+		- Now, we can jump to 2008 to see how the China change.
+		- we jump to 2010 to see how the China change.
+		- Let's jump to 2015 to see how the China change.
+		- Let's jump to 2018 to see how the China change.
+		- Fast forwarding to 2010, we can see the impact of the financial crisis.
+		- Fast forwarding to 2015, we can see the impact of the financial crisis.
+		- Moving forward to 2018, we can see the impact of the financial crisis.
+		- Moving forward to 2020, we can see the impact of the financial crisis.
+		- Advancing to 2015, we can compare the changes in the global economy.
+		- Advancing to 2018, we can compare the changes in the global economy.
+
+

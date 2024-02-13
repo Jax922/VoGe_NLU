@@ -1,0 +1,27 @@
+
+version: "3.1"
+
+nlu:
+- intent: pause
+  examples: |
+		- After the tragedies of the Second World War, we stop a little bit to look at the world in 1948. 
+		- And in 1950 half, the world population had escaped extreme poverty.
+		- As we approach the 1960s, let's pause and reflect on the changes so far.
+		- Before we move into the 1970s, let's take a moment to observe the current state.
+		- Pausing at the turn of the 1990s, let's examine the progress made.
+		- We'll stop for a second here in the year 2000 to see the big picture."
+		- As we reach 2010, let's freeze the frame and take a closer look.
+		- Before advancing to 2020, let's momentarily pause and review.
+		- Holding our timeline at 2025, let's analyze the current trends.
+		- Let's briefly stop at this point in 2030 to grasp the full context.
+		- Pausing right before we enter the 2040s, let's observe the patterns so far.
+		- At this juncture in 2050, let's stop to absorb the milestones achieved.
+		- We'll momentarily break our journey in 2060 to analyze these outcomes.
+		- Let's freeze our progress at 2070 to contemplate the trends we see.
+		- Pausing our timeline at 2080 allows us to delve deeper into these changes.
+		- Stopping here at the brink of 2090, let’s take a closer look at our data.
+		- As we hover over the year 2100, let's pause to appreciate the journey.
+		- Before we step into 2110, let's halt and review the significant shifts.
+		- Let's take a brief intermission here in 2120 to reflect on the progress.
+		- Pausing at this pivotal moment in 2130, let's examine the emerging patterns.
+		- As we reach this milestone in 2140, let’s stop and ponder the implications.

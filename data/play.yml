@@ -1,0 +1,49 @@
+
+version: "3.1"
+
+nlu:
+- intent: play
+  examples: |
+		- Now I start the world.
+		- Let's start the world and move forward.
+		- I am starting the world here.
+		- And now I will show you what has happened.
+		- And now I will show you what has happened.
+		- Now, I begin a new world.
+		- At this moment, I start the world.
+		- From this point forward, I lead the world.
+		- Right at this moment, I am initiating the world.
+		- I am now setting in motion the world.
+		- This instant marks the beginning of the world.
+		- I'm initiating the world now.
+		- Now, I take the reins to begin the world.
+		- This is it; I'm now kickstarting the world.
+		- Now, the world begins with my command.
+		- The world's journey starts now, by my hand.
+		- I'm now activating the world's sequence.
+		- Now marks the onset of the world, by my action.
+		- I am now the initiator of the world's story.
+		- The world's era starts now, under my direction.
+		- I'm now setting the stage for the world's unfolding.
+		- This instant, I ignite the world's evolution.
+		- I now breathe life into the world's canvas.
+		- Alright, let's dive in and see what's up.
+		- Come on, let’s move ahead and see what unfolds.
+		- I’m about to show you something interesting here.
+		- Now, let me reveal what’s been going on behind the scenes.
+		- Check this out, things are starting to get interesting.
+		- Okay, let’s get this show on the road.
+		- Let’s journey forward and uncover what we find.
+		- I'm starting something cool here, watch this.
+		- Now, I’ll show you what’s been happening.
+		- Look closely, things are beginning to move.
+		- Alright, let's unveil this mystery.
+		- Let's step forward and peek into the unknown.
+		- I'm about to start something exciting; are you ready?
+		- The big reveal is coming up, stay tuned.
+		- Hey, watch this, it’s about to get good.
+		- Okay, time to lead you through something new.
+		- Let’s see what lies ahead for us.
+		- I'm here to take you on a new journey.
+		- Now, let’s take a look at what's really happening.
+		- Pay attention, things are about to change.

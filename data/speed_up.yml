@@ -1,0 +1,27 @@
+
+version: "3.1"
+
+nlu:
+- intent: speed_up
+  examples: |
+		- Now I speed up.
+		- Let's accelerate through the next few decades to observe broader trends.
+		- Now, we'll pick up the pace to cover more ground on our timeline.
+		- Increasing our speed, we'll quickly pass through several key milestones.
+		- I'll fast forward now to bring us to more recent developments.
+		- Let's hasten our journey to the present, watching changes as they unfold.
+		- Accelerating, we'll witness the rapid transformations of this era.
+		- Speeding up, let's watch how these events rapidly evolved.
+		- Now, we'll zip through these years to catch up to current times.
+		- Let’s move faster through time to see the larger picture.
+		- Increasing the tempo, let’s see how quickly these changes occurred.
+		- We're going to race through the next segment to highlight rapid progressions.
+		- Let's quickly skim over these years to focus on the major shifts.
+		- We’ll now boost our speed to glimpse through these transformative years.
+		- Let's sprint through this era to observe the fast-paced changes.
+		- Now, let's shift gears and move swiftly through the upcoming decades.
+		- We'll breeze through these events to capture their overall impact.
+		- Fast-forwarding now to highlight the key developments in this period.
+		- Speeding up, let’s watch the timeline unfold at a brisker pace.
+		- Let’s hustle through this part to get to the more recent events.
+		- Turning up the speed, we'll quickly navigate through these significant years.

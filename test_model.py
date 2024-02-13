@@ -23,6 +23,9 @@ import json
 #     return error_rate
 
 def test_rasa_nlu(file_path, rasa_server_url, output_csv):
+    total = 0
+    acc = 0
+    expected_intent = "highlight"
     with open(file_path, 'r', encoding='utf-8') as file, \
          open(output_csv, 'w', newline='', encoding='utf-8') as out_file:
         
@@ -33,9 +36,17 @@ def test_rasa_nlu(file_path, rasa_server_url, output_csv):
             payload = {"text": line.strip()}
             response = requests.post(rasa_server_url + "/model/parse", json=payload)
             result = response.json()
-
-            predicted_intent = result.get("intent", {}).get("name", "No intent detected")
+            if(result.get("intent", {}).get("confidence") > 0.8):
+                if result.get("intent", {}).get("name") == expected_intent:
+                    acc += 1
+                predicted_intent = result.get("intent", {}).get("name", "No intent detected")
+            else:
+                predicted_intent = "No intent detected"
             csv_writer.writerow([line.strip(), predicted_intent])
+            total += 1
+
+    acc_rate = acc / total
+    print(f"Accuracy: {acc_rate}")
 
 test_file_path = './test_data/highlight_real.txt'  
 rasa_url = 'http://localhost:5005' 
